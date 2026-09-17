@@ -1,0 +1,43 @@
+name: trackr-quant-watcher
+
+on:
+  schedule:
+    # Every 2 hours, 06:00-20:00 UTC (8 runs). Trackr allows 10 /programmes
+    # requests a day, so this leaves 2 spare. GitHub cron is best-effort.
+    - cron: "7 6-20/2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: trackr-watcher
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run watcher
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+          SEASON: "2027"
+        run: python3 watcher.py
+
+      - name: Commit state
+        run: |
+          git config user.name "trackr-watcher"
+          git config user.email "actions@github.com"
+          git add state.json
+          git diff --staged --quiet || git commit -m "state: $(date -u +%FT%TZ)"
+          git pull --rebase --autostash || true
+          git push

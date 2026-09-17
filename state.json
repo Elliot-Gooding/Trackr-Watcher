@@ -1,0 +1,3061 @@
+{
+  "programmes": {
+    "0072a2odck": {
+      "closingDate": "2026-09-13T00:00:00.000Z",
+      "company": "Inizio Ignite",
+      "name": "Summer Associate Consultant \u2013 2029 Internship Program",
+      "openingDate": "2026-08-24T00:00:00.000Z"
+    },
+    "0ji574xrj5": {
+      "closingDate": "2026-09-30T00:00:00.000Z",
+      "company": "Man Group",
+      "name": "2027 Quant Researcher Summer Internship",
+      "openingDate": "2026-09-04T00:00:00.000Z"
+    },
+    "0raizvznqa": {
+      "closingDate": null,
+      "company": "J.P. Morgan",
+      "name": "2027 Commercial & Investment Banking - Sales - Summer Internship",
+      "openingDate": "2026-08-31T00:00:00.000Z"
+    },
+    "0y83pljr03": {
+      "closingDate": null,
+      "company": "J.P. Morgan",
+      "name": "2027 Commercial & Investment Banking - Global Markets - Summer Internship",
+      "openingDate": "2026-08-31T00:00:00.000Z"
+    },
+    "1d1kwl3s80": {
+      "closingDate": null,
+      "company": "J.P. Morgan",
+      "name": "2027 - Risk - Summer Internship",
+      "openingDate": "2026-08-31T00:00:00.000Z"
+    },
+    "1iww3xckif": {
+      "closingDate": null,
+      "company": "Evercore",
+      "name": "Private Funds Group Summer Internship (2027)",
+      "openingDate": "2026-09-01T00:00:00.000Z"
+    },
+    "1oy9mpqcc4": {
+      "closingDate": null,
+      "company": "Evercore",
+      "name": "Restructuring Summer Internship (2027)",
+      "openingDate": "2026-09-01T00:00:00.000Z"
+    },
+    "1z0xxvhzcv": {
+      "closingDate": "2026-10-25T00:00:00.000Z",
+      "company": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale",
+      "name": "Global Banking and Advisory 2027 Summer Internship Programme",
+      "openingDate": "2026-09-07T00:00:00.000Z"
+    },
+    "225glw758z": {
+      "closingDate": "2026-11-15T00:00:00.000Z",
+      "company": "Jefferies",
+      "name": "2027 Private Fund Advisory Summer Internship Programme",
+      "openingDate": "2026-08-31T00:00:00.000Z"
+    },
+    "25b9jhq0bx": {
+      "closingDate": "2026-11-15T00:00:00.000Z",
+      "company": "Fidelity International",
+      "name": "Sustainable Investing Summer Internship 2027",
+      "openingDate": "2026-09-15T00:00:00.000Z"
+    },
+    "2z2l0yyhj5": {
+      "closingDate": "2026-10-16T00:00:00.000Z",
+      "company": "Blackstone",
+      "name": "2027 Spring Insight Programme",
+      "openingDate": "2026-09-17T00:00:00.000Z"
+    },
+    "36jiyb6sx2": {
+      "closingDate": null,
+      "company": "AmplifyME",
+      "name": "Investing Simulator Challenge 2026",
+      "openingDate": "2026-09-10T00:00:00.000Z"
+    },
+    "3a3cfq50td": {
+      "closingDate": "2026-11-15T00:00:00.000Z",
+      "company": "Jefferies",
+      "name": "2027 Equities Sales and Trading Summer Internship Programme",
+      "openingDate": "2026-08-31T00:00:00.000Z"
+    },
+    "3dspc3tigg": {
+      "closingDate": null,
+      "company": "Nomura",
+      "name": "2027 - Summer Internship (Securitised Products and Private Credit Trading / Structuring)",
+      "openingDate": "2026-08-31T00:00:00.000Z"
+    },
+    "3gdseub1z9": {
+      "closingDate": null,
+      "company": "Graham Capital Management",
+      "name": "2027 Summer Internship",
+      "openingDate": "2026-09-15T00:00:00.000Z"
+    },
+    "3u0g1uef0a": {
+      "closingDate": null,
+      "company": "J.P. Morgan",
+      "name": "2027 - Corporate Functions - Summer Internship",
+      "openingDate": "2026-08-31T00:00:00.000Z"
+    },
+    "3yg3c1i7c7": {
+      "closingDate": "2026-11-15T00:00:00.000Z",
+      "company": "Jefferies",
+      "name": "2027 Private Credit Investment Summer Internship Programme",
+      "openingDate": "2026-08-31T00:00:00.000Z"
+    },
+    "4b5c8ysadv": {
+      "closingDate": null,
+      "company": "Macquarie Group",
+      "name": "2027 Macquarie Capital Summer Internship Programme",
+      "openingDate": "2026-09-01T00:00:00.000Z"
+    },
+    "4bw23kdkoy": {
+      "closingDate": null,
+      "company": "Deutsche Bank",
+      "name": "Investment Banking Internship Programme 2027",
+      "openingDate": "2026-09-07T00:00:00.000Z"
+    },
+    "4fmrbowtr2": {
+      "closingDate": "2026-10-05T00:00:00.000Z",
+      "company": "Mizuho",
+      "name": "2027 Global Markets Summer Internship",
+      "openingDate": "2026-09-07T00:00:00.000Z"
+    },
+    "4kmwvrkm26": {
+      "closingDate": "2026-10-05T00:00:00.000Z",
+      "company": "Mizuho",
+      "name": "2027 Banking Summer Internship",
+      "openingDate": "2026-09-07T00:00:00.000Z"
+    },
+    "5abmj8esbp": {
+      "closingDate": "2026-11-29T00:00:00.000Z",
+      "company": "MUFG",
+      "name": "2027 Summer Analyst Programme: Structured Trading Group",
+      "openingDate": "2026-09-09T00:00:00.000Z"
+    },
+    "5oh75hwrn3": {
+      "closingDate": "2026-11-15T00:00:00.000Z",
+      "company": "Fidelity International",
+      "name": "Fixed Income Summer Internship 2027",
+      "openingDate": "2026-09-15T00:00:00.000Z"
+    },
+    "661ba2dbyd": {
+      "closingDate": null,
+      "company": "Morgan Stanley",
+      "name": "2027 Internal Audit Summer Analyst Programme",
+      "openingDate": "2026-09-07T00:00:00.000Z"
+    },
+    "70ebkw3q2x": {
+      "closingDate": null,
+      "company": "Deutsche Bank",
+      "name": "Investment Banking (UK Coverage) Internship Programme",
+      "openingDate": "2026-09-07T00:00:00.000Z"
+    },
+    "7hcdw0f751": {
+      "closingDate": null,
+      "company": "Nomura",
+      "name": "2027 - Global Markets (Sales, Trading, Structuring & Research) - Summer Internship",
+      "openingDate": "2026-08-31T00:00:00.000Z"
+    },
+    "8243194by3": {
+      "closingDate": null,
+      "company": "Evercore",
+      "name": "Private Capital Advisory \u2013 GP Advisory Summer Internship",
+      "openingDate": "2026-09-01T00:00:00.000Z"
+    },
+    "8auwmlwada": {
+      "closingDate": null,
+      "company": "J.P. Morgan",
+      "name": " 2027 Commercial & Investment Banking - Research - Summer Internship",
+      "openingDate": "2026-08-31T00:00:00.000Z"
+    },
+    "8l1zjq8arp": {
+      "closingDate": "2026-11-15T00:00:00.000Z",
+      "company": "Fidelity International",
+      "name": "Equity Research Summer Internship 2027",
+      "openingDate": "2026-09-15T00:00:00.000Z"
+    },
+    "8q64c5c67r": {
+      "closingDate": "2026-09-30T00:00:00.000Z",
+      "company": "LionTree",
+      "name": "2027 Summer Internship Programme",
+      "openingDate": "2026-08-17T00:00:00.000Z"
+    },
+    "8uesjvl1d6": {
+      "closingDate": null,
+      "company": "BRG",
+      "name": "Intern - Economics, Disputes and Investigations",
+      "openingDate": "2026-09-14T00:00:00.000Z"
+    },
+    "9yynd1mxmk": {
+      "closingDate": "2026-11-15T00:00:00.000Z",
+      "company": "Jefferies",
+      "name": "2027 Equity Research Summer Internship Programme",
+      "openingDate": "2026-08-31T00:00:00.000Z"
+    },
+    "a1g6tsa2mi": {
+      "closingDate": null,
+      "company": "Northern Trust",
+      "name": "Summer Internship 2027",
+      "openingDate": null
+    },
+    "a4f0hws2s1": {
+      "closingDate": null,
+      "company": "AXA",
+      "name": "2027 Summer Internship",
+      "openingDate": null
+    },
+    "a69wnq98uh": {
+      "closingDate": "2026-09-27T00:00:00.000Z",
+      "company": "Redburn",
+      "name": "2027 Redburn Summer Intern Programme",
+      "openingDate": "2026-08-19T00:00:00.000Z"
+    },
+    "a708ak3kpa": {
+      "closingDate": null,
+      "company": "PwC",
+      "name": "Summer Internship 2027",
+      "openingDate": null
+    },
+    "abmnsbyf12": {
+      "closingDate": null,
+      "company": "National Bank of Canada",
+      "name": "Intern",
+      "openingDate": null
+    },
+    "acjoeaxfvp": {
+      "closingDate": null,
+      "company": "Neuberger Berman",
+      "name": "Summer Intern 2027",
+      "openingDate": null
+    },
+    "acrh43hawb": {
+      "closingDate": null,
+      "company": "BNP Paribas",
+      "name": "2027 Summer Internship Programme",
+      "openingDate": "2026-08-18T00:00:00.000Z"
+    },
+    "ad3lztlpb6": {
+      "closingDate": null,
+      "company": "Maven Securities",
+      "name": "Trading Spring Week 2027",
+      "openingDate": null
+    },
+    "ae3m3m8c82": {
+      "closingDate": null,
+      "company": "CD&R",
+      "name": "Private Equity Spring Insight 2027",
+      "openingDate": null
+    },
+    "aiab45uqv1": {
+      "closingDate": null,
+      "company": "Schonfeld",
+      "name": "2027 Summer Intern",
+      "openingDate": null
+    },
+    "akn7aqzxhe": {
+      "closingDate": null,
+      "company": "Quantbot Technologies",
+      "name": "Quantitative Researcher Internship - 2027",
+      "openingDate": "2026-08-12T00:00:00.000Z"
+    },
+    "aou4ksbfee": {
+      "closingDate": null,
+      "company": "Pension Insurance Corporation",
+      "name": "Summer Internship",
+      "openingDate": null
+    },
+    "apyw38vww4": {
+      "closingDate": null,
+      "company": "Tower Research Capital",
+      "name": "Quantitative Trader/Researcher Summer Internship 2027",
+      "openingDate": "2026-09-01T00:00:00.000Z"
+    },
+    "arqa3vd0rc": {
+      "closingDate": null,
+      "company": "TP ICAP",
+      "name": "Summer Internship 2027",
+      "openingDate": null
+    },
+    "asqixbxhe9": {
+      "closingDate": null,
+      "company": "EQ",
+      "name": "Accounting Internship",
+      "openingDate": null
+    },
+    "at7ppeflvq": {
+      "closingDate": null,
+      "company": "Macquarie Group",
+      "name": "2027 Asset Management Summer Internship Programme",
+      "openingDate": "2026-09-01T00:00:00.000Z"
+    },
+    "atfsqxsv9d": {
+      "closingDate": null,
+      "company": "Cygnum Capital",
+      "name": "2027 Summer Internship Programme",
+      "openingDate": null
+    },
+    "auc03bktrg": {
+      "closingDate": null,
+      "company": "Piper Sandler",
+      "name": "2027 Summer Analyst Programme",
+      "openingDate": null
+    },
+    "aug0u8w749": {
+      "closingDate": null,
+      "company": "Insurance Advisory Partners",
+      "name": "Investment Banking Intern",
+      "openingDate": null
+    },
+    "avxxt2c2c1": {
+      "closingDate": null,
+      "company": "J.P. Morgan",
+      "name": "2027 Asset Management Investments- Summer Internship",
+      "openingDate": "2026-08-31T00:00:00.000Z"
+    },
+    "axuzqzfnhg": {
+      "closingDate": null,
+      "company": "Verition Fund Management",
+      "name": "2027 Summer Internship",
+      "openingDate": null
+    },
+    "azkakpq5av": {
+      "closingDate": null,
+      "company": "Nuveen",
+      "name": "Summer Intern 2027",
+      "openingDate": null
+    },
+    "azo61hhi68": {
+      "closingDate": null,
+      "company": "Liquidnet",
+      "name": "Summer Internship 2027",
+      "openingDate": null
+    },
+    "b5h2vlmj7b": {
+      "closingDate": null,
+      "company": "Optiver",
+      "name": "Quantitative Trading Internship (2027 Start)",
+      "openingDate": "2026-08-20T00:00:00.000Z"
+    },
+    "b5izv0o14h": {
+      "closingDate": null,
+      "company": "M&G",
+      "name": "Summer Internship",
+      "openingDate": null
+    },
+    "b6p937hxf9": {
+      "closingDate": null,
+      "company": "PGIM",
+      "name": "Investment Analyst Intern",
+      "openingDate": null
+    },
+    "b9tvd29igh": {
+      "closingDate": null,
+      "company": "Caxton Associates",
+      "name": "2027 Summer Internship Programme",
+      "openingDate": null
+    },
+    "bb3ycc8voa": {
+      "closingDate": null,
+      "company": "Macro Hive",
+      "name": "2027 Summer Internship \u2013 Sales & Trading",
+      "openingDate": null
+    },
+    "bd2myaekvy": {
+      "closingDate": null,
+      "company": "Tradeweb",
+      "name": "2027 Summer Internship Program",
+      "openingDate": null
+    },
+    "beiy6vsp8q": {
+      "closingDate": null,
+      "company": "Apple",
+      "name": "Finance Development Program (FDP) - Internship - Summer 2027",
+      "openingDate": null
+    },
+    "bhspkdoik3": {
+      "closingDate": null,
+      "company": "Platinum Peak Holdings Ltd",
+      "name": "Private Equity (M&A) Intern",
+      "openingDate": null
+    },
+    "bhtxmrk0ly": {
+      "closingDate": null,
+      "company": "Canada Life",
+      "name": "Actuarial Intern",
+      "openingDate": null
+    },
+    "bs8nsgxgt2": {
+      "closingDate": null,
+      "company": "AIG",
+      "name": "2027 Summer Internship",
+      "openingDate": null
+    },
+    "bsebgwj6le": {
+      "closingDate": null,
+      "company": "Hamilton Lane",
+      "name": "Summer Intern, Portfolio Management Group",
+      "openingDate": null
+    },
+    "bsnvfv9qsh": {
+      "closingDate": null,
+      "company": "KPMG",
+      "name": "Insight Penultimate Year Talent",
+      "openingDate": null
+    },
+    "bxt4jvkxmz": {
+      "closingDate": null,
+      "company": "RBC Capital Markets",
+      "name": "2027 Summer Analyst - Real Estate Capital Partners",
+      "openingDate": "2026-09-11T00:00:00.000Z"
+    },
+    "byxw8zga6c": {
+      "closingDate": null,
+      "company": "EY",
+      "name": "2027 Summer Internship",
+      "openingDate": null
+    },
+    "c0sc7rbux1": {
+      "closingDate": null,
+      "company": "RBC Capital Markets",
+      "name": "2027 Summer Analyst - Equity Research",
+      "openingDate": "2026-09-11T00:00:00.000Z"
+    },
+    "c0wmvj8qon": {
+      "closingDate": null,
+      "company": "Rede Partners",
+      "name": "Spring into Rede Insight Programme 2027",
+      "openingDate": null
+    },
+    "c10zc6rp2t": {
+      "closingDate": null,
+      "company": "bp",
+      "name": "Summer Internship - Trading & Shipping",
+      "openingDate": null
+    },
+    "c2zevtekgi": {
+      "closingDate": null,
+      "company": "Citco",
+      "name": "12 Week Fund Services Internship",
+      "openingDate": null
+    },
+    "c4gjxz3nn4": {
+      "closingDate": null,
+      "company": "Point72",
+      "name": "2028 Academy Investment Summer Internship",
+      "openingDate": null
+    },
+    "c63hc5wd77": {
+      "closingDate": null,
+      "company": "Compound Equity Group",
+      "name": "Junior Investor (Summer 2027 Internship)",
+      "openingDate": null
+    },
+    "c6b4ad5916": {
+      "closingDate": null,
+      "company": "Nomura",
+      "name": "2027 - Global Markets Digital Office - Summer Internship (Quants & Strats)",
+      "openingDate": "2026-08-31T00:00:00.000Z"
+    },
+    "c7g4fk5rp9": {
+      "closingDate": null,
+      "company": "Dare",
+      "name": "Spring Insight Week 2027",
+      "openingDate": null
+    },
+    "cbwmr2rodz": {
+      "closingDate": null,
+      "company": "Genesis Quant Capital",
+      "name": "Junior Quant Researcher",
+      "openingDate": null
+    },
+    "cc39qt49iu": {
+      "closingDate": null,
+      "company": "Future Planet Capital",
+      "name": "Venture Capital & Investment Micro-Internship - March 2027",
+      "openingDate": null
+    },
+    "cdg1tg94ta": {
+      "closingDate": null,
+      "company": "EY-Parthenon",
+      "name": "Summer Internship 2027",
+      "openingDate": null
+    },
+    "chbmtdbpl0": {
+      "closingDate": null,
+      "company": "Skagen Capital",
+      "name": "Investment banking intern",
+      "openingDate": null
+    },
+    "ciol52e7i6": {
+      "closingDate": "2026-11-01T00:00:00.000Z",
+      "company": "Capital Group",
+      "name": "CAP Summer Associate - Europe (2027)",
+      "openingDate": "2026-09-01T00:00:00.000Z"
+    },
+    "ckpsh50qw1": {
+      "closingDate": null,
+      "company": "Superbet",
+      "name": "Sports Quantitative Analyst Intern",
+      "openingDate": null
+    },
+    "clz09d8adr": {
+      "closingDate": null,
+      "company": "Simon-Kucher",
+      "name": "Generalist Consulting Summer Internship",
+      "openingDate": null
+    },
+    "cm5khbvj1f": {
+      "closingDate": null,
+      "company": "Bloomberg",
+      "name": "2027 Analytics & Sales Summer Internship",
+      "openingDate": null
+    },
+    "ctm0in068j": {
+      "closingDate": "2026-10-02T00:00:00.000Z",
+      "company": "Temasek",
+      "name": "2027 Summer Internship Programme",
+      "openingDate": "2026-09-09T00:00:00.000Z"
+    },
+    "cui3ntc1zz": {
+      "closingDate": null,
+      "company": "Deutsche Bank",
+      "name": "Fixed Income and Currencies Internship Programme 2027",
+      "openingDate": "2026-09-07T00:00:00.000Z"
+    },
+    "cvvyadayzh": {
+      "closingDate": null,
+      "company": "Nomura",
+      "name": "2027 - Investment Banking - Coverage & Advisory - Summer Internship",
+      "openingDate": "2026-08-31T00:00:00.000Z"
+    },
+    "cxamkqkpx8": {
+      "closingDate": null,
+      "company": "Centerview Partners",
+      "name": "2027 Summer Internship Programme",
+      "openingDate": "2026-08-12T00:00:00.000Z"
+    },
+    "cy7vjr24s4": {
+      "closingDate": null,
+      "company": "Grant Thornton",
+      "name": "Internship Programme (Summer 2027)",
+      "openingDate": null
+    },
+    "d54muvlsjk": {
+      "closingDate": null,
+      "company": "BNY Mellon",
+      "name": "2027 Summer Internship Program - Non-Investments",
+      "openingDate": "2026-08-24T00:00:00.000Z"
+    },
+    "da9vcxm822": {
+      "closingDate": null,
+      "company": "Peel Hunt",
+      "name": "Investment Banking Internship 2027",
+      "openingDate": null
+    },
+    "dcglidzkau": {
+      "closingDate": null,
+      "company": "Turner & Townsend",
+      "name": "Summer Placement 2027",
+      "openingDate": null
+    },
+    "dcnv21q1ax": {
+      "closingDate": null,
+      "company": "ABN AMRO",
+      "name": "Summer Intern - Corporate DCM",
+      "openingDate": null
+    },
+    "dfevld4zx3": {
+      "closingDate": null,
+      "company": "NERA",
+      "name": "Summer Internship 2027",
+      "openingDate": "2026-09-01T00:00:00.000Z"
+    },
+    "dlmdvdl1hi": {
+      "closingDate": null,
+      "company": "RBC Capital Markets",
+      "name": "2027 Summer Analyst - Finance",
+      "openingDate": "2026-09-11T00:00:00.000Z"
+    },
+    "dn9h185llq": {
+      "closingDate": null,
+      "company": "Aquatic Capital Management",
+      "name": "Quantitative Researcher, Intern (Summer 2028)",
+      "openingDate": null
+    },
+    "don716l187": {
+      "closingDate": null,
+      "company": "FactSet",
+      "name": "Internship (Summer 2027)",
+      "openingDate": null
+    },
+    "dqhzub5g4a": {
+      "closingDate": null,
+      "company": "Harris Williams",
+      "name": "2027 Summer Analyst",
+      "openingDate": "2026-09-03T00:00:00.000Z"
+    },
+    "dt3wtfqpqg": {
+      "closingDate": null,
+      "company": "Tencent",
+      "name": "Business Development Intern",
+      "openingDate": null
+    },
+    "du29tzlzou": {
+      "closingDate": "2026-10-30T00:00:00.000Z",
+      "company": "London Stock Exchange Group",
+      "name": "Summer Internship (2027)",
+      "openingDate": "2026-09-14T00:00:00.000Z"
+    },
+    "dubw6kbl8c": {
+      "closingDate": null,
+      "company": "Fide Partners",
+      "name": "Associate Consultant Intern",
+      "openingDate": null
+    },
+    "dueuynil40": {
+      "closingDate": "2026-10-31T00:00:00.000Z",
+      "company": "Wells Fargo",
+      "name": "EMEA Banking Summer Analyst",
+      "openingDate": "2026-08-26T00:00:00.000Z"
+    },
+    "dyyl9ib68p": {
+      "closingDate": null,
+      "company": "Korn Ferry",
+      "name": "UK Summer Internship",
+      "openingDate": null
+    },
+    "dz866vnh0h": {
+      "closingDate": null,
+      "company": "Qube RT",
+      "name": "2027 - Internship, Quantitative Research",
+      "openingDate": "2026-09-08T00:00:00.000Z"
+    },
+    "dzr243u4q0": {
+      "closingDate": null,
+      "company": "Houlihan Lokey",
+      "name": "2027 Summer Financial Analyst \u2013 Capital Solutions",
+      "openingDate": "2026-09-07T00:00:00.000Z"
+    },
+    "e16v4wdamh": {
+      "closingDate": null,
+      "company": "Government Economic Service",
+      "name": " Summer Placement Scheme",
+      "openingDate": null
+    },
+    "e18aos5dt7": {
+      "closingDate": null,
+      "company": "Global Gate",
+      "name": "2027 Private Equity Internship Programme",
+      "openingDate": null
+    },
+    "e3m7xup793": {
+      "closingDate": null,
+      "company": "D.E. Shaw",
+      "name": "Trader/Analyst Intern (London) - Summer 2027",
+      "openingDate": "2026-06-01T00:00:00.000Z"
+    },
+    "e7s66y7vqb": {
+      "closingDate": null,
+      "company": "Analysys Mason",
+      "name": "Intern Associate Consultant, 2027",
+      "openingDate": null
+    },
+    "e9dmm1344n": {
+      "closingDate": null,
+      "company": "British Land",
+      "name": "Summer Internship 2027",
+      "openingDate": null
+    },
+    "ea0zz8tiuw": {
+      "closingDate": null,
+      "company": "RBC Capital Markets",
+      "name": "2027 Summer Analyst - Corporate Banking",
+      "openingDate": "2026-09-11T00:00:00.000Z"
+    },
+    "ebleh9fb9z": {
+      "closingDate": null,
+      "company": "Midland Heart",
+      "name": "Management Accountant - Internship (Summer)",
+      "openingDate": null
+    },
+    "epdmaollad": {
+      "closingDate": null,
+      "company": "Proxima",
+      "name": "UK Summer Internship 2027",
+      "openingDate": null
+    },
+    "ergfokxpj2": {
+      "closingDate": "2026-10-04T00:00:00.000Z",
+      "company": "PJT Partners",
+      "name": "2027 Summer Analyst (Strategic Advisory & Restructuring)",
+      "openingDate": "2026-08-31T00:00:00.000Z"
+    },
+    "erihfcjatp": {
+      "closingDate": null,
+      "company": "Alpha FMC",
+      "name": "Summer Diversity Internship 2027",
+      "openingDate": null
+    },
+    "ermb66lsgs": {
+      "closingDate": "2026-10-05T00:00:00.000Z",
+      "company": "Mizuho",
+      "name": "2027 Finance Summer Internship",
+      "openingDate": "2026-09-07T00:00:00.000Z"
+    },
+    "esbb5g26se": {
+      "closingDate": null,
+      "company": "IQT",
+      "name": "Investment Associate Internship (US Citizens Only)",
+      "openingDate": null
+    },
+    "esor0x2azb": {
+      "closingDate": null,
+      "company": "GEP",
+      "name": "Intern - Consulting 2027",
+      "openingDate": null
+    },
+    "etpr8cn8rs": {
+      "closingDate": null,
+      "company": "RSM",
+      "name": "Internship 2027",
+      "openingDate": null
+    },
+    "ewjyw2o5q9": {
+      "closingDate": null,
+      "company": "AustralianSuper",
+      "name": "2027 Intern Program",
+      "openingDate": null
+    },
+    "exhuqzlxhm": {
+      "closingDate": null,
+      "company": "Citadel",
+      "name": "2027 Associate Intern",
+      "openingDate": "2026-05-21T00:00:00.000Z"
+    },
+    "exvak3czfl": {
+      "closingDate": null,
+      "company": "KPMG",
+      "name": "Vacation Audit - ACA",
+      "openingDate": null
+    },
+    "ez4juzixva": {
+      "closingDate": null,
+      "company": "PKF Littlejohn",
+      "name": "Summer Internship 2027",
+      "openingDate": null
+    },
+    "f0s3loy82w": {
+      "closingDate": null,
+      "company": "The Dot Group",
+      "name": "2027 Summer Internship Programme",
+      "openingDate": null
+    },
+    "f3nm6g2rm1": {
+      "closingDate": null,
+      "company": "Gunvor",
+      "name": "Analytics Intern \u2013 Power & Gas Trading",
+      "openingDate": null
+    },
+    "f5tqkrqk8z": {
+      "closingDate": null,
+      "company": "Interpath Advisory",
+      "name": "Intern Analyst",
+      "openingDate": null
+    },
+    "f6gsalmo9g": {
+      "closingDate": null,
+      "company": "RBC Capital Markets",
+      "name": "2027 Summer Analyst - Global Investment Banking",
+      "openingDate": "2026-09-11T00:00:00.000Z"
+    },
+    "f8uxqtk1jy": {
+      "closingDate": null,
+      "company": "Atlanta Wealth",
+      "name": "Equity Analyst Internship, Asset Management",
+      "openingDate": null
+    },
+    "f9z38d0inb": {
+      "closingDate": null,
+      "company": "BlockTech",
+      "name": "Quantitative Researcher | Internship | Summer '27",
+      "openingDate": "2026-09-01T00:00:00.000Z"
+    },
+    "fard0ap99i": {
+      "closingDate": null,
+      "company": "Coinbase",
+      "name": "Internal Audit Intern",
+      "openingDate": null
+    },
+    "fcvsiigfi3": {
+      "closingDate": "2026-10-30T00:00:00.000Z",
+      "company": "XY Capital",
+      "name": "2027 Summer Internship - Quant Research and Trading",
+      "openingDate": "2026-09-04T00:00:00.000Z"
+    },
+    "fe2i6kwkvq": {
+      "closingDate": null,
+      "company": "Aventum Group",
+      "name": "Underwriting Assistant Intern",
+      "openingDate": null
+    },
+    "fh7e9eki8n": {
+      "closingDate": null,
+      "company": "Azets",
+      "name": "Corporate Finance Summer Intern",
+      "openingDate": null
+    },
+    "fhjymdzi8w": {
+      "closingDate": null,
+      "company": "Squarepoint Capital",
+      "name": "Intern Quant Researcher",
+      "openingDate": "2026-07-29T00:00:00.000Z"
+    },
+    "fhy62vq6u6": {
+      "closingDate": null,
+      "company": "LMR Partners",
+      "name": "Investments Summer Internship 2027",
+      "openingDate": null
+    },
+    "fiopvw973y": {
+      "closingDate": null,
+      "company": "Lloyds Banking Group",
+      "name": "Summer Internship 2027",
+      "openingDate": null
+    },
+    "fkdve7jxf5": {
+      "closingDate": null,
+      "company": "Swiss Re",
+      "name": "Underwriting Administration Intern",
+      "openingDate": null
+    },
+    "flg0id024v": {
+      "closingDate": null,
+      "company": "GLG",
+      "name": "GLG London Summer Internship",
+      "openingDate": null
+    },
+    "fnuxhnzv4f": {
+      "closingDate": null,
+      "company": "Julius Baer",
+      "name": "Summer Internship 2027",
+      "openingDate": null
+    },
+    "fqh4jjiwsn": {
+      "closingDate": null,
+      "company": "Ripple",
+      "name": "Quantitative Trading Intern (Summer 2027)",
+      "openingDate": null
+    },
+    "fs22g7rify": {
+      "closingDate": null,
+      "company": "Private Equity Insights",
+      "name": "Global Internship Program",
+      "openingDate": null
+    },
+    "ft3m2hxomj": {
+      "closingDate": null,
+      "company": "Aquatic Capital Management",
+      "name": "Quantitative Researcher, Intern (Summer 2027)",
+      "openingDate": "2026-04-04T00:00:00.000Z"
+    },
+    "fv4i0rsutg": {
+      "closingDate": null,
+      "company": "Dimensional Fund Advisors",
+      "name": "Asset Management Internship - Summer 2027",
+      "openingDate": null
+    },
+    "g41kdiej54": {
+      "closingDate": null,
+      "company": "DealGlobe",
+      "name": "M&A Analyst Intern (Mandarin speaking)",
+      "openingDate": null
+    },
+    "g5lrugluuh": {
+      "closingDate": null,
+      "company": "BTG Pactual",
+      "name": "Internship | Special Situations",
+      "openingDate": null
+    },
+    "gbignl0m21": {
+      "closingDate": null,
+      "company": "IMC Trading",
+      "name": "Trader Intern (2027)",
+      "openingDate": "2026-07-31T00:00:00.000Z"
+    },
+    "gc9gpn82zu": {
+      "closingDate": null,
+      "company": "RWE",
+      "name": "Women in Trading Summer Internship Programme",
+      "openingDate": null
+    },
+    "ge7rgdh4cu": {
+      "closingDate": null,
+      "company": "Hayfin Capital Management",
+      "name": "Summer Intern 2027",
+      "openingDate": null
+    },
+    "gfgk161pkv": {
+      "closingDate": null,
+      "company": "W. P. Carey",
+      "name": "Investments Summer Analyst 2027",
+      "openingDate": null
+    },
+    "ggpemfigcg": {
+      "closingDate": null,
+      "company": "Saffery",
+      "name": "Summer Internship - June 2027",
+      "openingDate": null
+    },
+    "ggprm6qx8i": {
+      "closingDate": null,
+      "company": "Capgemini",
+      "name": "Internship Consulting or Technical routes 2027",
+      "openingDate": null
+    },
+    "gm2jqd7nf4": {
+      "closingDate": null,
+      "company": "Pictet Asset Management",
+      "name": "Equities Business Management Summer Internship 2027",
+      "openingDate": null
+    },
+    "gmu72ouize": {
+      "closingDate": null,
+      "company": "The Wall Street Journal",
+      "name": "Business News Internship (Summer 2027)",
+      "openingDate": null
+    },
+    "gp1wqbnqpr": {
+      "closingDate": null,
+      "company": "Deloitte",
+      "name": "Summer Vacation Scheme",
+      "openingDate": null
+    },
+    "gr8jadtco5": {
+      "closingDate": "2026-08-17T00:00:00.000Z",
+      "company": "EDF Trading",
+      "name": "Summer Internship",
+      "openingDate": "2026-07-06T00:00:00.000Z"
+    },
+    "gzbfggud2m": {
+      "closingDate": null,
+      "company": "ZS",
+      "name": "Strategy Insights & Planning Associate - Intern",
+      "openingDate": null
+    },
+    "h09z175evi": {
+      "closingDate": null,
+      "company": "Bank of England",
+      "name": "Penultimate Year Internship Programme",
+      "openingDate": null
+    },
+    "h141nmytwp": {
+      "closingDate": null,
+      "company": "Millennium Management",
+      "name": "Millennium Investment Internship 2028",
+      "openingDate": null
+    },
+    "h4jw92wib1": {
+      "closingDate": null,
+      "company": "Colliers",
+      "name": "Summer Internship 2027",
+      "openingDate": null
+    },
+    "h6hoo3cydb": {
+      "closingDate": null,
+      "company": "Point72",
+      "name": "International Sector Analyst Internship",
+      "openingDate": null
+    },
+    "haccbyr80o": {
+      "closingDate": null,
+      "company": "Future Planet Capital",
+      "name": "Venture Capital Micro-Internship - December 2026",
+      "openingDate": null
+    },
+    "hcjw8a7q3a": {
+      "closingDate": null,
+      "company": "Legal & General",
+      "name": "Intern Programme 2027",
+      "openingDate": null
+    },
+    "hd6u6iysh4": {
+      "closingDate": "2026-10-09T00:00:00.000Z",
+      "company": "Citi",
+      "name": "Commercial Banking, Summer Analyst, 2027",
+      "openingDate": "2026-09-15T00:00:00.000Z"
+    },
+    "hdg6u6fiw5": {
+      "closingDate": null,
+      "company": "Ithaca Energy",
+      "name": "Finance Intern",
+      "openingDate": null
+    },
+    "hjccmw5by3": {
+      "closingDate": null,
+      "company": "BTIG",
+      "name": "2027 UK Internship Program",
+      "openingDate": null
+    },
+    "hjv32e8dau": {
+      "closingDate": null,
+      "company": "Qatalyst Partners",
+      "name": "2027 M&A Advisory Summer Internship",
+      "openingDate": "2026-08-05T00:00:00.000Z"
+    },
+    "ho7htxctdb": {
+      "closingDate": null,
+      "company": "UBS",
+      "name": "2027 Summer Internship",
+      "openingDate": "2026-08-17T00:00:00.000Z"
+    },
+    "hu647l11hv": {
+      "closingDate": null,
+      "company": "StepStone Group",
+      "name": "2027 Private Equity Summer Analyst",
+      "openingDate": null
+    },
+    "hx532hd8cw": {
+      "closingDate": null,
+      "company": "NatWest Markets",
+      "name": "Front Office - Internship",
+      "openingDate": null
+    },
+    "hxbifu24pu": {
+      "closingDate": null,
+      "company": "Morgan Stanley",
+      "name": "2027 Sales & Trading Summer Analyst Programme",
+      "openingDate": "2026-09-07T00:00:00.000Z"
+    },
+    "i5ditgb79q": {
+      "closingDate": null,
+      "company": "Canary Wharf Group",
+      "name": "Internship Programme 2027",
+      "openingDate": null
+    },
+    "i69m4jp4qu": {
+      "closingDate": null,
+      "company": "Panmure Liberum",
+      "name": "2027 Summer Internship Programme",
+      "openingDate": null
+    },
+    "i6vyr5sh3x": {
+      "closingDate": null,
+      "company": "Nationwide",
+      "name": "2027 Summer Internship",
+      "openingDate": null
+    },
+    "ibe2ewlars": {
+      "closingDate": null,
+      "company": "Affinius Capital",
+      "name": "Summer 2027 Intern",
+      "openingDate": null
+    },
+    "ic7l70anjf": {
+      "closingDate": null,
+      "company": "Alvine Capital",
+      "name": "Summer Intern - London, UK",
+      "openingDate": null
+    },
+    "icy6ukpknj": {
+      "closingDate": "2026-12-31T00:00:00.000Z",
+      "company": "Standard Chartered",
+      "name": "Internship Programme 2027",
+      "openingDate": "2026-08-17T00:00:00.000Z"
+    },
+    "ifa4g777x0": {
+      "closingDate": null,
+      "company": "Burford Capital",
+      "name": "Summer Analyst Internship",
+      "openingDate": null
+    },
+    "igzfyg43go": {
+      "closingDate": "2026-10-02T00:00:00.000Z",
+      "company": "Baird",
+      "name": "2027 Global Investment Banking - M&A Summer Internship",
+      "openingDate": "2026-09-07T00:00:00.000Z"
+    },
+    "iir7vv973l": {
+      "closingDate": "2026-10-02T00:00:00.000Z",
+      "company": "William Blair",
+      "name": "Investment Banking Summer 2027 Analyst",
+      "openingDate": "2026-09-01T00:00:00.000Z"
+    },
+    "im5xmznnq7": {
+      "closingDate": null,
+      "company": "Everest",
+      "name": "2027 Underwriting Internship Programme Scheme",
+      "openingDate": null
+    },
+    "inqmkxkwxu": {
+      "closingDate": null,
+      "company": "Climate Investment",
+      "name": "2027 Summer Intern",
+      "openingDate": null
+    },
+    "inr3pvtd84": {
+      "closingDate": null,
+      "company": "Just",
+      "name": "Actuarial Summer Intern (July 2027)",
+      "openingDate": null
+    },
+    "ioeo5uln8y": {
+      "closingDate": "2026-11-06T00:00:00.000Z",
+      "company": "Citi",
+      "name": "Investment Banking, Summer Analyst 2027",
+      "openingDate": "2026-09-08T00:00:00.000Z"
+    },
+    "ioh6unf9t7": {
+      "closingDate": null,
+      "company": "Equitix",
+      "name": "Internship 2027",
+      "openingDate": null
+    },
+    "ip4c0gkom2": {
+      "closingDate": null,
+      "company": "Visa",
+      "name": "Consulting & Analytics Intern",
+      "openingDate": null
+    },
+    "iphvx1ttlp": {
+      "closingDate": null,
+      "company": "Sixth Street",
+      "name": "2027 Summer Internship Program - UK Investing",
+      "openingDate": null
+    },
+    "itmon9wb4z": {
+      "closingDate": null,
+      "company": "Da Vinci Trading",
+      "name": "2027 Quant Trading Intern",
+      "openingDate": "2026-07-13T00:00:00.000Z"
+    },
+    "itufkflzif": {
+      "closingDate": "2026-10-09T00:00:00.000Z",
+      "company": "Lincoln International",
+      "name": "UK Summer Internship Programme 2027",
+      "openingDate": "2026-09-09T00:00:00.000Z"
+    },
+    "iumphbd6bl": {
+      "closingDate": null,
+      "company": "Morgan Stanley",
+      "name": "2027 Global Capital Markets Summer Analyst Programme",
+      "openingDate": "2026-09-07T00:00:00.000Z"
+    },
+    "iyocl5x6ux": {
+      "closingDate": "2026-09-14T00:00:00.000Z",
+      "company": "Atlas Holdings",
+      "name": "Private Equity Summer Internship 2027",
+      "openingDate": "2026-08-03T00:00:00.000Z"
+    },
+    "j0du02xc2g": {
+      "closingDate": null,
+      "company": "Cabot Properties",
+      "name": "Investment Intern",
+      "openingDate": null
+    },
+    "j2ibyxkul8": {
+      "closingDate": null,
+      "company": "Barnett Waddingham",
+      "name": "Summer Student - 2027 intake",
+      "openingDate": null
+    },
+    "j9bml0081h": {
+      "closingDate": null,
+      "company": "Jump Trading",
+      "name": "Campus Quantitative Trader (Intern)",
+      "openingDate": "2026-07-13T00:00:00.000Z"
+    },
+    "ja3ruuss1k": {
+      "closingDate": null,
+      "company": "7IM",
+      "name": "Work Experience 2027",
+      "openingDate": null
+    },
+    "jaxn3f8xxp": {
+      "closingDate": null,
+      "company": "GSA Capital",
+      "name": "Women in Trading Insight Programme - 2027",
+      "openingDate": "2026-05-27T00:00:00.000Z"
+    },
+    "jgbgdkn8pv": {
+      "closingDate": null,
+      "company": "G-Research",
+      "name": "Quant Research Internship",
+      "openingDate": "2026-07-23T00:00:00.000Z"
+    },
+    "jj4ud8v1p5": {
+      "closingDate": null,
+      "company": "Allia C&C",
+      "name": "Advisory and Funding Team Internship",
+      "openingDate": null
+    },
+    "jjke2io9g0": {
+      "closingDate": null,
+      "company": "Alvarez & Marsal",
+      "name": "Summer Intern, Corporate Finance",
+      "openingDate": null
+    },
+    "jmomi39y30": {
+      "closingDate": null,
+      "company": "Westgrove",
+      "name": "Summer Analyst",
+      "openingDate": null
+    },
+    "jmud9hszig": {
+      "closingDate": "2026-10-17T00:00:00.000Z",
+      "company": "Houlihan Lokey",
+      "name": "2027 Summer Financial Analyst - Corporate Finance (M&A)",
+      "openingDate": "2026-09-07T00:00:00.000Z"
+    },
+    "jp01p6e92w": {
+      "closingDate": null,
+      "company": "BBVA",
+      "name": "Summer Internship C&IB",
+      "openingDate": null
+    },
+    "jpmj3ezzzo": {
+      "closingDate": "2026-10-13T00:00:00.000Z",
+      "company": "Howden",
+      "name": "Summer Internship 2027",
+      "openingDate": "2026-09-15T00:00:00.000Z"
+    },
+    "jvqp1omvr4": {
+      "closingDate": "2026-08-24T00:00:00.000Z",
+      "company": "Franklin Templeton",
+      "name": "Summer Intern - Investment Management",
+      "openingDate": "2026-08-23T00:00:00.000Z"
+    },
+    "jvu629ro7q": {
+      "closingDate": null,
+      "company": "Inverto",
+      "name": "Summer Internship: Procurement & Supply Chain Consulting",
+      "openingDate": "2026-09-16T00:00:00.000Z"
+    },
+    "jxjtqqbiwa": {
+      "closingDate": null,
+      "company": "Ankura",
+      "name": "Summer Internship 2027 Turnaround & Restructuring",
+      "openingDate": null
+    },
+    "jy3r8dloa9": {
+      "closingDate": null,
+      "company": "L'Or\u00e9al",
+      "name": "Finance Summer Internship 2027",
+      "openingDate": null
+    },
+    "jyb7ovz5je": {
+      "closingDate": null,
+      "company": "TD Securities",
+      "name": "2027 Summer Internship Programme",
+      "openingDate": null
+    },
+    "k1bbbdj4vb": {
+      "closingDate": null,
+      "company": "Flowdesk",
+      "name": "Sales Intern EMEA (F/M/D)",
+      "openingDate": null
+    },
+    "k1sxt56fqr": {
+      "closingDate": null,
+      "company": "Grosvenor",
+      "name": "Graduate Internship Programme",
+      "openingDate": null
+    },
+    "k20008uohn": {
+      "closingDate": null,
+      "company": "Blockchain.com",
+      "name": "Finance Summer Intern",
+      "openingDate": null
+    },
+    "k4lz8xo47m": {
+      "closingDate": null,
+      "company": "EBRD",
+      "name": "Summer Intern, Economics",
+      "openingDate": null
+    },
+    "k8asf1h97h": {
+      "closingDate": null,
+      "company": "DRW",
+      "name": "Quantitative Trading Analyst Intern",
+      "openingDate": "2026-07-13T00:00:00.000Z"
+    },
+    "kaugw1nera": {
+      "closingDate": null,
+      "company": "OC&C",
+      "name": "Associate Consultant Summer Internship 2027",
+      "openingDate": null
+    },
+    "kbeshj3j8g": {
+      "closingDate": null,
+      "company": "Carter Jonas",
+      "name": "2027 Summer Internship",
+      "openingDate": null
+    },
+    "kbrgyn6z80": {
+      "closingDate": null,
+      "company": "GIC",
+      "name": "GIC Internship Programme 2027",
+      "openingDate": "2026-06-11T00:00:00.000Z"
+    },
+    "ke74fora4p": {
+      "closingDate": null,
+      "company": "AAB Group",
+      "name": "2027 Internship Opportunities",
+      "openingDate": null
+    },
+    "kgaz7t35du": {
+      "closingDate": null,
+      "company": "Revolut",
+      "name": "Internship Programme 2027",
+      "openingDate": "2026-05-29T00:00:00.000Z"
+    },
+    "ki2ye9ze23": {
+      "closingDate": null,
+      "company": "CFC",
+      "name": "Insurance Internship - Summer 2027",
+      "openingDate": null
+    },
+    "kk8tgbn1mu": {
+      "closingDate": null,
+      "company": "Teza Technologies",
+      "name": "2027 Quantitative Research Internship",
+      "openingDate": null
+    },
+    "km5u0yio7b": {
+      "closingDate": null,
+      "company": "Quantuma",
+      "name": "Corporate Finance Analyst (Intern)",
+      "openingDate": null
+    },
+    "kmgvblsyus": {
+      "closingDate": null,
+      "company": "MarketAxess",
+      "name": "Quant Research Intern 2027",
+      "openingDate": null
+    },
+    "kmpvb19l8n": {
+      "closingDate": null,
+      "company": "First Wealth",
+      "name": "Summer Internship 2027",
+      "openingDate": null
+    },
+    "koc5rdttpk": {
+      "closingDate": null,
+      "company": "Lazard Asset Management",
+      "name": "2027 Summer Internship",
+      "openingDate": null
+    },
+    "krhnmlit2u": {
+      "closingDate": null,
+      "company": "StoneX",
+      "name": "Intern \u2013 Trading & Sales (Metals)",
+      "openingDate": null
+    },
+    "ksedh1jacq": {
+      "closingDate": null,
+      "company": "Wincent",
+      "name": "Quant Research/Trading Internship - Summer 2027",
+      "openingDate": "2026-06-15T00:00:00.000Z"
+    },
+    "kvtodecvpc": {
+      "closingDate": null,
+      "company": "Gleacher Shacklock",
+      "name": "Investment Banking Summer Internship 2027",
+      "openingDate": null
+    },
+    "l17ec0kcjp": {
+      "closingDate": "2026-10-05T00:00:00.000Z",
+      "company": "Mizuho",
+      "name": "2027 Global Transaction Banking Summer Internship",
+      "openingDate": "2026-09-07T00:00:00.000Z"
+    },
+    "l28bp19oez": {
+      "closingDate": null,
+      "company": "Near Future",
+      "name": "Financial Modelling Intern",
+      "openingDate": null
+    },
+    "l773lcjn4s": {
+      "closingDate": null,
+      "company": "Audit Scotland",
+      "name": "Summer Internship in Audit (2027)",
+      "openingDate": null
+    },
+    "l9cxy1s0p4": {
+      "closingDate": "2026-10-16T00:00:00.000Z",
+      "company": "Rystad Energy",
+      "name": "Management Consultant Intern - 2027",
+      "openingDate": "2026-09-11T00:00:00.000Z"
+    },
+    "la4z9pe7bb": {
+      "closingDate": null,
+      "company": "Raine Group",
+      "name": "2027 Summer Analyst Program",
+      "openingDate": "2026-08-24T00:00:00.000Z"
+    },
+    "lb1022kzh5": {
+      "closingDate": null,
+      "company": "Rede Partners",
+      "name": "2027 Summer Intern Programme",
+      "openingDate": null
+    },
+    "lbrom5xar1": {
+      "closingDate": null,
+      "company": "J.P. Morgan",
+      "name": "2027 Global Corporate Banking Analyst Program - Summer Internship",
+      "openingDate": "2026-08-31T00:00:00.000Z"
+    },
+    "lfepu2ecy4": {
+      "closingDate": "2026-10-13T00:00:00.000Z",
+      "company": "Howden",
+      "name": "Investment Banking Summer Analyst 2027",
+      "openingDate": "2026-09-15T00:00:00.000Z"
+    },
+    "lhwn2offnc": {
+      "closingDate": "2026-11-08T00:00:00.000Z",
+      "company": "Rothesay",
+      "name": "2027 Summer Internship Programme - Trading and Asset Origination",
+      "openingDate": "2026-09-04T00:00:00.000Z"
+    },
+    "lk5pk8ey90": {
+      "closingDate": null,
+      "company": "NextWave Consulting",
+      "name": "Financial Markets Intern 2027",
+      "openingDate": null
+    },
+    "lkne03tuty": {
+      "closingDate": "2026-08-13T00:00:00.000Z",
+      "company": "Patrizia",
+      "name": "Student Analyst \u2013 Investment Technology, Real Estate (Part-time)",
+      "openingDate": "2026-08-12T00:00:00.000Z"
+    },
+    "lnamuraem2": {
+      "closingDate": null,
+      "company": "Guidehouse",
+      "name": "Intern - Campus Summer 2027",
+      "openingDate": null
+    },
+    "lofwodoeg3": {
+      "closingDate": null,
+      "company": "Jane Street",
+      "name": "Quantitative Trading Intern Summer 2027",
+      "openingDate": "2026-08-03T00:00:00.000Z"
+    },
+    "losyzouuc4": {
+      "closingDate": null,
+      "company": "Columbia Threadneedle Investments",
+      "name": "Investments Internship",
+      "openingDate": null
+    },
+    "lpskj0okz1": {
+      "closingDate": null,
+      "company": "Chicago Trading Company",
+      "name": "Quant Trading Internship - Summer 2027",
+      "openingDate": "2026-07-22T00:00:00.000Z"
+    },
+    "lqf7umgi4m": {
+      "closingDate": null,
+      "company": "Balyasny Asset Management",
+      "name": "Quantitative Analyst \u2013 Macro & Commodities (Summer Internship)",
+      "openingDate": null
+    },
+    "lqy9sbesnd": {
+      "closingDate": null,
+      "company": "Network Rail",
+      "name": "Finance Summer Placement",
+      "openingDate": null
+    },
+    "ls80h3yvi5": {
+      "closingDate": null,
+      "company": "Convex Insurance",
+      "name": "Summer Intern",
+      "openingDate": null
+    },
+    "lslja0rnau": {
+      "closingDate": null,
+      "company": "D.E. Shaw",
+      "name": "D. E. Shaw Investment Management (DESIM) Intern \u2013 Summer 2027",
+      "openingDate": null
+    },
+    "lyf3wh7xr1": {
+      "closingDate": null,
+      "company": "Arkle Finance",
+      "name": "Summer Internship Programme 2027",
+      "openingDate": null
+    },
+    "m04ecmm7nx": {
+      "closingDate": null,
+      "company": "G-Research",
+      "name": "Spring into Quant Finance 2027",
+      "openingDate": "2026-09-01T00:00:00.000Z"
+    },
+    "m175wbwe1c": {
+      "closingDate": null,
+      "company": "Bastion Trading",
+      "name": "Trading & Quant Summer Internship 2027",
+      "openingDate": null
+    },
+    "m2eww31v2k": {
+      "closingDate": null,
+      "company": "Goldman Sachs",
+      "name": "2027 Summer Analyst Programme",
+      "openingDate": "2026-08-15T00:00:00.000Z"
+    },
+    "m4i6m8yfi1": {
+      "closingDate": null,
+      "company": "Baker Hughes",
+      "name": "Emerging Talent - Finance 2027 Opportunities",
+      "openingDate": null
+    },
+    "m5e2q8xt9n": {
+      "closingDate": "2026-09-30T00:00:00.000Z",
+      "company": "Citi",
+      "name": "Corporate Banking, Summer Analyst, 2027",
+      "openingDate": "2026-09-04T00:00:00.000Z"
+    },
+    "ma6dlwvi1w": {
+      "closingDate": null,
+      "company": "Tokio Marine Kiln",
+      "name": "2027 TMK Actuarial & Analytics Internship Programme",
+      "openingDate": null
+    },
+    "maqfd0rg5r": {
+      "closingDate": "2026-10-23T00:00:00.000Z",
+      "company": "American Express",
+      "name": "Campus - Internship Programme - 2027",
+      "openingDate": "2026-09-14T00:00:00.000Z"
+    },
+    "med04p8tyx": {
+      "closingDate": null,
+      "company": "Greenhill",
+      "name": "2027 Summer Internship",
+      "openingDate": "2026-08-31T00:00:00.000Z"
+    },
+    "mg2wuyo7pv": {
+      "closingDate": "2026-10-30T00:00:00.000Z",
+      "company": "Blackstone",
+      "name": "2027 Summer Analyst",
+      "openingDate": "2026-06-15T00:00:00.000Z"
+    },
+    "mhky4jpuco": {
+      "closingDate": null,
+      "company": "P&G",
+      "name": "Finance & Accounting Summer Internship 2027",
+      "openingDate": null
+    },
+    "mno7xwvia8": {
+      "closingDate": null,
+      "company": "Dow Jones",
+      "name": "Summer 2027 Internship",
+      "openingDate": null
+    },
+    "mnxkcd36a3": {
+      "closingDate": null,
+      "company": "J.P. Morgan",
+      "name": "2027 Global Private Bank - Investment Solutions Summer Internship",
+      "openingDate": "2026-08-31T00:00:00.000Z"
+    },
+    "movntocu5j": {
+      "closingDate": null,
+      "company": "Enstar Group",
+      "name": "Summer Internship Programme 2027",
+      "openingDate": null
+    },
+    "mqitm8a95w": {
+      "closingDate": "2026-09-25T00:00:00.000Z",
+      "company": "Fidelity Investments",
+      "name": "Summer 2027 Equity Research Associate Intern",
+      "openingDate": "2026-06-01T00:00:00.000Z"
+    },
+    "mr8evyv5i6": {
+      "closingDate": null,
+      "company": "Weatherbys Private Bank",
+      "name": "Summer Internship Programme 2027",
+      "openingDate": null
+    },
+    "mrj7k0ivdd": {
+      "closingDate": null,
+      "company": "Marshall Wace",
+      "name": "Quant Research Intern - 2027",
+      "openingDate": "2026-09-02T00:00:00.000Z"
+    },
+    "muepsrgqv7": {
+      "closingDate": "2026-11-08T00:00:00.000Z",
+      "company": "Rothesay",
+      "name": "2027 Summer Internship Programme - Quantitative Strategist",
+      "openingDate": "2026-09-17T00:00:00.000Z"
+    },
+    "mvai4mbaih": {
+      "closingDate": "2026-09-27T00:00:00.000Z",
+      "company": "Rothschild & Co.",
+      "name": "2027 Summer Analyst Programme",
+      "openingDate": "2026-08-19T00:00:00.000Z"
+    },
+    "my8ncwbg9k": {
+      "closingDate": null,
+      "company": "STJ Advisors",
+      "name": "Summer Internship Program 2027",
+      "openingDate": null
+    },
+    "n4lovdn4mr": {
+      "closingDate": null,
+      "company": "S&P Global",
+      "name": "2027 Summer Internship",
+      "openingDate": null
+    },
+    "n4v69tcmek": {
+      "closingDate": null,
+      "company": "ExodusPoint",
+      "name": "Quant Internship 2027",
+      "openingDate": null
+    },
+    "n7rgnjtq94": {
+      "closingDate": null,
+      "company": "L.E.K. Consulting",
+      "name": "Summer Associate 2027",
+      "openingDate": null
+    },
+    "n9uq59ov0s": {
+      "closingDate": "2026-11-29T00:00:00.000Z",
+      "company": "MUFG",
+      "name": "2027 Summer Analyst Programme: Japanese Corporate Banking",
+      "openingDate": "2026-09-07T00:00:00.000Z"
+    },
+    "na98tftepc": {
+      "closingDate": null,
+      "company": "Johnston Carmichael",
+      "name": "Summer Internship - 2027",
+      "openingDate": null
+    },
+    "nbd23x2xe2": {
+      "closingDate": null,
+      "company": "Man Group",
+      "name": "2027 Summer Intern Programme",
+      "openingDate": null
+    },
+    "nges4j2ss5": {
+      "closingDate": null,
+      "company": "Roland Berger",
+      "name": "Junior Consultant - Summer Internship 2027",
+      "openingDate": null
+    },
+    "ngndwrip8r": {
+      "closingDate": null,
+      "company": "Accuracy",
+      "name": "Finance Intern 2027",
+      "openingDate": "2026-08-28T00:00:00.000Z"
+    },
+    "niw3zsn28z": {
+      "closingDate": null,
+      "company": "Gartner",
+      "name": "Account Management Internship, Summer 2027",
+      "openingDate": null
+    },
+    "njh66pwkvk": {
+      "closingDate": null,
+      "company": "JLL",
+      "name": "Capital Markets Intern - London",
+      "openingDate": null
+    },
+    "nk94lqpsx4": {
+      "closingDate": null,
+      "company": "Oracle",
+      "name": "Financial Analyst Intern",
+      "openingDate": null
+    },
+    "nm6hs23cj2": {
+      "closingDate": "2026-10-18T00:00:00.000Z",
+      "company": "Zurich Insurance",
+      "name": "Summer Internship 2027",
+      "openingDate": "2026-09-10T00:00:00.000Z"
+    },
+    "nqf2tv2w12": {
+      "closingDate": null,
+      "company": "Leo-Crown Estates",
+      "name": "Intern - Dubai Real Estate",
+      "openingDate": null
+    },
+    "ns8veuqs44": {
+      "closingDate": null,
+      "company": "Charities Aid Foundation",
+      "name": "Summer 2027 Internship",
+      "openingDate": null
+    },
+    "nv019hrcqv": {
+      "closingDate": null,
+      "company": "Hymans Robertson",
+      "name": "Pensions Governance & Investment Consulting: Summer Internship",
+      "openingDate": null
+    },
+    "nws0cqrwfc": {
+      "closingDate": null,
+      "company": "Citi",
+      "name": "Sales and Trading, Summer Analyst, 2027",
+      "openingDate": "2026-09-01T00:00:00.000Z"
+    },
+    "nwym67d2by": {
+      "closingDate": null,
+      "company": "AJ Bell",
+      "name": "Investments Internship 2027 - 4 Week Placement",
+      "openingDate": null
+    },
+    "nx5tp91e0i": {
+      "closingDate": null,
+      "company": "Susquehanna International Group",
+      "name": "Quantitative Trading Internship: Summer 2027",
+      "openingDate": "2026-07-15T00:00:00.000Z"
+    },
+    "o1vkdelshm": {
+      "closingDate": null,
+      "company": "ICE",
+      "name": "Summer Internship Program 2027",
+      "openingDate": null
+    },
+    "o4ewmv15wn": {
+      "closingDate": null,
+      "company": "Bain & Company",
+      "name": "True North: Scholarship for Women",
+      "openingDate": null
+    },
+    "o4yuh9duy2": {
+      "closingDate": null,
+      "company": "Capstone",
+      "name": "2027 Summer Internship",
+      "openingDate": null
+    },
+    "o75mg75ucl": {
+      "closingDate": null,
+      "company": "Xantium",
+      "name": "Quantitative Researcher Internship",
+      "openingDate": "2026-08-18T00:00:00.000Z"
+    },
+    "o7nzqmb8a8": {
+      "closingDate": null,
+      "company": "Brio Real Estate",
+      "name": "Summer Intern",
+      "openingDate": null
+    },
+    "o94tw093pe": {
+      "closingDate": null,
+      "company": "Pharus",
+      "name": "Investment Banking Summer Analyst - 2027",
+      "openingDate": null
+    },
+    "obqddd0qpj": {
+      "closingDate": null,
+      "company": "J.P. Morgan",
+      "name": "2027 Global Investment Banking Analyst Program - Summer Internship",
+      "openingDate": "2026-08-31T00:00:00.000Z"
+    },
+    "obx1gcj2je": {
+      "closingDate": null,
+      "company": "Kline Hill Partners",
+      "name": "Summer 2027 Investment Team Intern",
+      "openingDate": null
+    },
+    "oew6bf55y1": {
+      "closingDate": null,
+      "company": "Natrium Capital",
+      "name": "Chemicals M&A Research Analyst Intern",
+      "openingDate": null
+    },
+    "of3qunva8u": {
+      "closingDate": null,
+      "company": "Altana Wealth",
+      "name": "Credit Analyst Internship (Chinese speaking)",
+      "openingDate": null
+    },
+    "ofjumq69ce": {
+      "closingDate": null,
+      "company": "Campbell Lutyens",
+      "name": "Summer Analysts 2027",
+      "openingDate": null
+    },
+    "ofqa5h2glb": {
+      "closingDate": null,
+      "company": "Harrison Street",
+      "name": "Summer 2027 Intern",
+      "openingDate": null
+    },
+    "oh7y43zboi": {
+      "closingDate": null,
+      "company": "NCR Atleos",
+      "name": "Finance Internship - Summer 2027 (12 Weeks)",
+      "openingDate": null
+    },
+    "okxxgycx5a": {
+      "closingDate": "2026-11-01T00:00:00.000Z",
+      "company": "Jefferies",
+      "name": "2027 Risk Management Summer Internship Programme",
+      "openingDate": "2026-09-16T00:00:00.000Z"
+    },
+    "oqbqjs2d72": {
+      "closingDate": null,
+      "company": "Google",
+      "name": "Business Analyst Intern, 2027",
+      "openingDate": null
+    },
+    "oqlkt3kawj": {
+      "closingDate": null,
+      "company": "Munich Re",
+      "name": "Structured Credit Internship",
+      "openingDate": null
+    },
+    "ov9rqhadd8": {
+      "closingDate": null,
+      "company": "Barclays",
+      "name": "Summer Internship Programme 2027",
+      "openingDate": "2026-08-20T00:00:00.000Z"
+    },
+    "oxhgvuijlq": {
+      "closingDate": null,
+      "company": "Oliver Wyman",
+      "name": "Summer Internship 2027",
+      "openingDate": "2026-09-04T00:00:00.000Z"
+    },
+    "oxiumx69hf": {
+      "closingDate": "2026-10-09T00:00:00.000Z",
+      "company": "Orbis",
+      "name": "Investment Analyst Internship 2026-2027",
+      "openingDate": "2026-09-08T00:00:00.000Z"
+    },
+    "oy440jb8ep": {
+      "closingDate": null,
+      "company": "Javelin Global Commodities",
+      "name": "Summer Internship: Commodities Trading",
+      "openingDate": null
+    },
+    "p5ry62gg69": {
+      "closingDate": "2026-09-25T00:00:00.000Z",
+      "company": "Moelis & Co",
+      "name": "2027 Summer Analyst, Investment Banking",
+      "openingDate": "2026-08-18T00:00:00.000Z"
+    },
+    "p6yvie0pik": {
+      "closingDate": null,
+      "company": "E.ON",
+      "name": "Quantitative Risk Intern",
+      "openingDate": null
+    },
+    "p9ogue7894": {
+      "closingDate": null,
+      "company": "Wintermute",
+      "name": "Quant Research Internship (Summer 2027)",
+      "openingDate": null
+    },
+    "pc8s7wde9w": {
+      "closingDate": "2026-09-30T00:00:00.000Z",
+      "company": "Man Group",
+      "name": "IDI Summer 2027 Internship",
+      "openingDate": "2026-09-04T00:00:00.000Z"
+    },
+    "pcef45k85e": {
+      "closingDate": null,
+      "company": "TikTok",
+      "name": "Intern, 2027 Summer",
+      "openingDate": null
+    },
+    "pcv5hecqpx": {
+      "closingDate": "2026-10-11T00:00:00.000Z",
+      "company": "Bank of America",
+      "name": "Summer 2027 Analyst Programme",
+      "openingDate": "2026-08-03T00:00:00.000Z"
+    },
+    "pegpg3vyvg": {
+      "closingDate": null,
+      "company": "Castleton Commodities International",
+      "name": "Summer Analyst Internship Programme (Summer 2027)",
+      "openingDate": "2026-07-21T00:00:00.000Z"
+    },
+    "pkd8satjw1": {
+      "closingDate": null,
+      "company": "Orbis",
+      "name": "UK Business Internship",
+      "openingDate": null
+    },
+    "plf9ptj35g": {
+      "closingDate": null,
+      "company": "Intriva",
+      "name": "Private Equity Intern",
+      "openingDate": null
+    },
+    "ppoepzhhl6": {
+      "closingDate": "2027-01-31T00:00:00.000Z",
+      "company": "Shell",
+      "name": "Assessed Internship Programme 2027",
+      "openingDate": "2026-09-15T00:00:00.000Z"
+    },
+    "ptdp3w0lho": {
+      "closingDate": null,
+      "company": "FTI Consulting",
+      "name": "2027 Summer Internship",
+      "openingDate": null
+    },
+    "puey98sh56": {
+      "closingDate": null,
+      "company": "HSBC",
+      "name": "Summer Internship 2026-2027",
+      "openingDate": null
+    },
+    "pv2o3mjpz0": {
+      "closingDate": null,
+      "company": "Liberty Global",
+      "name": "Finance Intern",
+      "openingDate": null
+    },
+    "pv97z8l0ef": {
+      "closingDate": null,
+      "company": "CIBC",
+      "name": "Summer Intern 2027",
+      "openingDate": null
+    },
+    "pvn1wcbw3l": {
+      "closingDate": null,
+      "company": "Oxera",
+      "name": "Intern",
+      "openingDate": null
+    },
+    "pxq146w78t": {
+      "closingDate": null,
+      "company": "GSA Capital",
+      "name": "Quantitative Reseacher - Intern",
+      "openingDate": "2026-07-02T00:00:00.000Z"
+    },
+    "q4piys5lsr": {
+      "closingDate": null,
+      "company": "Evercore",
+      "name": "Debt Advisory Summer Internship (2027)",
+      "openingDate": "2026-09-01T00:00:00.000Z"
+    },
+    "q704jptfc9": {
+      "closingDate": null,
+      "company": "Lockton",
+      "name": "Insurance Summer Intern",
+      "openingDate": null
+    },
+    "q87xb8gfb2": {
+      "closingDate": null,
+      "company": "Fenchurch Advisory",
+      "name": "2027 Summer Internship Programme",
+      "openingDate": "2026-08-31T00:00:00.000Z"
+    },
+    "q9xdqpetyg": {
+      "closingDate": null,
+      "company": "General Atlantic",
+      "name": "2027 Summer Analyst",
+      "openingDate": null
+    },
+    "qenvwl9xvn": {
+      "closingDate": null,
+      "company": "Mako Trading",
+      "name": "Summer Internship - Trading & Technology",
+      "openingDate": null
+    },
+    "qf1fmy9uio": {
+      "closingDate": "2026-09-07T00:00:00.000Z",
+      "company": "Capital One",
+      "name": "Strategy Analyst Summer Internship",
+      "openingDate": "2026-08-27T00:00:00.000Z"
+    },
+    "qgua0k1sb0": {
+      "closingDate": "2026-09-16T00:00:00.000Z",
+      "company": "Alantra",
+      "name": "FIG Summer Intern",
+      "openingDate": "2026-09-02T00:00:00.000Z"
+    },
+    "qlvk04173j": {
+      "closingDate": null,
+      "company": "Nomura",
+      "name": "2027 - Investment Banking - Client Financing Solutions - Summer Internship",
+      "openingDate": "2026-08-31T00:00:00.000Z"
+    },
+    "qq9c7ufyrh": {
+      "closingDate": null,
+      "company": "Clarksons",
+      "name": "2027 Broking Summer Internship (shipping & commodities)",
+      "openingDate": null
+    },
+    "qsdoqob7x6": {
+      "closingDate": null,
+      "company": "Aberdeen Group",
+      "name": "Summer Internship 2027",
+      "openingDate": null
+    },
+    "qsexspdrf8": {
+      "closingDate": null,
+      "company": "Allianz Insurance",
+      "name": "Summer Intern 2027",
+      "openingDate": null
+    },
+    "qtbxaaaqhm": {
+      "closingDate": null,
+      "company": "CBRE",
+      "name": "2027 Summer Internship",
+      "openingDate": null
+    },
+    "qtdo9uqi9e": {
+      "closingDate": null,
+      "company": "Morgan Stanley",
+      "name": "2027 Investment Banking Summer Analyst Programme",
+      "openingDate": "2026-09-07T00:00:00.000Z"
+    },
+    "quig4d87tl": {
+      "closingDate": null,
+      "company": "Teneo",
+      "name": "Financial Advisory Internship 2027",
+      "openingDate": null
+    },
+    "qy3az3ysxe": {
+      "closingDate": null,
+      "company": "DV Trading",
+      "name": "Trading Intern - Summer 2027",
+      "openingDate": "2026-08-12T00:00:00.000Z"
+    },
+    "qzbods765y": {
+      "closingDate": null,
+      "company": "Houlihan Lokey",
+      "name": "Summer Financial Analyst - Manchester",
+      "openingDate": null
+    },
+    "qzljtoegcb": {
+      "closingDate": null,
+      "company": "IMC Trading",
+      "name": "Women in Trading",
+      "openingDate": null
+    },
+    "r13ijes05m": {
+      "closingDate": null,
+      "company": "Stifel",
+      "name": "Investment Banking Summer Intern",
+      "openingDate": null
+    },
+    "r24wwydaz1": {
+      "closingDate": null,
+      "company": "iSAM",
+      "name": "Quantitative Research Internship",
+      "openingDate": "2026-08-18T00:00:00.000Z"
+    },
+    "r3m482qusd": {
+      "closingDate": null,
+      "company": "Capula Investment Management",
+      "name": "2028 Trading and Research Summer Internship",
+      "openingDate": null
+    },
+    "r5noscwdgi": {
+      "closingDate": null,
+      "company": "CT: Accountants Advisers",
+      "name": "Summer Placement Programme 2027",
+      "openingDate": null
+    },
+    "r8b8ayj04j": {
+      "closingDate": null,
+      "company": "CFO Insights",
+      "name": "Management Consulting Internship",
+      "openingDate": null
+    },
+    "rb96942jhs": {
+      "closingDate": null,
+      "company": "Oak Hill Advisors",
+      "name": "Summer Analyst 2027",
+      "openingDate": null
+    },
+    "rca9chywkl": {
+      "closingDate": null,
+      "company": "Cr\u00e9dit Agricole",
+      "name": "Summer Internship Programme 2027",
+      "openingDate": null
+    },
+    "rcnjysntuc": {
+      "closingDate": "2026-10-05T00:00:00.000Z",
+      "company": "Mizuho",
+      "name": "2027 Risk and Credit Risk Summer Internship",
+      "openingDate": "2026-09-07T00:00:00.000Z"
+    },
+    "rd3onmzp20": {
+      "closingDate": null,
+      "company": "PIMCO",
+      "name": "2027 Summer Intern - Product Analyst",
+      "openingDate": "2026-08-31T00:00:00.000Z"
+    },
+    "rfey4f7mgn": {
+      "closingDate": null,
+      "company": "Allied World",
+      "name": "Actuarial Summer Internship",
+      "openingDate": null
+    },
+    "rj9dou0y5g": {
+      "closingDate": null,
+      "company": "Hiscox",
+      "name": "2027 Claims Summer Intern",
+      "openingDate": null
+    },
+    "rn0va6jde6": {
+      "closingDate": null,
+      "company": "Marsh McLennan",
+      "name": "Summer Internship 2027",
+      "openingDate": null
+    },
+    "ruduif38s1": {
+      "closingDate": "2026-10-25T00:00:00.000Z",
+      "company": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale",
+      "name": "Global Markets 2027 Summer Internship Programme",
+      "openingDate": "2026-09-07T00:00:00.000Z"
+    },
+    "rvz0tvxdnz": {
+      "closingDate": "2026-10-31T00:00:00.000Z",
+      "company": "Wells Fargo",
+      "name": "EMEA Commercial Real Estate Summer Analyst",
+      "openingDate": "2026-08-26T00:00:00.000Z"
+    },
+    "rwm4p1g45l": {
+      "closingDate": null,
+      "company": "Isio",
+      "name": "2027 Internship Programme",
+      "openingDate": null
+    },
+    "s07a4s0rpi": {
+      "closingDate": null,
+      "company": "Quadrature",
+      "name": "Internship",
+      "openingDate": null
+    },
+    "s07se1yhgq": {
+      "closingDate": null,
+      "company": "GP Bullhound",
+      "name": "Future Stars - Work Experience & Insight Programme",
+      "openingDate": null
+    },
+    "s0uo2eieep": {
+      "closingDate": null,
+      "company": "SilverTide",
+      "name": "Sales Summer Analyst",
+      "openingDate": null
+    },
+    "s6irp58fdc": {
+      "closingDate": "2026-03-24T00:00:00.000Z",
+      "company": "Millennium Management",
+      "name": "Millennium Investment Internship 2027",
+      "openingDate": "2026-02-26T00:00:00.000Z"
+    },
+    "s8s95z4rpy": {
+      "closingDate": null,
+      "company": "Rokos Capital Management",
+      "name": "RCM Internship Programme 2027",
+      "openingDate": null
+    },
+    "sb1fvxv3d6": {
+      "closingDate": "2026-10-30T00:00:00.000Z",
+      "company": "Deutsche Bank",
+      "name": "Quantitative Internship Programme 2027",
+      "openingDate": "2026-09-01T00:00:00.000Z"
+    },
+    "sb2qos3wz4": {
+      "closingDate": null,
+      "company": "AllianceBernstein",
+      "name": "Investments Summer Intern",
+      "openingDate": null
+    },
+    "seznp26awp": {
+      "closingDate": null,
+      "company": "CITIC CLSA",
+      "name": "Internship Programme 2027",
+      "openingDate": null
+    },
+    "si17jqldqr": {
+      "closingDate": null,
+      "company": "WTW",
+      "name": "2027 Actuarial Consultant Internship Programme",
+      "openingDate": "2026-09-01T00:00:00.000Z"
+    },
+    "sjqwmquqea": {
+      "closingDate": null,
+      "company": "Lazard",
+      "name": "2027 Summer Internship",
+      "openingDate": "2026-09-09T00:00:00.000Z"
+    },
+    "slqbw22lrj": {
+      "closingDate": "2027-04-30T00:00:00.000Z",
+      "company": "Brevan Howard",
+      "name": "2027 Summer Internship Program",
+      "openingDate": "2026-09-07T00:00:00.000Z"
+    },
+    "solur51h9q": {
+      "closingDate": null,
+      "company": "Principal Asset Management",
+      "name": "Intern",
+      "openingDate": null
+    },
+    "sot5a54m4b": {
+      "closingDate": null,
+      "company": "Baringa",
+      "name": "UK 2027 Summer Internship",
+      "openingDate": null
+    },
+    "sqaon0ffm5": {
+      "closingDate": null,
+      "company": "KR8 Advisory",
+      "name": "Business & Capital Advisory (Intern)",
+      "openingDate": null
+    },
+    "sr9fyjnaeb": {
+      "closingDate": null,
+      "company": "Frontier Economics",
+      "name": "2027 Economic Intern (Short-term)",
+      "openingDate": null
+    },
+    "srsc0rbgrz": {
+      "closingDate": null,
+      "company": "Stout",
+      "name": "2027 Summer Intern - Corporate Finance",
+      "openingDate": null
+    },
+    "sthu0dewso": {
+      "closingDate": null,
+      "company": "NFU Mutual",
+      "name": "2027 Summer Internship Programme",
+      "openingDate": null
+    },
+    "svx4anr7pi": {
+      "closingDate": null,
+      "company": "BMLL",
+      "name": "Junior Quantitative Analyst Internship - Summer 2027",
+      "openingDate": null
+    },
+    "sy130gmptk": {
+      "closingDate": "2026-11-29T00:00:00.000Z",
+      "company": "MUFG",
+      "name": "2027 Summer Analyst Programme: Credit Sales and Trading",
+      "openingDate": "2026-09-09T00:00:00.000Z"
+    },
+    "sy6ujhpmmm": {
+      "closingDate": null,
+      "company": "LaSalle",
+      "name": "2027 Summer Internship Programme",
+      "openingDate": null
+    },
+    "t1pqcm4j5j": {
+      "closingDate": null,
+      "company": "Ryan",
+      "name": "Ryan Tax Internship Programme",
+      "openingDate": null
+    },
+    "t2va5huukl": {
+      "closingDate": null,
+      "company": "Aspect Capital",
+      "name": "Quantitative Research Summer Intern 2027",
+      "openingDate": null
+    },
+    "t2yo942imr": {
+      "closingDate": null,
+      "company": "Greystar",
+      "name": "2027 Summer Internship",
+      "openingDate": null
+    },
+    "t4fif38x3d": {
+      "closingDate": null,
+      "company": "Ryan Specialty",
+      "name": "Summer Underwriting Internship",
+      "openingDate": null
+    },
+    "t5gw6v5yf6": {
+      "closingDate": null,
+      "company": "Menzies",
+      "name": "Summer Internship",
+      "openingDate": null
+    },
+    "t6kidzr69g": {
+      "closingDate": null,
+      "company": "Barings",
+      "name": "2027 Investment Management Summer Internship",
+      "openingDate": "2026-08-28T00:00:00.000Z"
+    },
+    "tawl9id98r": {
+      "closingDate": null,
+      "company": "British Airways",
+      "name": "Summer Internship",
+      "openingDate": null
+    },
+    "tdtevotzeb": {
+      "closingDate": null,
+      "company": "Copper.co",
+      "name": "Summer Internship 2027",
+      "openingDate": null
+    },
+    "teth37ar9i": {
+      "closingDate": null,
+      "company": "Caledonia Investments",
+      "name": "2027 Summer Internship",
+      "openingDate": null
+    },
+    "tgf6wwrdfj": {
+      "closingDate": null,
+      "company": "DWS",
+      "name": "2027 Summer Internships",
+      "openingDate": null
+    },
+    "tgik24xlxt": {
+      "closingDate": null,
+      "company": "Dimensional Fund Advisors",
+      "name": "Investment Research - Summer Intern 2027",
+      "openingDate": null
+    },
+    "thbak1wdfq": {
+      "closingDate": null,
+      "company": "Markel",
+      "name": "2027 Summer Internship Programme",
+      "openingDate": null
+    },
+    "tjm45wt1ka": {
+      "closingDate": null,
+      "company": "Arch Insurance International",
+      "name": "2027 Summer Internship",
+      "openingDate": null
+    },
+    "tjsxna6mcl": {
+      "closingDate": null,
+      "company": "Citi",
+      "name": "Financing, Summer Analyst, 2027",
+      "openingDate": "2026-09-09T00:00:00.000Z"
+    },
+    "tk4mzv77bu": {
+      "closingDate": null,
+      "company": "Investec",
+      "name": "Summer Internship 2027",
+      "openingDate": null
+    },
+    "tmlue1jlu5": {
+      "closingDate": null,
+      "company": "Virtu Financial",
+      "name": "2027 Internship - Quantitative Trading",
+      "openingDate": "2026-07-01T00:00:00.000Z"
+    },
+    "tq7f2zzimo": {
+      "closingDate": null,
+      "company": "Tide Insurance",
+      "name": "2027 Summer Placement",
+      "openingDate": null
+    },
+    "trx5j32l37": {
+      "closingDate": null,
+      "company": "BDO Global",
+      "name": "2027 Summer Internship Programme",
+      "openingDate": null
+    },
+    "tsta2emevr": {
+      "closingDate": null,
+      "company": "Financial Conduct Authority",
+      "name": "2027 Summer Internship",
+      "openingDate": null
+    },
+    "ttip3y3fi6": {
+      "closingDate": null,
+      "company": "Macquarie Group",
+      "name": "2027 Commodities and Global Markets Summer Internship Programme",
+      "openingDate": "2026-09-01T00:00:00.000Z"
+    },
+    "tu0w9qalfe": {
+      "closingDate": null,
+      "company": "WeChat Pay",
+      "name": "Business Development Intern (Chinese speaking)",
+      "openingDate": null
+    },
+    "tuzf25ew1u": {
+      "closingDate": null,
+      "company": "BTG Pactual",
+      "name": "Summer Undergrad 2027",
+      "openingDate": "2026-08-03T00:00:00.000Z"
+    },
+    "twiav5mr2j": {
+      "closingDate": null,
+      "company": "Zeus Capital",
+      "name": "Zeus Internship 2027",
+      "openingDate": null
+    },
+    "twwwd5dcrz": {
+      "closingDate": null,
+      "company": "S&W",
+      "name": "Internship Programme - July 2027",
+      "openingDate": null
+    },
+    "u6u7g8623u": {
+      "closingDate": null,
+      "company": "Capula Investment Management",
+      "name": "Trading & Research Summer Internship 2027",
+      "openingDate": "2026-04-03T00:00:00.000Z"
+    },
+    "u8ql9ljyct": {
+      "closingDate": null,
+      "company": "RBC Capital Markets",
+      "name": "2027 Summer Analyst - Global Markets",
+      "openingDate": "2026-09-11T00:00:00.000Z"
+    },
+    "u90ffc8sht": {
+      "closingDate": null,
+      "company": "Centrica",
+      "name": "Finance Summer Internship",
+      "openingDate": null
+    },
+    "ua2s6zlfxd": {
+      "closingDate": null,
+      "company": "MKI Global Partners",
+      "name": "Summer Analyst (Event-Driven/Special Situations)",
+      "openingDate": null
+    },
+    "uhco25svzv": {
+      "closingDate": null,
+      "company": "Welltower",
+      "name": "2027 Summer Analyst - Real Estate Investments",
+      "openingDate": null
+    },
+    "ukoiuzk1z2": {
+      "closingDate": null,
+      "company": "Newton",
+      "name": "Summer Academy 2026/6",
+      "openingDate": null
+    },
+    "ulgxdgimpl": {
+      "closingDate": null,
+      "company": "Waters Corporation",
+      "name": "M&A and Strategic Finance, Summer Intern",
+      "openingDate": null
+    },
+    "um6r0i2p0w": {
+      "closingDate": null,
+      "company": "Galaxy",
+      "name": "2027 Summer Internship",
+      "openingDate": null
+    },
+    "umt3vitaix": {
+      "closingDate": null,
+      "company": "Putnam",
+      "name": "Summer Associate Internship",
+      "openingDate": null
+    },
+    "unybwca0bz": {
+      "closingDate": null,
+      "company": "ExodusPoint",
+      "name": "Fixed Income Internship - Summer 2027",
+      "openingDate": null
+    },
+    "upt44nsdkg": {
+      "closingDate": null,
+      "company": "Synthesis",
+      "name": "Quantitative Research Intern (Summer 2027)",
+      "openingDate": "2026-09-16T00:00:00.000Z"
+    },
+    "usfmuvsk6w": {
+      "closingDate": null,
+      "company": "PKF Smith Cooper",
+      "name": "Internship - Summer 2027",
+      "openingDate": null
+    },
+    "usumgpqdd9": {
+      "closingDate": "2026-11-15T00:00:00.000Z",
+      "company": "Fidelity International",
+      "name": "Investment Directing Summer Internship 2027",
+      "openingDate": "2026-09-15T00:00:00.000Z"
+    },
+    "uxbflsvgvz": {
+      "closingDate": null,
+      "company": "Leerink Partners",
+      "name": "2027 Investment Banking Summer Analyst Program",
+      "openingDate": null
+    },
+    "v2cq2pq6l4": {
+      "closingDate": null,
+      "company": "Arena Investors",
+      "name": "2027 Summer Investment Analyst",
+      "openingDate": null
+    },
+    "v3ph64x7pq": {
+      "closingDate": "2026-11-15T00:00:00.000Z",
+      "company": "Fidelity International",
+      "name": "Multi Asset Summer Internship 2027",
+      "openingDate": "2026-09-15T00:00:00.000Z"
+    },
+    "v6k3opwunl": {
+      "closingDate": null,
+      "company": "Hines",
+      "name": "2026 Summer Analyst",
+      "openingDate": "2026-08-07T00:00:00.000Z"
+    },
+    "v9f07euc83": {
+      "closingDate": null,
+      "company": "BAE Systems",
+      "name": "Summer Intern",
+      "openingDate": null
+    },
+    "v9zvqe2c2u": {
+      "closingDate": null,
+      "company": "Guggenheim Partners",
+      "name": "2027 Investment Banking Analyst Intern",
+      "openingDate": "2026-08-24T00:00:00.000Z"
+    },
+    "ver14sozvm": {
+      "closingDate": "2026-10-16T00:00:00.000Z",
+      "company": "Eastdil Secured",
+      "name": "2027 Summer Internship",
+      "openingDate": "2026-09-01T00:00:00.000Z"
+    },
+    "vf402mk2y5": {
+      "closingDate": null,
+      "company": "DC Advisory",
+      "name": "Summer Intern 2027 Programme",
+      "openingDate": "2026-09-01T00:00:00.000Z"
+    },
+    "vgoizstq6i": {
+      "closingDate": "2026-10-31T00:00:00.000Z",
+      "company": "Wells Fargo",
+      "name": "EMEA Markets Summer Analyst",
+      "openingDate": "2026-08-26T00:00:00.000Z"
+    },
+    "vilbyy5a0z": {
+      "closingDate": null,
+      "company": "Wood Mackenzie",
+      "name": "Consulting Intern (June - August)",
+      "openingDate": null
+    },
+    "viubj3bxgn": {
+      "closingDate": null,
+      "company": "Uber",
+      "name": "2027 Business Development Intern",
+      "openingDate": null
+    },
+    "vj02b0ggc6": {
+      "closingDate": "2026-10-01T00:00:00.000Z",
+      "company": "Perella Weinberg Partners",
+      "name": "2027 Advisory Summer Analyst Programme",
+      "openingDate": "2026-08-21T00:00:00.000Z"
+    },
+    "vmlfofxn5q": {
+      "closingDate": "2026-11-15T00:00:00.000Z",
+      "company": "Jefferies",
+      "name": "2027 Quant Masters Summer Programme",
+      "openingDate": "2026-08-31T00:00:00.000Z"
+    },
+    "vmoxgl1hqi": {
+      "closingDate": null,
+      "company": "Hamilton Insurance Group",
+      "name": "Hamilton Insurance Summer Internship",
+      "openingDate": null
+    },
+    "vnejx51j82": {
+      "closingDate": null,
+      "company": "Tesco",
+      "name": "Finance Internship",
+      "openingDate": null
+    },
+    "vou9rfeo4t": {
+      "closingDate": null,
+      "company": "State Street",
+      "name": "eFX Summer Internship (10 Weeks)",
+      "openingDate": null
+    },
+    "voyqktczs5": {
+      "closingDate": null,
+      "company": "Cambridge Associates",
+      "name": "Investment Summer Analyst (Intern)",
+      "openingDate": null
+    },
+    "vrb6e3j24q": {
+      "closingDate": null,
+      "company": "Cushman & Wakefield",
+      "name": "Summer Internship 2027",
+      "openingDate": null
+    },
+    "vscaes1pb4": {
+      "closingDate": "2026-10-20T00:00:00.000Z",
+      "company": "Maven Securities",
+      "name": "Trader Summer Internship 2027",
+      "openingDate": "2026-09-01T00:00:00.000Z"
+    },
+    "vt4roqzr11": {
+      "closingDate": null,
+      "company": "General Electric",
+      "name": "Capital Markets Intern",
+      "openingDate": null
+    },
+    "vuog4dn46o": {
+      "closingDate": "2026-10-04T00:00:00.000Z",
+      "company": "PJT Partners",
+      "name": "2027 Summer Analyst (Corporate Rotational)",
+      "openingDate": "2026-08-31T00:00:00.000Z"
+    },
+    "vvndebzwb5": {
+      "closingDate": "2026-09-30T00:00:00.000Z",
+      "company": "BlackRock",
+      "name": "2027 Summer Internship Program - EMEA",
+      "openingDate": "2026-06-30T00:00:00.000Z"
+    },
+    "vyml6kww9z": {
+      "closingDate": null,
+      "company": "Sky",
+      "name": "Summer Internship 2027",
+      "openingDate": null
+    },
+    "vz48bwh47m": {
+      "closingDate": "2026-06-14T00:00:00.000Z",
+      "company": "Point72",
+      "name": "2027 Academy Investment Summer Internship",
+      "openingDate": "2026-03-02T00:00:00.000Z"
+    },
+    "w2av2m4l7c": {
+      "closingDate": null,
+      "company": "Saltgate",
+      "name": "Summer Programme 2027",
+      "openingDate": null
+    },
+    "w2i0kwnbkz": {
+      "closingDate": "2026-11-15T00:00:00.000Z",
+      "company": "Jefferies",
+      "name": "2027 Investment Banking Summer Internship Programme",
+      "openingDate": "2026-08-31T00:00:00.000Z"
+    },
+    "w422v28305": {
+      "closingDate": null,
+      "company": "XTX Markets",
+      "name": "Risk - Summer Intern 2027",
+      "openingDate": null
+    },
+    "w51gh5yp3d": {
+      "closingDate": null,
+      "company": "Lendable",
+      "name": "Lendable",
+      "openingDate": null
+    },
+    "wan7ar5jyb": {
+      "closingDate": null,
+      "company": "Hudson River Trading",
+      "name": "Quant Research & Trading Internship - Summer 2027",
+      "openingDate": "2026-08-04T00:00:00.000Z"
+    },
+    "wcctkp084l": {
+      "closingDate": null,
+      "company": "Millennium Management",
+      "name": "2027 Non-Investment Summer Intern",
+      "openingDate": "2026-08-01T00:00:00.000Z"
+    },
+    "wdgdzs85ha": {
+      "closingDate": null,
+      "company": "Da Vinci Trading",
+      "name": "Quant Trading Intern (May 2028)",
+      "openingDate": null
+    },
+    "wdodi1co85": {
+      "closingDate": null,
+      "company": "LCP",
+      "name": "Consulting - Summer Internship 2027",
+      "openingDate": null
+    },
+    "we02sc45ng": {
+      "closingDate": null,
+      "company": "MFS",
+      "name": "Equity Research Analyst Intern",
+      "openingDate": null
+    },
+    "wejolky8ln": {
+      "closingDate": null,
+      "company": "Aon",
+      "name": "Aon Summer Internship Programme 2027",
+      "openingDate": null
+    },
+    "wf05enxp1m": {
+      "closingDate": null,
+      "company": "Raymond James",
+      "name": "2027 Summer Analyst Programme",
+      "openingDate": null
+    },
+    "wfc4h37689": {
+      "closingDate": null,
+      "company": "BCG",
+      "name": "Summer Associate, Internship",
+      "openingDate": null
+    },
+    "wjpek44jr1": {
+      "closingDate": null,
+      "company": "McKinsey & Company",
+      "name": "Business Analyst Intern",
+      "openingDate": "2026-09-01T00:00:00.000Z"
+    },
+    "wx957fsiab": {
+      "closingDate": null,
+      "company": "Ares Management",
+      "name": "Summer Analyst Programme 2027",
+      "openingDate": "2026-08-19T00:00:00.000Z"
+    },
+    "wzjjzgbnxs": {
+      "closingDate": null,
+      "company": "Norges Bank",
+      "name": "Summer Internship 2027",
+      "openingDate": null
+    },
+    "x363ei4n3e": {
+      "closingDate": null,
+      "company": "Aegon",
+      "name": "Actuarial Intern (Summer 2027)",
+      "openingDate": null
+    },
+    "x3ops1ftx9": {
+      "closingDate": null,
+      "company": "Flow Traders",
+      "name": "Summer Trading Internship",
+      "openingDate": null
+    },
+    "x6yry9961v": {
+      "closingDate": null,
+      "company": "Soros Fund Management",
+      "name": "Investment Intern - Summer 2027",
+      "openingDate": null
+    },
+    "x7ck2mfrwf": {
+      "closingDate": null,
+      "company": "AstraZeneca",
+      "name": "Finance Planning & Reporting Internship",
+      "openingDate": null
+    },
+    "x7rffdyk80": {
+      "closingDate": "2026-09-01T00:00:00.000Z",
+      "company": "SMBC",
+      "name": "Summer Intern Programme 2027",
+      "openingDate": "2026-08-07T00:00:00.000Z"
+    },
+    "xad7q8cjqa": {
+      "closingDate": "2026-10-04T00:00:00.000Z",
+      "company": "PJT Partners",
+      "name": "2027 Summer Analyst (PJT Park Hill - Private Capital Solutions)",
+      "openingDate": "2026-08-31T00:00:00.000Z"
+    },
+    "xakjokmg1n": {
+      "closingDate": null,
+      "company": "GPFS",
+      "name": "Accounting Internship - Summer 2027",
+      "openingDate": null
+    },
+    "xdt1qjv0l9": {
+      "closingDate": null,
+      "company": "Global Infrastructure Advisors",
+      "name": "Analyst / Analyst Internship",
+      "openingDate": null
+    },
+    "xefxdf6yog": {
+      "closingDate": null,
+      "company": "Severn Trent",
+      "name": "Finance Summer Placement",
+      "openingDate": null
+    },
+    "xetcazb7wg": {
+      "closingDate": null,
+      "company": "Compass Lexecon",
+      "name": "Intern (Summer 2027)",
+      "openingDate": null
+    },
+    "xfyqgkgvqu": {
+      "closingDate": null,
+      "company": "Scotiabank",
+      "name": "2027 UK Summer Internship",
+      "openingDate": null
+    },
+    "xiil4fa6jd": {
+      "closingDate": null,
+      "company": "Lenovo",
+      "name": "Business Operations Intern, EMEA MBG",
+      "openingDate": null
+    },
+    "xjcbze30n9": {
+      "closingDate": null,
+      "company": "Schroders",
+      "name": "2027 Internship Programme",
+      "openingDate": "2026-08-28T00:00:00.000Z"
+    },
+    "xjk8hu8wl7": {
+      "closingDate": null,
+      "company": "Loizou & Co",
+      "name": "Financial Advisory Internship",
+      "openingDate": null
+    },
+    "xkma01okvy": {
+      "closingDate": null,
+      "company": "British Business Bank",
+      "name": "Summer Internship Programme 2027",
+      "openingDate": null
+    },
+    "xltd0kmvdr": {
+      "closingDate": null,
+      "company": "Retail Insights",
+      "name": "Management Consulting Internship",
+      "openingDate": null
+    },
+    "xo0i0vm48f": {
+      "closingDate": null,
+      "company": "Macquarie Group",
+      "name": "2027 Risk Management Group Summer Internship Programme",
+      "openingDate": "2026-09-01T00:00:00.000Z"
+    },
+    "xol1zhqfwc": {
+      "closingDate": "2026-10-16T00:00:00.000Z",
+      "company": "Walter Scott",
+      "name": "Summer Internship Opportunities 2027",
+      "openingDate": "2026-08-17T00:00:00.000Z"
+    },
+    "xphn2iuqk5": {
+      "closingDate": null,
+      "company": "Dare",
+      "name": "Trading Summer Internship 2027",
+      "openingDate": null
+    },
+    "xq0kqq87g7": {
+      "closingDate": null,
+      "company": "Dimensional Fund Advisors",
+      "name": "Accountancy Internship, Summer 2027",
+      "openingDate": null
+    },
+    "xs9vqg4rnp": {
+      "closingDate": null,
+      "company": "Amazon",
+      "name": "Financial Analyst Intern",
+      "openingDate": null
+    },
+    "xudruqpl4v": {
+      "closingDate": null,
+      "company": "Chatham Financial",
+      "name": "Intern, Investment Management",
+      "openingDate": null
+    },
+    "xv7rvzmg3x": {
+      "closingDate": null,
+      "company": "Houlihan Lokey",
+      "name": "Summer Financial Analyst 2027 - Financial Restructuring",
+      "openingDate": "2026-09-07T00:00:00.000Z"
+    },
+    "xvndqdfnik": {
+      "closingDate": null,
+      "company": "Millennium Management",
+      "name": "2027 Quant Researcher Intern",
+      "openingDate": "2026-07-31T00:00:00.000Z"
+    },
+    "xx6gvsqjz8": {
+      "closingDate": "2026-11-29T00:00:00.000Z",
+      "company": "MUFG",
+      "name": "2027 Summer Analyst Programme: Internal Audit",
+      "openingDate": "2026-09-07T00:00:00.000Z"
+    },
+    "xyn3tm5ytg": {
+      "closingDate": null,
+      "company": "Cboe Global Markets",
+      "name": "Quantitative Analytics Intern",
+      "openingDate": null
+    },
+    "y3j1tl8p6b": {
+      "closingDate": null,
+      "company": "BGF",
+      "name": "2027 Summer Internship Programme",
+      "openingDate": null
+    },
+    "y3w9g98r3u": {
+      "closingDate": null,
+      "company": "Gneiss Energy",
+      "name": "Summer Internship 2027",
+      "openingDate": null
+    },
+    "y8ot4o9ay1": {
+      "closingDate": null,
+      "company": "Sona Asset Management",
+      "name": "Summer Intern Programme",
+      "openingDate": null
+    },
+    "y9pu80zfum": {
+      "closingDate": null,
+      "company": "Ethical Capital Partners",
+      "name": "Investment Intern",
+      "openingDate": null
+    },
+    "yayxb49x20": {
+      "closingDate": null,
+      "company": "Charles River Associates",
+      "name": "Intern - Summer 2027",
+      "openingDate": null
+    },
+    "ygixj2sl5h": {
+      "closingDate": "2026-10-05T00:00:00.000Z",
+      "company": "Mizuho",
+      "name": "2027 Operations Summer Internship",
+      "openingDate": "2026-09-07T00:00:00.000Z"
+    },
+    "yhv4d2cyag": {
+      "closingDate": null,
+      "company": "J.P. Morgan",
+      "name": "2027 Global Private Bank - Advisor Summer Internship",
+      "openingDate": "2026-08-31T00:00:00.000Z"
+    },
+    "yi8k8k7xf7": {
+      "closingDate": null,
+      "company": "Handelsbanken",
+      "name": "Summer Internship 2027",
+      "openingDate": null
+    },
+    "yjwcnlp7xl": {
+      "closingDate": null,
+      "company": "HDI Global",
+      "name": "Actuarial Internship",
+      "openingDate": null
+    },
+    "ymu5cwti74": {
+      "closingDate": null,
+      "company": "AlphaSights",
+      "name": "Insight Days, Client Service",
+      "openingDate": null
+    },
+    "ynef8w3hac": {
+      "closingDate": null,
+      "company": "Blackfinch Group",
+      "name": "Blackfinch Summer 2027 Internship Programme",
+      "openingDate": null
+    },
+    "ypb2f5egeo": {
+      "closingDate": "2026-11-20T00:00:00.000Z",
+      "company": "BNY Mellon",
+      "name": "2027 Summer Internship Program - Investments",
+      "openingDate": "2026-09-15T00:00:00.000Z"
+    },
+    "ypjow3u7d7": {
+      "closingDate": null,
+      "company": "Knight Frank",
+      "name": "12-Week Work Placement",
+      "openingDate": null
+    },
+    "yt95ur089k": {
+      "closingDate": null,
+      "company": "EQT",
+      "name": "Summer Analyst Programme \u2013 EQT Real Estate",
+      "openingDate": null
+    },
+    "ytbxh7ub3q": {
+      "closingDate": null,
+      "company": "Evercore",
+      "name": "RESA Summer Internship (2027)",
+      "openingDate": "2026-09-01T00:00:00.000Z"
+    },
+    "ywd6qq727f": {
+      "closingDate": null,
+      "company": "CD&R",
+      "name": "Private Equity Summer Internship 2027",
+      "openingDate": "2026-08-24T00:00:00.000Z"
+    },
+    "ywq6th5esp": {
+      "closingDate": null,
+      "company": "Vanguard",
+      "name": "Investment Management Internship, Summer 2027",
+      "openingDate": null
+    },
+    "yx7y1cnitj": {
+      "closingDate": null,
+      "company": "Savills",
+      "name": "2027 Summer Scheme",
+      "openingDate": null
+    },
+    "yxtfxs3j3i": {
+      "closingDate": null,
+      "company": "Berenberg",
+      "name": "Summer Internship 2027",
+      "openingDate": null
+    },
+    "z2ebhtzs9s": {
+      "closingDate": null,
+      "company": "Forvis Mazars",
+      "name": "Summer Internship 2027",
+      "openingDate": null
+    },
+    "z6pc6xn0el": {
+      "closingDate": null,
+      "company": "Equinor",
+      "name": "Summer Internship 2027",
+      "openingDate": null
+    },
+    "z7fb3bv8pk": {
+      "closingDate": "2026-11-29T00:00:00.000Z",
+      "company": "MUFG",
+      "name": "2027 Summer Analyst Programme: Capital Markets",
+      "openingDate": "2026-09-07T00:00:00.000Z"
+    },
+    "z8fh9wc9uf": {
+      "closingDate": null,
+      "company": "Evercore",
+      "name": "M&A Advisory Summer Internship (2027)",
+      "openingDate": "2026-08-17T00:00:00.000Z"
+    },
+    "zbyismcu8o": {
+      "closingDate": null,
+      "company": "Plural Strategy",
+      "name": "Strategy Consulting Intern",
+      "openingDate": null
+    },
+    "zdngpioe4z": {
+      "closingDate": null,
+      "company": "Moody's",
+      "name": "Pricing and Packaging Strategy Intern",
+      "openingDate": null
+    },
+    "zju1cerqg5": {
+      "closingDate": null,
+      "company": "Santander",
+      "name": "CIB 2027 Summer Internship Program",
+      "openingDate": null
+    },
+    "zld4199meu": {
+      "closingDate": null,
+      "company": "BMO Capital Markets",
+      "name": "2027 Investment Banking Summer Analyst",
+      "openingDate": null
+    },
+    "zm17cu7kxl": {
+      "closingDate": null,
+      "company": "Mercer",
+      "name": "Summer Internship 2027",
+      "openingDate": null
+    },
+    "zmu1npdfdi": {
+      "closingDate": null,
+      "company": "First Actuarial",
+      "name": "Internship Opportunities 2027",
+      "openingDate": null
+    },
+    "zo14nc37p9": {
+      "closingDate": null,
+      "company": "Citadel Securities",
+      "name": "Trading & Quant Internship 2027",
+      "openingDate": "2026-05-21T00:00:00.000Z"
+    },
+    "zobpz6my5d": {
+      "closingDate": null,
+      "company": "Royal London",
+      "name": "Summer Internship",
+      "openingDate": null
+    },
+    "zoclv3wrrh": {
+      "closingDate": null,
+      "company": "Ardea Partners",
+      "name": "2027 Summer Analyst Programme",
+      "openingDate": "2026-08-25T00:00:00.000Z"
+    },
+    "zu2r2qvyh7": {
+      "closingDate": null,
+      "company": "Arbuthnot Latham",
+      "name": "Internship 2027",
+      "openingDate": null
+    },
+    "zvz2wbd9sk": {
+      "closingDate": null,
+      "company": "InfraRed Capital Partners",
+      "name": "Investments Summer Analyst Internship 2027",
+      "openingDate": "2026-09-07T00:00:00.000Z"
+    },
+    "zzm581e112": {
+      "closingDate": "2026-11-29T00:00:00.000Z",
+      "company": "MUFG",
+      "name": "2027 Summer Analyst Programme: Global Corporate Investment Banking",
+      "openingDate": "2026-09-07T00:00:00.000Z"
+    }
+  },
+  "raw_bytes": 910985,
+  "row_count": 509,
+  "updated": "2026-09-17T17:16:55.208833+00:00"
+}
