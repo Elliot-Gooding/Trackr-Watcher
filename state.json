@@ -138,6 +138,12 @@
       "name": "Fixed Income Summer Internship 2027",
       "openingDate": "2026-09-15T00:00:00.000Z"
     },
+    "5u6mrjk4my": {
+      "closingDate": null,
+      "company": "Citi",
+      "name": "Services, Summer Analyst, 2027",
+      "openingDate": "2026-09-18T00:00:00.000Z"
+    },
     "661ba2dbyd": {
       "closingDate": null,
       "company": "Morgan Stanley",
@@ -1033,10 +1039,10 @@
       "openingDate": null
     },
     "i69m4jp4qu": {
-      "closingDate": null,
+      "closingDate": "2026-10-16T00:00:00.000Z",
       "company": "Panmure Liberum",
       "name": "2027 Summer Internship Programme",
-      "openingDate": null
+      "openingDate": "2026-09-18T00:00:00.000Z"
     },
     "i6vyr5sh3x": {
       "closingDate": null,
@@ -3055,7 +3061,7 @@
       "openingDate": "2026-09-07T00:00:00.000Z"
     }
   },
-  "raw_bytes": 911226,
-  "row_count": 509,
-  "updated": "2026-09-17T21:17:56.551974+00:00"
+  "raw_bytes": 913226,
+  "row_count": 510,
+  "updated": "2026-09-18T11:07:29.983129+00:00"
 }
