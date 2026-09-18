@@ -408,6 +408,12 @@
       "name": "Insight Penultimate Year Talent",
       "openingDate": null
     },
+    "btqjof80vq": {
+      "closingDate": "2026-10-02T00:00:00.000Z",
+      "company": "CIBC",
+      "name": "Global Transaction Banking Summer Intern 2027",
+      "openingDate": "2026-09-18T00:00:00.000Z"
+    },
     "bxt4jvkxmz": {
       "closingDate": null,
       "company": "RBC Capital Markets",
@@ -1231,7 +1237,7 @@
       "openingDate": "2026-08-23T00:00:00.000Z"
     },
     "jvu629ro7q": {
-      "closingDate": null,
+      "closingDate": "2026-09-17T00:00:00.000Z",
       "company": "Inverto",
       "name": "Summer Internship: Procurement & Supply Chain Consulting",
       "openingDate": "2026-09-16T00:00:00.000Z"
@@ -1615,10 +1621,10 @@
       "openingDate": null
     },
     "n7rgnjtq94": {
-      "closingDate": null,
+      "closingDate": "2027-01-03T00:00:00.000Z",
       "company": "L.E.K. Consulting",
       "name": "Summer Associate 2027",
-      "openingDate": null
+      "openingDate": "2026-09-18T00:00:00.000Z"
     },
     "n9uq59ov0s": {
       "closingDate": "2026-11-29T00:00:00.000Z",
@@ -1627,10 +1633,10 @@
       "openingDate": "2026-09-07T00:00:00.000Z"
     },
     "na98tftepc": {
-      "closingDate": null,
+      "closingDate": "2026-09-25T00:00:00.000Z",
       "company": "Johnston Carmichael",
       "name": "Summer Internship - 2027",
-      "openingDate": null
+      "openingDate": "2026-09-18T00:00:00.000Z"
     },
     "nbd23x2xe2": {
       "closingDate": null,
@@ -1806,6 +1812,12 @@
       "name": "Structured Credit Internship",
       "openingDate": null
     },
+    "ot9g6wi5vq": {
+      "closingDate": "2026-10-02T00:00:00.000Z",
+      "company": "CIBC",
+      "name": "Investment Banking Summer Intern 2027",
+      "openingDate": "2026-09-18T00:00:00.000Z"
+    },
     "ov9rqhadd8": {
       "closingDate": null,
       "company": "Barclays",
@@ -1909,10 +1921,10 @@
       "openingDate": null
     },
     "pv97z8l0ef": {
-      "closingDate": null,
+      "closingDate": "2026-10-02T00:00:00.000Z",
       "company": "CIBC",
-      "name": "Summer Intern 2027",
-      "openingDate": null
+      "name": "Global Markets Summer Intern 2027",
+      "openingDate": "2026-09-18T00:00:00.000Z"
     },
     "pvn1wcbw3l": {
       "closingDate": null,
@@ -2113,10 +2125,10 @@
       "openingDate": "2026-08-26T00:00:00.000Z"
     },
     "rwm4p1g45l": {
-      "closingDate": null,
+      "closingDate": "2026-12-11T00:00:00.000Z",
       "company": "Isio",
-      "name": "2027 Internship Programme",
-      "openingDate": null
+      "name": "Internship Programme - Summer 2027",
+      "openingDate": "2026-09-18T00:00:00.000Z"
     },
     "s07a4s0rpi": {
       "closingDate": null,
@@ -3061,7 +3073,7 @@
       "openingDate": "2026-09-07T00:00:00.000Z"
     }
   },
-  "raw_bytes": 913226,
-  "row_count": 510,
-  "updated": "2026-09-18T11:07:29.983129+00:00"
+  "raw_bytes": 918078,
+  "row_count": 512,
+  "updated": "2026-09-18T16:20:35.251407+00:00"
 }
