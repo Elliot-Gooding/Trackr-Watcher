@@ -1056,6 +1056,12 @@
       "name": "2027 Summer Internship",
       "openingDate": null
     },
+    "i9me7pn62l": {
+      "closingDate": null,
+      "company": "Harrison Street",
+      "name": "Summer 2027 Asset Management Intern",
+      "openingDate": "2026-09-18T00:00:00.000Z"
+    },
     "ibe2ewlars": {
       "closingDate": null,
       "company": "Affinius Capital",
@@ -1785,8 +1791,8 @@
     "ofqa5h2glb": {
       "closingDate": null,
       "company": "Harrison Street",
-      "name": "Summer 2027 Intern",
-      "openingDate": null
+      "name": "Summer 2027 Transactions Intern",
+      "openingDate": "2026-09-18T00:00:00.000Z"
     },
     "oh7y43zboi": {
       "closingDate": null,
@@ -3073,7 +3079,7 @@
       "openingDate": "2026-09-07T00:00:00.000Z"
     }
   },
-  "raw_bytes": 918078,
-  "row_count": 512,
-  "updated": "2026-09-19T10:52:13.199013+00:00"
+  "raw_bytes": 920298,
+  "row_count": 513,
+  "updated": "2026-09-19T15:49:57.581464+00:00"
 }
