@@ -895,10 +895,10 @@
       "openingDate": "2026-07-31T00:00:00.000Z"
     },
     "gc9gpn82zu": {
-      "closingDate": null,
+      "closingDate": "2026-10-05T00:00:00.000Z",
       "company": "RWE",
       "name": "Women in Trading Summer Internship Programme",
-      "openingDate": null
+      "openingDate": "2026-09-21T00:00:00.000Z"
     },
     "ge7rgdh4cu": {
       "closingDate": null,
@@ -3079,7 +3079,7 @@
       "openingDate": "2026-09-07T00:00:00.000Z"
     }
   },
-  "raw_bytes": 920298,
+  "raw_bytes": 920553,
   "row_count": 513,
-  "updated": "2026-09-20T22:23:50.704193+00:00"
+  "updated": "2026-09-21T12:41:24.596776+00:00"
 }
