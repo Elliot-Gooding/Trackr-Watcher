@@ -1065,8 +1065,8 @@
     "ibe2ewlars": {
       "closingDate": null,
       "company": "Affinius Capital",
-      "name": "Summer 2027 Intern",
-      "openingDate": null
+      "name": "2027 Summer Credit Investments Intern",
+      "openingDate": "2026-09-21T00:00:00.000Z"
     },
     "ic7l70anjf": {
       "closingDate": null,
@@ -1737,8 +1737,8 @@
     "o4yuh9duy2": {
       "closingDate": null,
       "company": "Capstone",
-      "name": "2027 Summer Internship",
-      "openingDate": null
+      "name": "Summer 2027 - Investment Internship",
+      "openingDate": "2026-09-21T00:00:00.000Z"
     },
     "o75mg75ucl": {
       "closingDate": null,
@@ -2499,7 +2499,7 @@
     "v6k3opwunl": {
       "closingDate": null,
       "company": "Hines",
-      "name": "2026 Summer Analyst",
+      "name": "Summer Analyst",
       "openingDate": "2026-08-07T00:00:00.000Z"
     },
     "v9f07euc83": {
@@ -3079,7 +3079,7 @@
       "openingDate": "2026-09-07T00:00:00.000Z"
     }
   },
-  "raw_bytes": 920553,
+  "raw_bytes": 920956,
   "row_count": 513,
-  "updated": "2026-09-21T19:21:53.170333+00:00"
+  "updated": "2026-09-21T23:14:21.414197+00:00"
 }
