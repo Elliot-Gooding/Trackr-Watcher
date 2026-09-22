@@ -1914,6 +1914,12 @@
       "name": "2027 Summer Internship",
       "openingDate": null
     },
+    "pu71fibo0k": {
+      "closingDate": "2026-10-05T00:00:00.000Z",
+      "company": "CIBC",
+      "name": "Corporate Banking Summer Intern 2027",
+      "openingDate": "2026-09-21T00:00:00.000Z"
+    },
     "puey98sh56": {
       "closingDate": null,
       "company": "HSBC",
@@ -3079,7 +3085,7 @@
       "openingDate": "2026-09-07T00:00:00.000Z"
     }
   },
-  "raw_bytes": 920956,
-  "row_count": 513,
-  "updated": "2026-09-21T23:14:21.414197+00:00"
+  "raw_bytes": 922853,
+  "row_count": 514,
+  "updated": "2026-09-22T11:29:49.468238+00:00"
 }
