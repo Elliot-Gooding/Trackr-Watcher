@@ -181,7 +181,7 @@
       "openingDate": "2026-09-15T00:00:00.000Z"
     },
     "8q64c5c67r": {
-      "closingDate": "2026-09-30T00:00:00.000Z",
+      "closingDate": "2026-09-21T00:00:00.000Z",
       "company": "LionTree",
       "name": "2027 Summer Internship Programme",
       "openingDate": "2026-08-17T00:00:00.000Z"
@@ -235,7 +235,7 @@
       "openingDate": null
     },
     "acrh43hawb": {
-      "closingDate": null,
+      "closingDate": "2026-09-21T00:00:00.000Z",
       "company": "BNP Paribas",
       "name": "2027 Summer Internship Programme",
       "openingDate": "2026-08-18T00:00:00.000Z"
@@ -259,7 +259,7 @@
       "openingDate": null
     },
     "akn7aqzxhe": {
-      "closingDate": null,
+      "closingDate": "2026-09-21T00:00:00.000Z",
       "company": "Quantbot Technologies",
       "name": "Quantitative Researcher Internship - 2027",
       "openingDate": "2026-08-12T00:00:00.000Z"
@@ -601,7 +601,7 @@
       "openingDate": null
     },
     "dqhzub5g4a": {
-      "closingDate": null,
+      "closingDate": "2026-09-21T00:00:00.000Z",
       "company": "Harris Williams",
       "name": "2027 Summer Analyst",
       "openingDate": "2026-09-03T00:00:00.000Z"
@@ -661,7 +661,7 @@
       "openingDate": null
     },
     "e3m7xup793": {
-      "closingDate": null,
+      "closingDate": "2026-09-21T00:00:00.000Z",
       "company": "D.E. Shaw",
       "name": "Trader/Analyst Intern (London) - Summer 2027",
       "openingDate": "2026-06-01T00:00:00.000Z"
@@ -739,7 +739,7 @@
       "openingDate": null
     },
     "exhuqzlxhm": {
-      "closingDate": null,
+      "closingDate": "2026-09-21T00:00:00.000Z",
       "company": "Citadel",
       "name": "2027 Associate Intern",
       "openingDate": "2026-05-21T00:00:00.000Z"
@@ -889,7 +889,7 @@
       "openingDate": null
     },
     "gbignl0m21": {
-      "closingDate": null,
+      "closingDate": "2026-09-21T00:00:00.000Z",
       "company": "IMC Trading",
       "name": "Trader Intern (2027)",
       "openingDate": "2026-07-31T00:00:00.000Z"
@@ -1087,7 +1087,7 @@
       "openingDate": null
     },
     "igzfyg43go": {
-      "closingDate": "2026-10-02T00:00:00.000Z",
+      "closingDate": "2026-09-21T00:00:00.000Z",
       "company": "Baird",
       "name": "2027 Global Investment Banking - M&A Summer Internship",
       "openingDate": "2026-09-07T00:00:00.000Z"
@@ -1405,7 +1405,7 @@
       "openingDate": "2026-09-11T00:00:00.000Z"
     },
     "la4z9pe7bb": {
-      "closingDate": null,
+      "closingDate": "2026-09-21T00:00:00.000Z",
       "company": "Raine Group",
       "name": "2027 Summer Analyst Program",
       "openingDate": "2026-08-24T00:00:00.000Z"
@@ -1657,7 +1657,7 @@
       "openingDate": null
     },
     "ngndwrip8r": {
-      "closingDate": null,
+      "closingDate": "2026-09-21T00:00:00.000Z",
       "company": "Accuracy",
       "name": "Finance Intern 2027",
       "openingDate": "2026-08-28T00:00:00.000Z"
@@ -1885,7 +1885,7 @@
       "openingDate": "2026-08-03T00:00:00.000Z"
     },
     "pegpg3vyvg": {
-      "closingDate": null,
+      "closingDate": "2026-09-21T00:00:00.000Z",
       "company": "Castleton Commodities International",
       "name": "Summer Analyst Internship Programme (Summer 2027)",
       "openingDate": "2026-07-21T00:00:00.000Z"
@@ -2197,7 +2197,7 @@
       "openingDate": "2026-09-01T00:00:00.000Z"
     },
     "sjqwmquqea": {
-      "closingDate": null,
+      "closingDate": "2026-09-21T00:00:00.000Z",
       "company": "Lazard",
       "name": "2027 Summer Internship",
       "openingDate": "2026-09-09T00:00:00.000Z"
@@ -2293,7 +2293,7 @@
       "openingDate": null
     },
     "t6kidzr69g": {
-      "closingDate": null,
+      "closingDate": "2026-09-21T00:00:00.000Z",
       "company": "Barings",
       "name": "2027 Investment Management Summer Internship",
       "openingDate": "2026-08-28T00:00:00.000Z"
@@ -2707,7 +2707,7 @@
       "openingDate": "2026-09-01T00:00:00.000Z"
     },
     "wx957fsiab": {
-      "closingDate": null,
+      "closingDate": "2026-09-21T00:00:00.000Z",
       "company": "Ares Management",
       "name": "Summer Analyst Programme 2027",
       "openingDate": "2026-08-19T00:00:00.000Z"
@@ -2841,8 +2841,8 @@
     "xs9vqg4rnp": {
       "closingDate": null,
       "company": "Amazon",
-      "name": "Financial Analyst Intern",
-      "openingDate": null
+      "name": "Financial Analyst Intern 2027",
+      "openingDate": "2026-09-22T00:00:00.000Z"
     },
     "xudruqpl4v": {
       "closingDate": null,
@@ -2965,7 +2965,7 @@
       "openingDate": "2026-09-01T00:00:00.000Z"
     },
     "ywd6qq727f": {
-      "closingDate": null,
+      "closingDate": "2026-09-21T00:00:00.000Z",
       "company": "CD&R",
       "name": "Private Equity Summer Internship 2027",
       "openingDate": "2026-08-24T00:00:00.000Z"
@@ -3061,7 +3061,7 @@
       "openingDate": null
     },
     "zoclv3wrrh": {
-      "closingDate": null,
+      "closingDate": "2026-09-21T00:00:00.000Z",
       "company": "Ardea Partners",
       "name": "2027 Summer Analyst Programme",
       "openingDate": "2026-08-25T00:00:00.000Z"
@@ -3073,7 +3073,7 @@
       "openingDate": null
     },
     "zvz2wbd9sk": {
-      "closingDate": null,
+      "closingDate": "2026-09-21T00:00:00.000Z",
       "company": "InfraRed Capital Partners",
       "name": "Investments Summer Analyst Internship 2027",
       "openingDate": "2026-09-07T00:00:00.000Z"
@@ -3085,7 +3085,7 @@
       "openingDate": "2026-09-07T00:00:00.000Z"
     }
   },
-  "raw_bytes": 922853,
+  "raw_bytes": 923457,
   "row_count": 514,
-  "updated": "2026-09-22T11:29:49.468238+00:00"
+  "updated": "2026-09-22T16:52:11.467864+00:00"
 }
