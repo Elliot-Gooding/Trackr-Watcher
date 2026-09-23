@@ -1785,8 +1785,8 @@
     "ofjumq69ce": {
       "closingDate": null,
       "company": "Campbell Lutyens",
-      "name": "Summer Analysts 2027",
-      "openingDate": null
+      "name": "Summer Interns 2027",
+      "openingDate": "2026-09-23T00:00:00.000Z"
     },
     "ofqa5h2glb": {
       "closingDate": null,
@@ -2197,7 +2197,7 @@
       "openingDate": "2026-09-01T00:00:00.000Z"
     },
     "sjqwmquqea": {
-      "closingDate": "2026-09-21T00:00:00.000Z",
+      "closingDate": null,
       "company": "Lazard",
       "name": "2027 Summer Internship",
       "openingDate": "2026-09-09T00:00:00.000Z"
@@ -3085,7 +3085,7 @@
       "openingDate": "2026-09-07T00:00:00.000Z"
     }
   },
-  "raw_bytes": 923457,
+  "raw_bytes": 923591,
   "row_count": 514,
-  "updated": "2026-09-22T21:14:07.167083+00:00"
+  "updated": "2026-09-23T11:27:53.933884+00:00"
 }
