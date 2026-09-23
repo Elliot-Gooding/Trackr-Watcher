@@ -1705,7 +1705,7 @@
       "openingDate": null
     },
     "nws0cqrwfc": {
-      "closingDate": null,
+      "closingDate": "2026-09-26T00:00:00.000Z",
       "company": "Citi",
       "name": "Sales and Trading, Summer Analyst, 2027",
       "openingDate": "2026-09-01T00:00:00.000Z"
@@ -2015,6 +2015,12 @@
       "company": "Allianz Insurance",
       "name": "Summer Intern 2027",
       "openingDate": null
+    },
+    "qspuuoficw": {
+      "closingDate": "2026-09-25T00:00:00.000Z",
+      "company": "Moelis & Co",
+      "name": "2027 Summer Analyst, Private Capital Advisory",
+      "openingDate": "2026-09-23T00:00:00.000Z"
     },
     "qtbxaaaqhm": {
       "closingDate": null,
@@ -3085,7 +3091,7 @@
       "openingDate": "2026-09-07T00:00:00.000Z"
     }
   },
-  "raw_bytes": 923591,
-  "row_count": 514,
-  "updated": "2026-09-23T11:27:53.933884+00:00"
+  "raw_bytes": 925830,
+  "row_count": 515,
+  "updated": "2026-09-23T16:51:23.172785+00:00"
 }
