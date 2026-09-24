@@ -402,6 +402,12 @@
       "name": "Actuarial Intern",
       "openingDate": null
     },
+    "bnq8sc9w6e": {
+      "closingDate": "2027-04-30T00:00:00.000Z",
+      "company": "Brevan Howard",
+      "name": "2027 Summer Internship Program - Systematic Trading",
+      "openingDate": "2026-09-07T00:00:00.000Z"
+    },
     "bs8nsgxgt2": {
       "closingDate": null,
       "company": "AIG",
@@ -1458,6 +1464,12 @@
       "name": "Student Analyst \u2013 Investment Technology, Real Estate (Part-time)",
       "openingDate": "2026-08-12T00:00:00.000Z"
     },
+    "llcta31b4d": {
+      "closingDate": null,
+      "company": "Citi",
+      "name": "Global Wealth, Summer Analyst, 2027",
+      "openingDate": "2026-09-24T00:00:00.000Z"
+    },
     "lnamuraem2": {
       "closingDate": null,
       "company": "Guidehouse",
@@ -2223,8 +2235,8 @@
     "slqbw22lrj": {
       "closingDate": "2027-04-30T00:00:00.000Z",
       "company": "Brevan Howard",
-      "name": "2027 Summer Internship Program",
-      "openingDate": "2026-09-07T00:00:00.000Z"
+      "name": "2027 Summer Internship Program - Trading",
+      "openingDate": "2026-09-24T00:00:00.000Z"
     },
     "solur51h9q": {
       "closingDate": null,
@@ -3103,7 +3115,7 @@
       "openingDate": "2026-09-07T00:00:00.000Z"
     }
   },
-  "raw_bytes": 930070,
-  "row_count": 517,
-  "updated": "2026-09-24T11:38:28.723632+00:00"
+  "raw_bytes": 933912,
+  "row_count": 519,
+  "updated": "2026-09-24T17:05:32.585239+00:00"
 }
