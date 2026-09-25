@@ -406,7 +406,7 @@
       "closingDate": "2027-04-30T00:00:00.000Z",
       "company": "Brevan Howard",
       "name": "2027 Summer Internship Program - Systematic Trading",
-      "openingDate": "2026-09-07T00:00:00.000Z"
+      "openingDate": "2026-09-24T00:00:00.000Z"
     },
     "bs8nsgxgt2": {
       "closingDate": null,
@@ -2236,7 +2236,7 @@
       "closingDate": "2027-04-30T00:00:00.000Z",
       "company": "Brevan Howard",
       "name": "2027 Summer Internship Program - Trading",
-      "openingDate": "2026-09-24T00:00:00.000Z"
+      "openingDate": "2026-09-07T00:00:00.000Z"
     },
     "solur51h9q": {
       "closingDate": null,
@@ -3117,5 +3117,5 @@
   },
   "raw_bytes": 934193,
   "row_count": 519,
-  "updated": "2026-09-25T11:44:41.033317+00:00"
+  "updated": "2026-09-25T17:05:26.753465+00:00"
 }
