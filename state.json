@@ -3025,10 +3025,10 @@
       "openingDate": null
     },
     "z6pc6xn0el": {
-      "closingDate": null,
+      "closingDate": "2026-10-15T00:00:00.000Z",
       "company": "Equinor",
       "name": "Summer Internship 2027",
-      "openingDate": null
+      "openingDate": "2026-09-25T00:00:00.000Z"
     },
     "z7fb3bv8pk": {
       "closingDate": "2026-11-29T00:00:00.000Z",
@@ -3115,7 +3115,7 @@
       "openingDate": "2026-09-07T00:00:00.000Z"
     }
   },
-  "raw_bytes": 933912,
+  "raw_bytes": 934193,
   "row_count": 519,
-  "updated": "2026-09-24T21:27:50.309099+00:00"
+  "updated": "2026-09-25T11:44:41.033317+00:00"
 }
