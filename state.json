@@ -1998,6 +1998,12 @@
       "name": "2027 Summer Analyst",
       "openingDate": null
     },
+    "qb847cagyl": {
+      "closingDate": "2026-10-23T00:00:00.000Z",
+      "company": "Aluna Partners",
+      "name": "Spring Internship",
+      "openingDate": "2026-09-25T00:00:00.000Z"
+    },
     "qenvwl9xvn": {
       "closingDate": null,
       "company": "Mako Trading",
@@ -3115,7 +3121,7 @@
       "openingDate": "2026-09-07T00:00:00.000Z"
     }
   },
-  "raw_bytes": 934193,
-  "row_count": 519,
-  "updated": "2026-09-27T11:56:36.648994+00:00"
+  "raw_bytes": 935737,
+  "row_count": 520,
+  "updated": "2026-09-27T16:54:46.043357+00:00"
 }
