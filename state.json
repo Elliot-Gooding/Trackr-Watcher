@@ -102,6 +102,18 @@
       "name": "2027 Private Credit Investment Summer Internship Programme",
       "openingDate": "2026-08-31T00:00:00.000Z"
     },
+    "3z83ta3op8": {
+      "closingDate": null,
+      "company": "NatWest Markets",
+      "name": "NatWest Markets - Front Office - Internship",
+      "openingDate": "2026-09-28T00:00:00.000Z"
+    },
+    "404pdl68bz": {
+      "closingDate": "2026-10-25T00:00:00.000Z",
+      "company": "TD Securities",
+      "name": "2027 Summer Internship - Investment Banking",
+      "openingDate": "2026-09-28T00:00:00.000Z"
+    },
     "4b5c8ysadv": {
       "closingDate": null,
       "company": "Macquarie Group",
@@ -258,6 +270,12 @@
       "name": "Private Equity Spring Insight 2027",
       "openingDate": null
     },
+    "afawr4vk5z": {
+      "closingDate": "2026-10-25T00:00:00.000Z",
+      "company": "TD Securities",
+      "name": "2027 Summer Internship \u2013 Debt Capital Markets",
+      "openingDate": "2026-09-28T00:00:00.000Z"
+    },
     "aiab45uqv1": {
       "closingDate": null,
       "company": "Schonfeld",
@@ -354,6 +372,12 @@
       "name": "Summer Internship",
       "openingDate": null
     },
+    "b685b4st7k": {
+      "closingDate": null,
+      "company": "NatWest Markets",
+      "name": "Corporate and Institutional Banking - Internship",
+      "openingDate": "2026-09-28T00:00:00.000Z"
+    },
     "b6p937hxf9": {
       "closingDate": null,
       "company": "PGIM",
@@ -412,7 +436,7 @@
       "closingDate": null,
       "company": "AIG",
       "name": "2027 Summer Internship",
-      "openingDate": null
+      "openingDate": "2026-09-28T00:00:00.000Z"
     },
     "bsebgwj6le": {
       "closingDate": null,
@@ -540,6 +564,12 @@
       "name": "2027 Analytics & Sales Summer Internship",
       "openingDate": null
     },
+    "cneoio6buo": {
+      "closingDate": "2026-10-25T00:00:00.000Z",
+      "company": "TD Securities",
+      "name": "2027 Summer Internship \u2013 Global Markets",
+      "openingDate": "2026-09-28T00:00:00.000Z"
+    },
     "ctm0in068j": {
       "closingDate": "2026-10-02T00:00:00.000Z",
       "company": "Temasek",
@@ -569,6 +599,12 @@
       "company": "Grant Thornton",
       "name": "Internship Programme (Summer 2027)",
       "openingDate": null
+    },
+    "d52bzj049j": {
+      "closingDate": null,
+      "company": "NatWest Markets",
+      "name": "NatWest Markets - Quantitative Analytics - Internship",
+      "openingDate": "2026-09-28T00:00:00.000Z"
     },
     "d54muvlsjk": {
       "closingDate": null,
@@ -1047,8 +1083,8 @@
     "hx532hd8cw": {
       "closingDate": null,
       "company": "NatWest Markets",
-      "name": "Front Office - Internship",
-      "openingDate": null
+      "name": "Commercial Banking - Internship",
+      "openingDate": "2026-09-28T00:00:00.000Z"
     },
     "hxbifu24pu": {
       "closingDate": null,
@@ -1279,10 +1315,10 @@
       "openingDate": null
     },
     "jyb7ovz5je": {
-      "closingDate": null,
+      "closingDate": "2026-10-25T00:00:00.000Z",
       "company": "TD Securities",
-      "name": "2027 Summer Internship Programme",
-      "openingDate": null
+      "name": "2027 Summer Internship \u2013 Corporate Banking",
+      "openingDate": "2026-09-28T00:00:00.000Z"
     },
     "k1bbbdj4vb": {
       "closingDate": null,
@@ -1675,10 +1711,10 @@
       "openingDate": null
     },
     "nges4j2ss5": {
-      "closingDate": null,
+      "closingDate": "2027-01-04T00:00:00.000Z",
       "company": "Roland Berger",
-      "name": "Junior Consultant - Summer Internship 2027",
-      "openingDate": null
+      "name": "Junior Consultant Summer Internship 2027",
+      "openingDate": "2026-09-28T00:00:00.000Z"
     },
     "ngndwrip8r": {
       "closingDate": "2026-09-21T00:00:00.000Z",
@@ -2688,6 +2724,12 @@
       "name": "Lendable",
       "openingDate": null
     },
+    "w9j527id9r": {
+      "closingDate": null,
+      "company": "NatWest Markets",
+      "name": "Wealth Management - Internship",
+      "openingDate": "2026-09-28T00:00:00.000Z"
+    },
     "wan7ar5jyb": {
       "closingDate": null,
       "company": "Hudson River Trading",
@@ -2910,6 +2952,12 @@
       "name": "Quantitative Analytics Intern",
       "openingDate": null
     },
+    "y22habrfi1": {
+      "closingDate": null,
+      "company": "NatWest Markets",
+      "name": "Economic Crime - Internship",
+      "openingDate": "2026-09-28T00:00:00.000Z"
+    },
     "y3j1tl8p6b": {
       "closingDate": null,
       "company": "BGF",
@@ -3121,7 +3169,7 @@
       "openingDate": "2026-09-07T00:00:00.000Z"
     }
   },
-  "raw_bytes": 935737,
-  "row_count": 520,
-  "updated": "2026-09-27T21:17:31.060581+00:00"
+  "raw_bytes": 952808,
+  "row_count": 528,
+  "updated": "2026-09-28T13:45:38.104197+00:00"
 }
