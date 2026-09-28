@@ -210,6 +210,12 @@
       "name": "Intern - Economics, Disputes and Investigations",
       "openingDate": "2026-09-14T00:00:00.000Z"
     },
+    "9j4bqbdtxx": {
+      "closingDate": "2026-10-12T00:00:00.000Z",
+      "company": "Man Group",
+      "name": "Trading Summer 2027 Internship",
+      "openingDate": "2026-09-28T00:00:00.000Z"
+    },
     "9yynd1mxmk": {
       "closingDate": "2026-11-15T00:00:00.000Z",
       "company": "Jefferies",
@@ -3169,7 +3175,7 @@
       "openingDate": "2026-09-07T00:00:00.000Z"
     }
   },
-  "raw_bytes": 952808,
-  "row_count": 528,
-  "updated": "2026-09-28T13:45:38.104197+00:00"
+  "raw_bytes": 954774,
+  "row_count": 529,
+  "updated": "2026-09-28T20:31:27.651816+00:00"
 }
