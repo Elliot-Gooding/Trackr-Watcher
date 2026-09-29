@@ -363,8 +363,8 @@
     "axuzqzfnhg": {
       "closingDate": null,
       "company": "Verition Fund Management",
-      "name": "2027 Summer Internship",
-      "openingDate": null
+      "name": "2027 Investment Internship",
+      "openingDate": "2026-09-29T00:00:00.000Z"
     },
     "azkakpq5av": {
       "closingDate": null,
@@ -1435,10 +1435,10 @@
       "openingDate": null
     },
     "koc5rdttpk": {
-      "closingDate": null,
+      "closingDate": "2026-10-23T00:00:00.000Z",
       "company": "Lazard Asset Management",
-      "name": "2027 Summer Internship",
-      "openingDate": null
+      "name": "2027 Equity Research Internship",
+      "openingDate": "2026-09-29T00:00:00.000Z"
     },
     "krhnmlit2u": {
       "closingDate": null,
@@ -1524,6 +1524,12 @@
       "name": "Student Analyst \u2013 Investment Technology, Real Estate (Part-time)",
       "openingDate": "2026-08-12T00:00:00.000Z"
     },
+    "lkzocwvnfs": {
+      "closingDate": "2026-10-23T00:00:00.000Z",
+      "company": "Lazard Asset Management",
+      "name": "2027 Sales & Marketing Internship",
+      "openingDate": "2026-09-29T00:00:00.000Z"
+    },
     "llcta31b4d": {
       "closingDate": null,
       "company": "Citi",
@@ -1557,8 +1563,8 @@
     "lqf7umgi4m": {
       "closingDate": null,
       "company": "Balyasny Asset Management",
-      "name": "Quantitative Analyst \u2013 Macro & Commodities (Summer Internship)",
-      "openingDate": null
+      "name": "Quantitative Researcher - Quantitative Strategies (Summer Internship)",
+      "openingDate": "2026-09-29T00:00:00.000Z"
     },
     "lqy9sbesnd": {
       "closingDate": null,
@@ -3199,7 +3205,7 @@
       "openingDate": "2026-09-07T00:00:00.000Z"
     }
   },
-  "raw_bytes": 962946,
-  "row_count": 533,
-  "updated": "2026-09-29T12:44:43.386136+00:00"
+  "raw_bytes": 965794,
+  "row_count": 534,
+  "updated": "2026-09-29T19:22:11.142744+00:00"
 }
