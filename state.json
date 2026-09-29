@@ -66,6 +66,12 @@
       "name": "2027 Spring Insight Programme",
       "openingDate": "2026-09-17T00:00:00.000Z"
     },
+    "34e67xrca3": {
+      "closingDate": "2026-10-23T00:00:00.000Z",
+      "company": "Deloitte",
+      "name": "2027 Summer Vacation Scheme - Audit & Assurance",
+      "openingDate": "2026-09-28T00:00:00.000Z"
+    },
     "36jiyb6sx2": {
       "closingDate": null,
       "company": "AmplifyME",
@@ -143,6 +149,12 @@
       "company": "Mizuho",
       "name": "2027 Banking Summer Internship",
       "openingDate": "2026-09-07T00:00:00.000Z"
+    },
+    "4ux2aie1t3": {
+      "closingDate": "2026-10-12T00:00:00.000Z",
+      "company": "Man Group",
+      "name": "Investment Risk 2027 Summer Internship",
+      "openingDate": "2026-09-28T00:00:00.000Z"
     },
     "5abmj8esbp": {
       "closingDate": "2026-11-29T00:00:00.000Z",
@@ -870,6 +882,12 @@
       "name": "Underwriting Assistant Intern",
       "openingDate": null
     },
+    "fgvptgvhtm": {
+      "closingDate": "2026-10-23T00:00:00.000Z",
+      "company": "Deloitte",
+      "name": "2027 Summer Vacation Scheme - Tax Consulting",
+      "openingDate": "2026-09-28T00:00:00.000Z"
+    },
     "fh7e9eki8n": {
       "closingDate": null,
       "company": "Azets",
@@ -997,10 +1015,10 @@
       "openingDate": null
     },
     "gp1wqbnqpr": {
-      "closingDate": null,
+      "closingDate": "2026-10-23T00:00:00.000Z",
       "company": "Deloitte",
-      "name": "Summer Vacation Scheme",
-      "openingDate": null
+      "name": "2027 Summer Vacation Scheme - Actuarial Insurance",
+      "openingDate": "2026-09-28T00:00:00.000Z"
     },
     "gr8jadtco5": {
       "closingDate": "2026-08-17T00:00:00.000Z",
@@ -1691,6 +1709,12 @@
       "company": "ExodusPoint",
       "name": "Quant Internship 2027",
       "openingDate": null
+    },
+    "n7h54udm76": {
+      "closingDate": "2026-10-31T00:00:00.000Z",
+      "company": "Longspur Capital",
+      "name": "2027 Summer Intern, Corporate Finance",
+      "openingDate": "2026-09-29T00:00:00.000Z"
     },
     "n7rgnjtq94": {
       "closingDate": "2027-01-03T00:00:00.000Z",
@@ -2797,10 +2821,10 @@
       "openingDate": "2026-08-19T00:00:00.000Z"
     },
     "wzjjzgbnxs": {
-      "closingDate": null,
+      "closingDate": "2026-10-18T00:00:00.000Z",
       "company": "Norges Bank",
       "name": "Summer Internship 2027",
-      "openingDate": null
+      "openingDate": "2026-09-29T00:00:00.000Z"
     },
     "x363ei4n3e": {
       "closingDate": null,
@@ -3175,7 +3199,7 @@
       "openingDate": "2026-09-07T00:00:00.000Z"
     }
   },
-  "raw_bytes": 954774,
-  "row_count": 529,
-  "updated": "2026-09-28T20:31:27.651816+00:00"
+  "raw_bytes": 962946,
+  "row_count": 533,
+  "updated": "2026-09-29T12:44:43.386136+00:00"
 }
