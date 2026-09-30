@@ -255,8 +255,8 @@
     "a708ak3kpa": {
       "closingDate": null,
       "company": "PwC",
-      "name": "Summer Internship 2027",
-      "openingDate": null
+      "name": "Summer Internship - Audit, Accounting, Tax and Finance",
+      "openingDate": "2026-09-30T00:00:00.000Z"
     },
     "abmnsbyf12": {
       "closingDate": null,
@@ -2310,6 +2310,12 @@
       "name": "2027 Summer Internship",
       "openingDate": "2026-09-09T00:00:00.000Z"
     },
+    "slicg0m3ou": {
+      "closingDate": null,
+      "company": "PwC",
+      "name": "Summer Internship - Advisory and Consulting",
+      "openingDate": "2026-09-30T00:00:00.000Z"
+    },
     "slqbw22lrj": {
       "closingDate": "2027-04-30T00:00:00.000Z",
       "company": "Brevan Howard",
@@ -3205,7 +3211,7 @@
       "openingDate": "2026-09-07T00:00:00.000Z"
     }
   },
-  "raw_bytes": 965787,
-  "row_count": 534,
-  "updated": "2026-09-29T23:40:06.036497+00:00"
+  "raw_bytes": 968187,
+  "row_count": 535,
+  "updated": "2026-09-30T12:28:02.742434+00:00"
 }
