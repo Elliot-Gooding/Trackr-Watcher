@@ -1717,7 +1717,7 @@
       "openingDate": null
     },
     "n7h54udm76": {
-      "closingDate": "2026-10-31T00:00:00.000Z",
+      "closingDate": "2026-09-30T00:00:00.000Z",
       "company": "Longspur Capital",
       "name": "2027 Summer Intern, Corporate Finance",
       "openingDate": "2026-09-29T00:00:00.000Z"
@@ -3211,7 +3211,7 @@
       "openingDate": "2026-09-07T00:00:00.000Z"
     }
   },
-  "raw_bytes": 968187,
+  "raw_bytes": 968178,
   "row_count": 535,
-  "updated": "2026-09-30T12:28:02.742434+00:00"
+  "updated": "2026-09-30T19:13:16.957417+00:00"
 }
