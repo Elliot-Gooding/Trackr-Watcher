@@ -240,6 +240,12 @@
       "name": "Trading Summer 2027 Internship",
       "openingDate": "2026-09-28T00:00:00.000Z"
     },
+    "9xqxksw2z5": {
+      "closingDate": null,
+      "company": "Standard Bank",
+      "name": "Intern, Corporate & Investment Banking, International",
+      "openingDate": "2026-10-02T00:00:00.000Z"
+    },
     "9yynd1mxmk": {
       "closingDate": "2026-11-15T00:00:00.000Z",
       "company": "Jefferies",
@@ -1625,6 +1631,12 @@
       "company": "D.E. Shaw",
       "name": "D. E. Shaw Investment Management (DESIM) Intern \u2013 Summer 2027",
       "openingDate": null
+    },
+    "lujm1khiiq": {
+      "closingDate": null,
+      "company": "Squarepoint Capital",
+      "name": "Equities Analyst Summer Internship Program",
+      "openingDate": "2026-10-02T00:00:00.000Z"
     },
     "lyf3wh7xr1": {
       "closingDate": null,
@@ -3277,7 +3289,7 @@
       "openingDate": "2026-09-07T00:00:00.000Z"
     }
   },
-  "raw_bytes": 994355,
-  "row_count": 546,
-  "updated": "2026-10-01T23:51:41.219585+00:00"
+  "raw_bytes": 998102,
+  "row_count": 548,
+  "updated": "2026-10-02T12:25:27.516630+00:00"
 }
