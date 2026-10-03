@@ -1423,10 +1423,10 @@
       "openingDate": "2026-07-13T00:00:00.000Z"
     },
     "kaugw1nera": {
-      "closingDate": null,
+      "closingDate": "2027-01-04T00:00:00.000Z",
       "company": "OC&C",
       "name": "Associate Consultant Summer Internship 2027",
-      "openingDate": null
+      "openingDate": "2026-10-03T00:00:00.000Z"
     },
     "kbeshj3j8g": {
       "closingDate": null,
@@ -1923,8 +1923,8 @@
     "obx1gcj2je": {
       "closingDate": null,
       "company": "Kline Hill Partners",
-      "name": "Summer 2027 Investment Team Intern",
-      "openingDate": null
+      "name": "Summer 2027 Intern",
+      "openingDate": "2026-10-03T00:00:00.000Z"
     },
     "oew6bf55y1": {
       "closingDate": null,
@@ -3289,7 +3289,7 @@
       "openingDate": "2026-09-07T00:00:00.000Z"
     }
   },
-  "raw_bytes": 998130,
+  "raw_bytes": 998559,
   "row_count": 548,
-  "updated": "2026-10-03T16:11:57.370237+00:00"
+  "updated": "2026-10-03T21:09:57.430982+00:00"
 }
