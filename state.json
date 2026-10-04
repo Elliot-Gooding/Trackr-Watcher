@@ -1866,6 +1866,12 @@
       "name": "Sales and Trading, Summer Analyst, 2027",
       "openingDate": "2026-09-01T00:00:00.000Z"
     },
+    "nwsjlkokf1": {
+      "closingDate": null,
+      "company": "Citi",
+      "name": "Investment Banking, Real Estate, Summer Analyst, 2027",
+      "openingDate": "2026-10-01T00:00:00.000Z"
+    },
     "nwym67d2by": {
       "closingDate": null,
       "company": "AJ Bell",
@@ -2153,6 +2159,12 @@
       "company": "Alantra",
       "name": "FIG Summer Intern",
       "openingDate": "2026-09-02T00:00:00.000Z"
+    },
+    "qkcvypi1yz": {
+      "closingDate": null,
+      "company": "Citi",
+      "name": "Investment Banking - FIG, Summer Analyst, 2027",
+      "openingDate": "2026-10-01T00:00:00.000Z"
     },
     "qlvk04173j": {
       "closingDate": null,
@@ -3289,7 +3301,7 @@
       "openingDate": "2026-09-07T00:00:00.000Z"
     }
   },
-  "raw_bytes": 998559,
-  "row_count": 548,
-  "updated": "2026-10-03T21:09:57.430982+00:00"
+  "raw_bytes": 1002498,
+  "row_count": 550,
+  "updated": "2026-10-04T12:15:50.182266+00:00"
 }
