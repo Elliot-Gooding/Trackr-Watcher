@@ -156,6 +156,12 @@
       "name": "2027 Banking Summer Internship",
       "openingDate": "2026-09-07T00:00:00.000Z"
     },
+    "4lr3wihhaf": {
+      "closingDate": null,
+      "company": "Schonfeld",
+      "name": "2027 Risk Analyst (DMFI) Intern",
+      "openingDate": "2026-10-04T00:00:00.000Z"
+    },
     "4ux2aie1t3": {
       "closingDate": "2026-10-12T00:00:00.000Z",
       "company": "Man Group",
@@ -321,8 +327,8 @@
     "aiab45uqv1": {
       "closingDate": null,
       "company": "Schonfeld",
-      "name": "2027 Summer Intern",
-      "openingDate": null
+      "name": "2027 Equity Middle Office Intern",
+      "openingDate": "2026-10-04T00:00:00.000Z"
     },
     "akn7aqzxhe": {
       "closingDate": "2026-09-21T00:00:00.000Z",
@@ -1049,6 +1055,12 @@
       "company": "EDF Trading",
       "name": "Summer Internship",
       "openingDate": "2026-07-06T00:00:00.000Z"
+    },
+    "gu5ci71rq9": {
+      "closingDate": null,
+      "company": "Schonfeld",
+      "name": "2027 DMFI Quant Research Intern",
+      "openingDate": "2026-10-04T00:00:00.000Z"
     },
     "gzbfggud2m": {
       "closingDate": null,
@@ -3301,7 +3313,7 @@
       "openingDate": "2026-09-07T00:00:00.000Z"
     }
   },
-  "raw_bytes": 1002498,
-  "row_count": 550,
-  "updated": "2026-10-04T18:07:24.969816+00:00"
+  "raw_bytes": 1006515,
+  "row_count": 552,
+  "updated": "2026-10-04T23:03:02.989401+00:00"
 }
