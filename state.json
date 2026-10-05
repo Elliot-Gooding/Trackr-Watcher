@@ -1230,6 +1230,12 @@
       "name": "2027 Underwriting Internship Programme Scheme",
       "openingDate": null
     },
+    "in27izy2bn": {
+      "closingDate": "2026-11-29T00:00:00.000Z",
+      "company": "Jefferies",
+      "name": "2027 Asset Management Summer Internship Programme",
+      "openingDate": "2026-10-05T00:00:00.000Z"
+    },
     "inqmkxkwxu": {
       "closingDate": null,
       "company": "Climate Investment",
@@ -3349,7 +3355,7 @@
       "openingDate": "2026-09-07T00:00:00.000Z"
     }
   },
-  "raw_bytes": 1019444,
-  "row_count": 558,
-  "updated": "2026-10-05T14:27:47.281052+00:00"
+  "raw_bytes": 1021826,
+  "row_count": 559,
+  "updated": "2026-10-05T22:35:13.874352+00:00"
 }
