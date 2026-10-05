@@ -204,6 +204,12 @@
       "name": "Investment Banking (UK Coverage) Internship Programme",
       "openingDate": "2026-09-07T00:00:00.000Z"
     },
+    "7emdlydj15": {
+      "closingDate": "2026-10-16T00:00:00.000Z",
+      "company": "LCP",
+      "name": "Insurance Consulting - Summer Internship 2027",
+      "openingDate": "2026-10-05T00:00:00.000Z"
+    },
     "7hcdw0f751": {
       "closingDate": null,
       "company": "Nomura",
@@ -664,7 +670,7 @@
       "closingDate": null,
       "company": "Peel Hunt",
       "name": "Investment Banking Internship 2027",
-      "openingDate": null
+      "openingDate": "2026-10-05T00:00:00.000Z"
     },
     "dcglidzkau": {
       "closingDate": null,
@@ -1560,6 +1566,12 @@
       "name": "2027 Global Corporate Banking Analyst Program - Summer Internship",
       "openingDate": "2026-08-31T00:00:00.000Z"
     },
+    "lezvygxixc": {
+      "closingDate": null,
+      "company": "Equiteq",
+      "name": "Investment Banking Summer Intern 2027 - M&A",
+      "openingDate": "2026-10-05T00:00:00.000Z"
+    },
     "lfepu2ecy4": {
       "closingDate": "2026-10-13T00:00:00.000Z",
       "company": "Howden",
@@ -2172,6 +2184,12 @@
       "name": "FIG Summer Intern",
       "openingDate": "2026-09-02T00:00:00.000Z"
     },
+    "qh022ny0cz": {
+      "closingDate": "2026-10-16T00:00:00.000Z",
+      "company": "LCP",
+      "name": "nvestment Consulting - Summer Internship 2027",
+      "openingDate": "2026-10-05T00:00:00.000Z"
+    },
     "qkcvypi1yz": {
       "closingDate": null,
       "company": "Citi",
@@ -2321,6 +2339,12 @@
       "company": "Marsh McLennan",
       "name": "Summer Internship 2027",
       "openingDate": null
+    },
+    "rsz7tz9ngy": {
+      "closingDate": "2026-10-16T00:00:00.000Z",
+      "company": "LCP",
+      "name": "Pensions Management Consulting - Summer Internship 2027",
+      "openingDate": "2026-10-05T00:00:00.000Z"
     },
     "ruduif38s1": {
       "closingDate": "2026-10-25T00:00:00.000Z",
@@ -2563,10 +2587,10 @@
       "openingDate": "2026-09-09T00:00:00.000Z"
     },
     "tk4mzv77bu": {
-      "closingDate": null,
+      "closingDate": "2026-10-06T00:00:00.000Z",
       "company": "Investec",
       "name": "Summer Internship 2027",
-      "openingDate": null
+      "openingDate": "2026-10-05T00:00:00.000Z"
     },
     "tmlue1jlu5": {
       "closingDate": null,
@@ -2639,6 +2663,12 @@
       "company": "Centrica",
       "name": "Finance Summer Internship",
       "openingDate": null
+    },
+    "u93cajpqae": {
+      "closingDate": "2026-10-16T00:00:00.000Z",
+      "company": "LCP",
+      "name": "Pensions Actuarial Consulting - Summer Internship 2027",
+      "openingDate": "2026-10-05T00:00:00.000Z"
     },
     "ua2s6zlfxd": {
       "closingDate": null,
@@ -2772,6 +2802,12 @@
       "name": "2027 Advisory Summer Analyst Programme",
       "openingDate": "2026-08-21T00:00:00.000Z"
     },
+    "vjg4dlim8o": {
+      "closingDate": "2026-10-16T00:00:00.000Z",
+      "company": "LCP",
+      "name": "DC Investment & Governance - Summer Internship 2027",
+      "openingDate": "2026-10-05T00:00:00.000Z"
+    },
     "vmlfofxn5q": {
       "closingDate": "2026-11-15T00:00:00.000Z",
       "company": "Jefferies",
@@ -2893,10 +2929,10 @@
       "openingDate": null
     },
     "wdodi1co85": {
-      "closingDate": null,
+      "closingDate": "2026-10-16T00:00:00.000Z",
       "company": "LCP",
-      "name": "Consulting - Summer Internship 2027",
-      "openingDate": null
+      "name": "Energy Power Consulting - Summer Internship 2027",
+      "openingDate": "2026-10-05T00:00:00.000Z"
     },
     "we02sc45ng": {
       "closingDate": null,
@@ -3003,8 +3039,8 @@
     "xfyqgkgvqu": {
       "closingDate": null,
       "company": "Scotiabank",
-      "name": "2027 UK Summer Internship",
-      "openingDate": null
+      "name": "2027 Summer Internship",
+      "openingDate": "2026-10-05T00:00:00.000Z"
     },
     "xiil4fa6jd": {
       "closingDate": null,
@@ -3313,7 +3349,7 @@
       "openingDate": "2026-09-07T00:00:00.000Z"
     }
   },
-  "raw_bytes": 1006515,
-  "row_count": 552,
-  "updated": "2026-10-04T23:03:02.989401+00:00"
+  "raw_bytes": 1019444,
+  "row_count": 558,
+  "updated": "2026-10-05T14:27:47.281052+00:00"
 }
