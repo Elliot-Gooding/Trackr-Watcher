@@ -132,6 +132,12 @@
       "name": "2027 Summer Internship - Investment Banking",
       "openingDate": "2026-09-28T00:00:00.000Z"
     },
+    "4am31chlk8": {
+      "closingDate": null,
+      "company": "Morgan Stanley",
+      "name": "2027 Non-Financial Risk Summer Analyst Programme",
+      "openingDate": "2026-10-06T00:00:00.000Z"
+    },
     "4b5c8ysadv": {
       "closingDate": null,
       "company": "Macquarie Group",
@@ -197,6 +203,12 @@
       "company": "Citi",
       "name": "Services, Summer Analyst, 2027",
       "openingDate": "2026-09-18T00:00:00.000Z"
+    },
+    "63al2mhfvv": {
+      "closingDate": null,
+      "company": "Morgan Stanley",
+      "name": "2027 Global Sales & Marketing Summer Analyst Programme",
+      "openingDate": "2026-10-06T00:00:00.000Z"
     },
     "661ba2dbyd": {
       "closingDate": null,
@@ -684,6 +696,12 @@
       "name": "Investment Banking Internship 2027",
       "openingDate": "2026-10-05T00:00:00.000Z"
     },
+    "db6y4foxhc": {
+      "closingDate": null,
+      "company": "Morgan Stanley",
+      "name": "2027 Operations Summer Analyst Programme",
+      "openingDate": "2026-10-06T00:00:00.000Z"
+    },
     "dcglidzkau": {
       "closingDate": null,
       "company": "Turner & Townsend",
@@ -1032,6 +1050,12 @@
       "name": "Summer Intern 2027",
       "openingDate": null
     },
+    "ge9h7i6nnq": {
+      "closingDate": null,
+      "company": "Morgan Stanley",
+      "name": "2027 Finance Summer Analyst Programme",
+      "openingDate": "2026-10-06T00:00:00.000Z"
+    },
     "gfgk161pkv": {
       "closingDate": null,
       "company": "W. P. Carey",
@@ -1201,7 +1225,7 @@
       "openingDate": "2026-09-18T00:00:00.000Z"
     },
     "ibe2ewlars": {
-      "closingDate": null,
+      "closingDate": "2026-10-05T00:00:00.000Z",
       "company": "Affinius Capital",
       "name": "2027 Summer Credit Investments Intern",
       "openingDate": "2026-09-21T00:00:00.000Z"
@@ -1282,7 +1306,7 @@
       "closingDate": null,
       "company": "Sixth Street",
       "name": "2027 Summer Internship Program - UK Investing",
-      "openingDate": null
+      "openingDate": "2026-10-06T00:00:00.000Z"
     },
     "iqbof3vq9i": {
       "closingDate": "2026-11-01T00:00:00.000Z",
@@ -3391,7 +3415,7 @@
       "openingDate": "2026-10-06T00:00:00.000Z"
     }
   },
-  "raw_bytes": 1034243,
-  "row_count": 565,
-  "updated": "2026-10-06T19:29:36.457111+00:00"
+  "raw_bytes": 1043906,
+  "row_count": 569,
+  "updated": "2026-10-06T23:45:53.759686+00:00"
 }
