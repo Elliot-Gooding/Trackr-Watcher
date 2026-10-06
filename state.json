@@ -435,8 +435,8 @@
     "b6p937hxf9": {
       "closingDate": null,
       "company": "PGIM",
-      "name": "Investment Analyst Intern",
-      "openingDate": null
+      "name": "PGIM Institutional Client Group | 2027 Summer Internship",
+      "openingDate": "2026-10-06T00:00:00.000Z"
     },
     "b9tvd29igh": {
       "closingDate": null,
@@ -2736,6 +2736,12 @@
       "name": "Investment Directing Summer Internship 2027",
       "openingDate": "2026-09-15T00:00:00.000Z"
     },
+    "uw07rurgje": {
+      "closingDate": null,
+      "company": "Kroll",
+      "name": "Mergers & Acquisitions Intern",
+      "openingDate": "2026-10-06T00:00:00.000Z"
+    },
     "uxbflsvgvz": {
       "closingDate": null,
       "company": "Leerink Partners",
@@ -3198,6 +3204,12 @@
       "name": "Actuarial Internship",
       "openingDate": null
     },
+    "ymg4ypar8f": {
+      "closingDate": "2026-10-18T00:00:00.000Z",
+      "company": "Oxford Properties Group",
+      "name": "Intern, Real Estate Investments",
+      "openingDate": "2026-10-06T00:00:00.000Z"
+    },
     "ymu5cwti74": {
       "closingDate": null,
       "company": "AlphaSights",
@@ -3355,7 +3367,7 @@
       "openingDate": "2026-09-07T00:00:00.000Z"
     }
   },
-  "raw_bytes": 1021826,
-  "row_count": 559,
-  "updated": "2026-10-05T22:35:13.874352+00:00"
+  "raw_bytes": 1026177,
+  "row_count": 561,
+  "updated": "2026-10-06T13:14:14.730677+00:00"
 }
