@@ -60,6 +60,12 @@
       "name": "2027 Private Fund Advisory Summer Internship Programme",
       "openingDate": "2026-08-31T00:00:00.000Z"
     },
+    "248wrwzguu": {
+      "closingDate": null,
+      "company": "Royal London",
+      "name": "2027 Summer Internship",
+      "openingDate": "2026-10-06T00:00:00.000Z"
+    },
     "25b9jhq0bx": {
       "closingDate": "2026-11-15T00:00:00.000Z",
       "company": "Fidelity International",
@@ -245,6 +251,12 @@
       "company": "BRG",
       "name": "Intern - Economics, Disputes and Investigations",
       "openingDate": "2026-09-14T00:00:00.000Z"
+    },
+    "9bsigfoqgo": {
+      "closingDate": null,
+      "company": "Deutsche Bank",
+      "name": "Corporate Banking Internship Programme 2027",
+      "openingDate": "2026-10-06T00:00:00.000Z"
     },
     "9j4bqbdtxx": {
       "closingDate": "2026-10-12T00:00:00.000Z",
@@ -1573,7 +1585,7 @@
       "openingDate": "2026-08-31T00:00:00.000Z"
     },
     "lezvygxixc": {
-      "closingDate": null,
+      "closingDate": "2026-10-05T00:00:00.000Z",
       "company": "Equiteq",
       "name": "Investment Banking Summer Intern 2027 - M&A",
       "openingDate": "2026-10-05T00:00:00.000Z"
@@ -2737,7 +2749,7 @@
       "openingDate": "2026-09-15T00:00:00.000Z"
     },
     "uw07rurgje": {
-      "closingDate": null,
+      "closingDate": "2026-10-05T00:00:00.000Z",
       "company": "Kroll",
       "name": "Mergers & Acquisitions Intern",
       "openingDate": "2026-10-06T00:00:00.000Z"
@@ -2903,6 +2915,12 @@
       "company": "Jefferies",
       "name": "2027 Investment Banking Summer Internship Programme",
       "openingDate": "2026-08-31T00:00:00.000Z"
+    },
+    "w3d9mf6zvn": {
+      "closingDate": null,
+      "company": "Deutsche Bank",
+      "name": "Management Consulting Internship Programme 2027",
+      "openingDate": "2026-10-06T00:00:00.000Z"
     },
     "w422v28305": {
       "closingDate": null,
@@ -3365,9 +3383,15 @@
       "company": "MUFG",
       "name": "2027 Summer Analyst Programme: Global Corporate Investment Banking",
       "openingDate": "2026-09-07T00:00:00.000Z"
+    },
+    "zzvg0o6nid": {
+      "closingDate": "2026-12-20T00:00:00.000Z",
+      "company": "Fidelity International",
+      "name": "Sales & Marketing Summer Internship 2027",
+      "openingDate": "2026-10-06T00:00:00.000Z"
     }
   },
-  "raw_bytes": 1026177,
-  "row_count": 561,
-  "updated": "2026-10-06T13:14:14.730677+00:00"
+  "raw_bytes": 1034243,
+  "row_count": 565,
+  "updated": "2026-10-06T19:29:36.457111+00:00"
 }
