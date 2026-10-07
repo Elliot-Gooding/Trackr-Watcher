@@ -121,7 +121,7 @@
       "openingDate": "2026-08-31T00:00:00.000Z"
     },
     "3z83ta3op8": {
-      "closingDate": null,
+      "closingDate": "2026-10-06T00:00:00.000Z",
       "company": "NatWest Markets",
       "name": "NatWest Markets - Front Office - Internship",
       "openingDate": "2026-09-28T00:00:00.000Z"
@@ -451,7 +451,7 @@
       "openingDate": null
     },
     "b685b4st7k": {
-      "closingDate": null,
+      "closingDate": "2026-10-06T00:00:00.000Z",
       "company": "NatWest Markets",
       "name": "Corporate and Institutional Banking - Internship",
       "openingDate": "2026-09-28T00:00:00.000Z"
@@ -679,7 +679,7 @@
       "openingDate": null
     },
     "d52bzj049j": {
-      "closingDate": null,
+      "closingDate": "2026-10-06T00:00:00.000Z",
       "company": "NatWest Markets",
       "name": "NatWest Markets - Quantitative Analytics - Internship",
       "openingDate": "2026-09-28T00:00:00.000Z"
@@ -1189,7 +1189,7 @@
       "openingDate": null
     },
     "hx532hd8cw": {
-      "closingDate": null,
+      "closingDate": "2026-10-06T00:00:00.000Z",
       "company": "NatWest Markets",
       "name": "Commercial Banking - Internship",
       "openingDate": "2026-09-28T00:00:00.000Z"
@@ -1795,10 +1795,10 @@
       "openingDate": "2026-06-01T00:00:00.000Z"
     },
     "mr8evyv5i6": {
-      "closingDate": null,
+      "closingDate": "2026-10-23T00:00:00.000Z",
       "company": "Weatherbys Private Bank",
-      "name": "Summer Internship Programme 2027",
-      "openingDate": null
+      "name": "2027 Private Banking - Summer Internship",
+      "openingDate": "2026-10-07T00:00:00.000Z"
     },
     "mrj7k0ivdd": {
       "closingDate": null,
@@ -2959,7 +2959,7 @@
       "openingDate": null
     },
     "w9j527id9r": {
-      "closingDate": null,
+      "closingDate": "2026-10-06T00:00:00.000Z",
       "company": "NatWest Markets",
       "name": "Wealth Management - Internship",
       "openingDate": "2026-09-28T00:00:00.000Z"
@@ -3187,7 +3187,7 @@
       "openingDate": null
     },
     "y22habrfi1": {
-      "closingDate": null,
+      "closingDate": "2026-10-06T00:00:00.000Z",
       "company": "NatWest Markets",
       "name": "Economic Crime - Internship",
       "openingDate": "2026-09-28T00:00:00.000Z"
@@ -3415,7 +3415,7 @@
       "openingDate": "2026-10-06T00:00:00.000Z"
     }
   },
-  "raw_bytes": 1043906,
+  "raw_bytes": 1044263,
   "row_count": 569,
-  "updated": "2026-10-06T23:45:53.759686+00:00"
+  "updated": "2026-10-07T13:14:02.253317+00:00"
 }
