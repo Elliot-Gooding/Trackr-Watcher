@@ -132,6 +132,12 @@
       "name": "2027 Summer Internship - Investment Banking",
       "openingDate": "2026-09-28T00:00:00.000Z"
     },
+    "40kcyd07g9": {
+      "closingDate": null,
+      "company": "Corient",
+      "name": "2027 Wealth Management Summer Intern Programme",
+      "openingDate": "2026-10-08T00:00:00.000Z"
+    },
     "4am31chlk8": {
       "closingDate": null,
       "company": "Morgan Stanley",
@@ -3427,7 +3433,7 @@
       "openingDate": "2026-10-06T00:00:00.000Z"
     }
   },
-  "raw_bytes": 1048220,
-  "row_count": 571,
-  "updated": "2026-10-08T13:20:40.894024+00:00"
+  "raw_bytes": 1049977,
+  "row_count": 572,
+  "updated": "2026-10-08T19:53:29.334633+00:00"
 }
