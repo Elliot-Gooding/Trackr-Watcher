@@ -768,6 +768,12 @@
       "name": "EMEA Banking Summer Analyst",
       "openingDate": "2026-08-26T00:00:00.000Z"
     },
+    "dxcyzc4uhi": {
+      "closingDate": null,
+      "company": "Verition Fund Management",
+      "name": "2027 Platform Internship, Non-Investment",
+      "openingDate": "2026-10-08T00:00:00.000Z"
+    },
     "dyyl9ib68p": {
       "closingDate": null,
       "company": "Korn Ferry",
@@ -1151,6 +1157,12 @@
       "company": "Citi",
       "name": "Commercial Banking, Summer Analyst, 2027",
       "openingDate": "2026-09-15T00:00:00.000Z"
+    },
+    "hddgjldx6b": {
+      "closingDate": null,
+      "company": "Harrison Street",
+      "name": "Summer 2027 Investor Solutions Group Intern",
+      "openingDate": "2026-10-08T00:00:00.000Z"
     },
     "hdg6u6fiw5": {
       "closingDate": null,
@@ -3040,7 +3052,7 @@
       "closingDate": null,
       "company": "Flow Traders",
       "name": "Summer Trading Internship",
-      "openingDate": null
+      "openingDate": "2026-10-08T00:00:00.000Z"
     },
     "x6yry9961v": {
       "closingDate": null,
@@ -3357,8 +3369,8 @@
     "zld4199meu": {
       "closingDate": null,
       "company": "BMO Capital Markets",
-      "name": "2027 Investment Banking Summer Analyst",
-      "openingDate": null
+      "name": "2027 Investment Banking Summer Intern",
+      "openingDate": "2026-10-08T00:00:00.000Z"
     },
     "zm17cu7kxl": {
       "closingDate": null,
@@ -3415,7 +3427,7 @@
       "openingDate": "2026-10-06T00:00:00.000Z"
     }
   },
-  "raw_bytes": 1044263,
-  "row_count": 569,
-  "updated": "2026-10-08T00:09:11.325531+00:00"
+  "raw_bytes": 1048220,
+  "row_count": 571,
+  "updated": "2026-10-08T13:20:40.894024+00:00"
 }
