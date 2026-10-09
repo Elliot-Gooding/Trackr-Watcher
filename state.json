@@ -2916,6 +2916,12 @@
       "name": "Trader Summer Internship 2027",
       "openingDate": "2026-09-01T00:00:00.000Z"
     },
+    "vsd591zbt1": {
+      "closingDate": null,
+      "company": "Collingwood",
+      "name": "M&A Deal Team Intern \u2013 Summer 2027",
+      "openingDate": "2026-10-08T00:00:00.000Z"
+    },
     "vt4roqzr11": {
       "closingDate": null,
       "company": "General Electric",
@@ -2973,8 +2979,14 @@
     "w51gh5yp3d": {
       "closingDate": null,
       "company": "Lendable",
-      "name": "Lendable",
-      "openingDate": null
+      "name": "Credit Analyst Intern (June 2027)",
+      "openingDate": "2026-09-01T00:00:00.000Z"
+    },
+    "w52dg1zyt0": {
+      "closingDate": null,
+      "company": "Morgan Stanley",
+      "name": "2027 Investment Management Summer Analyst Programme - Fixed Income",
+      "openingDate": "2026-10-08T00:00:00.000Z"
     },
     "w9j527id9r": {
       "closingDate": "2026-10-06T00:00:00.000Z",
@@ -3433,7 +3445,7 @@
       "openingDate": "2026-10-06T00:00:00.000Z"
     }
   },
-  "raw_bytes": 1049977,
-  "row_count": 572,
-  "updated": "2026-10-08T19:53:29.334633+00:00"
+  "raw_bytes": 1054175,
+  "row_count": 574,
+  "updated": "2026-10-09T00:18:19.682706+00:00"
 }
