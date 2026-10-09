@@ -846,6 +846,12 @@
       "name": "UK Summer Internship 2027",
       "openingDate": null
     },
+    "eqd430ze34": {
+      "closingDate": null,
+      "company": "Ccaventus",
+      "name": "UK Analyst Program 2028",
+      "openingDate": "2026-10-09T00:00:00.000Z"
+    },
     "ergfokxpj2": {
       "closingDate": "2026-10-04T00:00:00.000Z",
       "company": "PJT Partners",
@@ -2804,9 +2810,9 @@
     },
     "v2cq2pq6l4": {
       "closingDate": null,
-      "company": "Arena Investors",
+      "company": "Ccaventus",
       "name": "2027 Summer Investment Analyst",
-      "openingDate": null
+      "openingDate": "2026-10-09T00:00:00.000Z"
     },
     "v3ph64x7pq": {
       "closingDate": "2026-11-15T00:00:00.000Z",
@@ -2917,7 +2923,7 @@
       "openingDate": "2026-09-01T00:00:00.000Z"
     },
     "vsd591zbt1": {
-      "closingDate": null,
+      "closingDate": "2026-10-08T00:00:00.000Z",
       "company": "Collingwood",
       "name": "M&A Deal Team Intern \u2013 Summer 2027",
       "openingDate": "2026-10-08T00:00:00.000Z"
@@ -3445,7 +3451,7 @@
       "openingDate": "2026-10-06T00:00:00.000Z"
     }
   },
-  "raw_bytes": 1054175,
-  "row_count": 574,
-  "updated": "2026-10-09T00:18:19.682706+00:00"
+  "raw_bytes": 1056384,
+  "row_count": 575,
+  "updated": "2026-10-09T13:09:01.348926+00:00"
 }
