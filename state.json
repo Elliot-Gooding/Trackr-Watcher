@@ -2529,8 +2529,8 @@
     "sqaon0ffm5": {
       "closingDate": null,
       "company": "KR8 Advisory",
-      "name": "Business & Capital Advisory (Intern)",
-      "openingDate": null
+      "name": "Restructuring Advisory Intern",
+      "openingDate": "2026-10-10T00:00:00.000Z"
     },
     "sr9fyjnaeb": {
       "closingDate": null,
@@ -3451,7 +3451,7 @@
       "openingDate": "2026-10-06T00:00:00.000Z"
     }
   },
-  "raw_bytes": 1056384,
+  "raw_bytes": 1056630,
   "row_count": 575,
-  "updated": "2026-10-10T12:24:16.933371+00:00"
+  "updated": "2026-10-10T18:31:20.017017+00:00"
 }
