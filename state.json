@@ -87,7 +87,7 @@
     "36jiyb6sx2": {
       "closingDate": null,
       "company": "AmplifyME",
-      "name": "Investing Simulator Challenge 2026",
+      "name": "Market & Banking Finance Accelerator",
       "openingDate": "2026-09-10T00:00:00.000Z"
     },
     "3a3cfq50td": {
@@ -265,7 +265,7 @@
       "openingDate": "2026-08-17T00:00:00.000Z"
     },
     "8uesjvl1d6": {
-      "closingDate": null,
+      "closingDate": "2026-10-11T00:00:00.000Z",
       "company": "BRG",
       "name": "Intern - Economics, Disputes and Investigations",
       "openingDate": "2026-09-14T00:00:00.000Z"
@@ -463,7 +463,7 @@
       "openingDate": "2026-09-28T00:00:00.000Z"
     },
     "b6p937hxf9": {
-      "closingDate": null,
+      "closingDate": "2026-10-11T00:00:00.000Z",
       "company": "PGIM",
       "name": "PGIM Institutional Client Group | 2027 Summer Internship",
       "openingDate": "2026-10-06T00:00:00.000Z"
@@ -1723,7 +1723,7 @@
       "openingDate": null
     },
     "lujm1khiiq": {
-      "closingDate": null,
+      "closingDate": "2026-10-11T00:00:00.000Z",
       "company": "Squarepoint Capital",
       "name": "Equities Analyst Summer Internship Program",
       "openingDate": "2026-10-02T00:00:00.000Z"
@@ -2235,8 +2235,8 @@
     "qenvwl9xvn": {
       "closingDate": null,
       "company": "Mako Trading",
-      "name": "Summer Internship - Trading & Technology",
-      "openingDate": null
+      "name": "Mako Summer Internship \u2013 Trading",
+      "openingDate": "2026-10-12T00:00:00.000Z"
     },
     "qf1fmy9uio": {
       "closingDate": "2026-09-07T00:00:00.000Z",
@@ -2821,7 +2821,7 @@
       "openingDate": "2026-09-15T00:00:00.000Z"
     },
     "v6k3opwunl": {
-      "closingDate": null,
+      "closingDate": "2026-10-11T00:00:00.000Z",
       "company": "Hines",
       "name": "Summer Analyst",
       "openingDate": "2026-08-07T00:00:00.000Z"
@@ -3451,7 +3451,7 @@
       "openingDate": "2026-10-06T00:00:00.000Z"
     }
   },
-  "raw_bytes": 1056602,
+  "raw_bytes": 1056743,
   "row_count": 575,
-  "updated": "2026-10-11T23:37:34.890425+00:00"
+  "updated": "2026-10-12T15:13:57.713376+00:00"
 }
