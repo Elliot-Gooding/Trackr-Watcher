@@ -325,10 +325,10 @@
       "openingDate": "2026-09-30T00:00:00.000Z"
     },
     "abmnsbyf12": {
-      "closingDate": null,
+      "closingDate": "2026-10-23T00:00:00.000Z",
       "company": "National Bank of Canada",
-      "name": "Intern",
-      "openingDate": null
+      "name": "Investment Banking Summer Internship 2027",
+      "openingDate": "2026-10-13T00:00:00.000Z"
     },
     "acjoeaxfvp": {
       "closingDate": null,
@@ -3469,7 +3469,7 @@
       "openingDate": "2026-10-06T00:00:00.000Z"
     }
   },
-  "raw_bytes": 1063840,
+  "raw_bytes": 1064002,
   "row_count": 578,
-  "updated": "2026-10-13T14:04:56.405087+00:00"
+  "updated": "2026-10-13T20:14:21.965040+00:00"
 }
