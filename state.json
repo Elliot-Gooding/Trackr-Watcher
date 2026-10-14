@@ -246,6 +246,12 @@
       "name": "2027 - Global Markets (Sales, Trading, Structuring & Research) - Summer Internship",
       "openingDate": "2026-08-31T00:00:00.000Z"
     },
+    "7qapdb0yyc": {
+      "closingDate": null,
+      "company": "bp",
+      "name": "Summer internship - Finance & Risk",
+      "openingDate": "2026-10-14T00:00:00.000Z"
+    },
     "8243194by3": {
       "closingDate": "2026-10-11T00:00:00.000Z",
       "company": "Evercore",
@@ -571,10 +577,10 @@
       "openingDate": null
     },
     "c10zc6rp2t": {
-      "closingDate": null,
+      "closingDate": "2026-12-31T00:00:00.000Z",
       "company": "bp",
-      "name": "Summer Internship - Trading & Shipping",
-      "openingDate": null
+      "name": "Summer Internship - Supply, Trading & Shipping",
+      "openingDate": "2026-10-14T00:00:00.000Z"
     },
     "c2zevtekgi": {
       "closingDate": null,
@@ -737,6 +743,12 @@
       "company": "RBC Capital Markets",
       "name": "2027 Summer Analyst - Finance",
       "openingDate": "2026-09-11T00:00:00.000Z"
+    },
+    "dmldv50lus": {
+      "closingDate": null,
+      "company": "bp",
+      "name": "Summer Internship - Core Finance",
+      "openingDate": "2026-10-14T00:00:00.000Z"
     },
     "dn9h185llq": {
       "closingDate": null,
@@ -1531,10 +1543,10 @@
       "openingDate": "2026-06-11T00:00:00.000Z"
     },
     "ke74fora4p": {
-      "closingDate": null,
+      "closingDate": "2026-11-02T00:00:00.000Z",
       "company": "AAB Group",
-      "name": "2027 Internship Opportunities",
-      "openingDate": null
+      "name": "Intern Programme 2027",
+      "openingDate": "2026-10-13T00:00:00.000Z"
     },
     "kgaz7t35du": {
       "closingDate": null,
@@ -2508,6 +2520,12 @@
       "name": "2027 Summer Internship",
       "openingDate": "2026-09-09T00:00:00.000Z"
     },
+    "skjb6rl2at": {
+      "closingDate": null,
+      "company": "Jain Global",
+      "name": "Quant Research Intern (Summer 2027 \u2013 London)",
+      "openingDate": "2026-10-14T00:00:00.000Z"
+    },
     "slicg0m3ou": {
       "closingDate": null,
       "company": "PwC",
@@ -2905,10 +2923,10 @@
       "openingDate": "2026-08-31T00:00:00.000Z"
     },
     "vmoxgl1hqi": {
-      "closingDate": null,
+      "closingDate": "2026-10-30T00:00:00.000Z",
       "company": "Hamilton Insurance Group",
-      "name": "Hamilton Insurance Summer Internship",
-      "openingDate": null
+      "name": "Summer Internship",
+      "openingDate": "2026-10-14T00:00:00.000Z"
     },
     "vnejx51j82": {
       "closingDate": null,
@@ -3469,7 +3487,7 @@
       "openingDate": "2026-10-06T00:00:00.000Z"
     }
   },
-  "raw_bytes": 1064002,
-  "row_count": 578,
-  "updated": "2026-10-13T20:14:21.965040+00:00"
+  "raw_bytes": 1069925,
+  "row_count": 581,
+  "updated": "2026-10-14T11:44:25.055471+00:00"
 }
