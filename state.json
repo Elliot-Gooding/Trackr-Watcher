@@ -249,7 +249,7 @@
     "7qapdb0yyc": {
       "closingDate": null,
       "company": "bp",
-      "name": "Summer internship - Finance & Risk",
+      "name": "Summer Internship - Finance & Risk",
       "openingDate": "2026-10-14T00:00:00.000Z"
     },
     "8243194by3": {
@@ -1205,12 +1205,6 @@
       "company": "HSBC",
       "name": "Relationship Management - Corporate and Institutional Banking - Internship",
       "openingDate": "2026-10-01T00:00:00.000Z"
-    },
-    "hjccmw5by3": {
-      "closingDate": null,
-      "company": "BTIG",
-      "name": "2027 UK Internship Program",
-      "openingDate": null
     },
     "hjv32e8dau": {
       "closingDate": null,
@@ -2279,6 +2273,12 @@
       "company": "LCP",
       "name": "nvestment Consulting - Summer Internship 2027",
       "openingDate": "2026-10-05T00:00:00.000Z"
+    },
+    "qhsb7gxwhz": {
+      "closingDate": "2026-10-23T00:00:00.000Z",
+      "company": "BTIG",
+      "name": "2027 Summer Internship Program",
+      "openingDate": "2026-10-14T00:00:00.000Z"
     },
     "qkcvypi1yz": {
       "closingDate": null,
@@ -3487,7 +3487,7 @@
       "openingDate": "2026-10-06T00:00:00.000Z"
     }
   },
-  "raw_bytes": 1069925,
+  "raw_bytes": 1069861,
   "row_count": 581,
-  "updated": "2026-10-14T11:44:25.055471+00:00"
+  "updated": "2026-10-14T17:04:39.187637+00:00"
 }
