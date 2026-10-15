@@ -561,8 +561,8 @@
     "byxw8zga6c": {
       "closingDate": null,
       "company": "EY",
-      "name": "2027 Summer Internship",
-      "openingDate": null
+      "name": "Audit Summer Internship 2027",
+      "openingDate": "2026-10-15T00:00:00.000Z"
     },
     "c0sc7rbux1": {
       "closingDate": null,
@@ -628,7 +628,7 @@
       "closingDate": null,
       "company": "EY-Parthenon",
       "name": "Summer Internship 2027",
-      "openingDate": null
+      "openingDate": "2026-10-15T00:00:00.000Z"
     },
     "chbmtdbpl0": {
       "closingDate": null,
@@ -1219,10 +1219,10 @@
       "openingDate": "2026-08-17T00:00:00.000Z"
     },
     "hu647l11hv": {
-      "closingDate": null,
+      "closingDate": "2026-11-13T00:00:00.000Z",
       "company": "StepStone Group",
       "name": "2027 Private Equity Summer Analyst",
-      "openingDate": null
+      "openingDate": "2026-10-14T00:00:00.000Z"
     },
     "hx532hd8cw": {
       "closingDate": "2026-10-06T00:00:00.000Z",
@@ -1537,7 +1537,7 @@
       "openingDate": "2026-06-11T00:00:00.000Z"
     },
     "ke74fora4p": {
-      "closingDate": "2026-11-02T00:00:00.000Z",
+      "closingDate": "2026-10-23T00:00:00.000Z",
       "company": "AAB Group",
       "name": "Intern Programme 2027",
       "openingDate": "2026-10-13T00:00:00.000Z"
@@ -1853,6 +1853,12 @@
       "company": "Rothschild & Co.",
       "name": "2027 Summer Analyst Programme",
       "openingDate": "2026-08-19T00:00:00.000Z"
+    },
+    "mxqwwh2bch": {
+      "closingDate": null,
+      "company": "EY",
+      "name": "Tax Summer Internship 2027",
+      "openingDate": "2026-10-15T00:00:00.000Z"
     },
     "my8ncwbg9k": {
       "closingDate": null,
@@ -2375,6 +2381,12 @@
       "company": "Capula Investment Management",
       "name": "2028 Trading and Research Summer Internship",
       "openingDate": null
+    },
+    "r3vme7ip84": {
+      "closingDate": null,
+      "company": "EY",
+      "name": "Consulting Summer Internship 2027",
+      "openingDate": "2026-10-15T00:00:00.000Z"
     },
     "r5noscwdgi": {
       "closingDate": null,
@@ -2946,6 +2958,12 @@
       "name": "Investment Summer Analyst (Intern)",
       "openingDate": null
     },
+    "vqgyeeo1db": {
+      "closingDate": "2026-10-23T00:00:00.000Z",
+      "company": "Trackr",
+      "name": "Trackr Academy - Autumn 2026",
+      "openingDate": "2026-10-15T00:00:00.000Z"
+    },
     "vrb6e3j24q": {
       "closingDate": null,
       "company": "Cushman & Wakefield",
@@ -3487,7 +3505,7 @@
       "openingDate": "2026-10-06T00:00:00.000Z"
     }
   },
-  "raw_bytes": 1069860,
-  "row_count": 581,
-  "updated": "2026-10-14T21:37:01.716163+00:00"
+  "raw_bytes": 1076357,
+  "row_count": 584,
+  "updated": "2026-10-15T11:20:37.068461+00:00"
 }
