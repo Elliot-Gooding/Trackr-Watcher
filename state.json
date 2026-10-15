@@ -3445,7 +3445,7 @@
       "openingDate": null
     },
     "zld4199meu": {
-      "closingDate": null,
+      "closingDate": "2026-10-14T00:00:00.000Z",
       "company": "BMO Capital Markets",
       "name": "2027 Investment Banking Summer Intern",
       "openingDate": "2026-10-08T00:00:00.000Z"
@@ -3505,7 +3505,7 @@
       "openingDate": "2026-10-06T00:00:00.000Z"
     }
   },
-  "raw_bytes": 1076357,
+  "raw_bytes": 1076379,
   "row_count": 584,
-  "updated": "2026-10-15T11:20:37.068461+00:00"
+  "updated": "2026-10-15T16:53:42.804305+00:00"
 }
