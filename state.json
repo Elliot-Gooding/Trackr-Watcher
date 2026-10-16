@@ -294,6 +294,12 @@
       "name": "Trading Summer 2027 Internship",
       "openingDate": "2026-09-28T00:00:00.000Z"
     },
+    "9k018mi06l": {
+      "closingDate": "2026-10-16T00:00:00.000Z",
+      "company": "Orchard Global",
+      "name": "Summer 2027: Investment Team Summer Analyst",
+      "openingDate": "2026-10-16T00:00:00.000Z"
+    },
     "9xqxksw2z5": {
       "closingDate": null,
       "company": "Standard Bank",
@@ -955,10 +961,10 @@
       "openingDate": "2026-09-11T00:00:00.000Z"
     },
     "f8uxqtk1jy": {
-      "closingDate": null,
+      "closingDate": "2026-11-06T00:00:00.000Z",
       "company": "Atlanta Wealth",
-      "name": "Equity Analyst Internship, Asset Management",
-      "openingDate": null
+      "name": "Credit Analyst Internship Asset Management",
+      "openingDate": "2026-10-16T00:00:00.000Z"
     },
     "f9z38d0inb": {
       "closingDate": null,
@@ -1975,7 +1981,7 @@
       "openingDate": "2026-10-01T00:00:00.000Z"
     },
     "nws0cqrwfc": {
-      "closingDate": "2026-09-26T00:00:00.000Z",
+      "closingDate": "2026-10-23T00:00:00.000Z",
       "company": "Citi",
       "name": "Sales and Trading, Summer Analyst, 2027",
       "openingDate": "2026-09-01T00:00:00.000Z"
@@ -2668,7 +2674,7 @@
       "closingDate": null,
       "company": "DWS",
       "name": "2027 Summer Internships",
-      "openingDate": null
+      "openingDate": "2026-10-16T00:00:00.000Z"
     },
     "tgik24xlxt": {
       "closingDate": null,
@@ -2867,6 +2873,12 @@
       "company": "Fidelity International",
       "name": "Multi Asset Summer Internship 2027",
       "openingDate": "2026-09-15T00:00:00.000Z"
+    },
+    "v4sqj5xuxw": {
+      "closingDate": "2026-11-06T00:00:00.000Z",
+      "company": "Atlanta Wealth",
+      "name": "Internship - Credit Analyst - Hedge Fund",
+      "openingDate": "2026-10-16T00:00:00.000Z"
     },
     "v6k3opwunl": {
       "closingDate": "2026-10-11T00:00:00.000Z",
@@ -3505,7 +3517,7 @@
       "openingDate": "2026-10-06T00:00:00.000Z"
     }
   },
-  "raw_bytes": 1076379,
-  "row_count": 584,
-  "updated": "2026-10-16T11:15:26.986083+00:00"
+  "raw_bytes": 1080396,
+  "row_count": 586,
+  "updated": "2026-10-16T16:33:21.480902+00:00"
 }
