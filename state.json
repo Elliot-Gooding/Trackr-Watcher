@@ -192,6 +192,12 @@
       "name": "Investment Specialist - Alternatives - Internship",
       "openingDate": "2026-10-01T00:00:00.000Z"
     },
+    "4xw0znsp43": {
+      "closingDate": null,
+      "company": "ZS",
+      "name": "Strategy Insights & Planning Associate Intern - London 2027",
+      "openingDate": "2026-10-19T00:00:00.000Z"
+    },
     "5abmj8esbp": {
       "closingDate": "2026-11-29T00:00:00.000Z",
       "company": "MUFG",
@@ -702,6 +708,12 @@
       "name": "Internship Programme (Summer 2027)",
       "openingDate": null
     },
+    "czd9z3et76": {
+      "closingDate": null,
+      "company": "Citi",
+      "name": "Investment Banking - CEE, Summer Analyst, 2027",
+      "openingDate": "2026-10-19T00:00:00.000Z"
+    },
     "d52bzj049j": {
       "closingDate": "2026-10-06T00:00:00.000Z",
       "company": "NatWest Markets",
@@ -962,7 +974,7 @@
     },
     "f8uxqtk1jy": {
       "closingDate": "2026-10-17T00:00:00.000Z",
-      "company": "Atlanta Wealth",
+      "company": "Atlana Wealth",
       "name": "Credit Analyst Internship Asset Management",
       "openingDate": "2026-10-16T00:00:00.000Z"
     },
@@ -1149,7 +1161,7 @@
     "gzbfggud2m": {
       "closingDate": null,
       "company": "ZS",
-      "name": "Strategy Insights & Planning Associate - Intern",
+      "name": "Strategy Insights & Planning Consultant Intern 2027",
       "openingDate": null
     },
     "h09z175evi": {
@@ -1687,7 +1699,7 @@
       "openingDate": "2026-09-29T00:00:00.000Z"
     },
     "llcta31b4d": {
-      "closingDate": null,
+      "closingDate": "2026-10-18T00:00:00.000Z",
       "company": "Citi",
       "name": "Global Wealth, Summer Analyst, 2027",
       "openingDate": "2026-09-24T00:00:00.000Z"
@@ -2695,7 +2707,7 @@
       "openingDate": null
     },
     "tjsxna6mcl": {
-      "closingDate": null,
+      "closingDate": "2026-10-18T00:00:00.000Z",
       "company": "Citi",
       "name": "Financing, Summer Analyst, 2027",
       "openingDate": "2026-09-09T00:00:00.000Z"
@@ -2876,7 +2888,7 @@
     },
     "v4sqj5xuxw": {
       "closingDate": "2026-11-06T00:00:00.000Z",
-      "company": "Atlanta Wealth",
+      "company": "Atlana Wealth",
       "name": "Internship - Credit Analyst - Hedge Fund",
       "openingDate": "2026-10-16T00:00:00.000Z"
     },
@@ -3517,7 +3529,7 @@
       "openingDate": "2026-10-06T00:00:00.000Z"
     }
   },
-  "raw_bytes": 1080058,
-  "row_count": 586,
-  "updated": "2026-10-19T13:00:30.362577+00:00"
+  "raw_bytes": 1084202,
+  "row_count": 588,
+  "updated": "2026-10-19T19:51:36.797253+00:00"
 }
