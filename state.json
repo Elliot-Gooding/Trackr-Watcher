@@ -2599,10 +2599,10 @@
       "openingDate": "2026-10-10T00:00:00.000Z"
     },
     "sr9fyjnaeb": {
-      "closingDate": null,
+      "closingDate": "2026-10-28T00:00:00.000Z",
       "company": "Frontier Economics",
       "name": "2027 Economic Intern (Short-term)",
-      "openingDate": null
+      "openingDate": "2026-10-21T00:00:00.000Z"
     },
     "srsc0rbgrz": {
       "closingDate": null,
@@ -3535,7 +3535,7 @@
       "openingDate": "2026-10-06T00:00:00.000Z"
     }
   },
-  "raw_bytes": 1086089,
+  "raw_bytes": 1086361,
   "row_count": 589,
-  "updated": "2026-10-21T11:40:32.007348+00:00"
+  "updated": "2026-10-21T17:06:36.000460+00:00"
 }
