@@ -12,6 +12,12 @@
       "name": "2027 Quant Researcher Summer Internship",
       "openingDate": "2026-09-04T00:00:00.000Z"
     },
+    "0nkx8pshp7": {
+      "closingDate": null,
+      "company": "Cr\u00e9dit Agricole",
+      "name": "2027 Summer Internship - Distribution & Asset Rotation",
+      "openingDate": "2026-10-22T00:00:00.000Z"
+    },
     "0raizvznqa": {
       "closingDate": null,
       "company": "J.P. Morgan",
@@ -35,6 +41,12 @@
       "company": "Evercore",
       "name": "Private Funds Group Summer Internship (2027)",
       "openingDate": "2026-09-01T00:00:00.000Z"
+    },
+    "1ltmadbo5g": {
+      "closingDate": null,
+      "company": "Cr\u00e9dit Agricole",
+      "name": "2027 Summer Internship - Global Investment Banking",
+      "openingDate": "2026-10-22T00:00:00.000Z"
     },
     "1m174f8o7e": {
       "closingDate": null,
@@ -61,7 +73,7 @@
       "openingDate": "2026-08-31T00:00:00.000Z"
     },
     "248wrwzguu": {
-      "closingDate": null,
+      "closingDate": "2026-10-21T00:00:00.000Z",
       "company": "Royal London",
       "name": "2027 Summer Internship",
       "openingDate": "2026-10-06T00:00:00.000Z"
@@ -401,6 +413,12 @@
       "company": "Quantbot Technologies",
       "name": "Quantitative Researcher Internship - 2027",
       "openingDate": "2026-08-12T00:00:00.000Z"
+    },
+    "aoedw7uv7b": {
+      "closingDate": null,
+      "company": "Cr\u00e9dit Agricole",
+      "name": "2027 Summer Internship - Risk Department",
+      "openingDate": "2026-10-22T00:00:00.000Z"
     },
     "aou4ksbfee": {
       "closingDate": null,
@@ -984,6 +1002,12 @@
       "name": "Credit Analyst Internship Asset Management",
       "openingDate": "2026-10-16T00:00:00.000Z"
     },
+    "f9r5hurbal": {
+      "closingDate": null,
+      "company": "Cr\u00e9dit Agricole",
+      "name": "2027 Summer Internship - Global Markets Division",
+      "openingDate": "2026-10-22T00:00:00.000Z"
+    },
     "f9z38d0inb": {
       "closingDate": null,
       "company": "BlockTech",
@@ -997,7 +1021,7 @@
       "openingDate": null
     },
     "fcvsiigfi3": {
-      "closingDate": "2026-10-30T00:00:00.000Z",
+      "closingDate": "2026-10-22T00:00:00.000Z",
       "company": "XY Capital",
       "name": "2027 Summer Internship - Quant Research and Trading",
       "openingDate": "2026-09-04T00:00:00.000Z"
@@ -1361,6 +1385,12 @@
       "company": "Visa",
       "name": "Consulting & Analytics Intern",
       "openingDate": null
+    },
+    "ipf7709q64": {
+      "closingDate": null,
+      "company": "Cr\u00e9dit Agricole",
+      "name": "2027 Summer Internship - Corporate and Leveraged Finance",
+      "openingDate": "2026-10-22T00:00:00.000Z"
     },
     "iphvx1ttlp": {
       "closingDate": null,
@@ -2439,8 +2469,8 @@
     "rca9chywkl": {
       "closingDate": null,
       "company": "Cr\u00e9dit Agricole",
-      "name": "Summer Internship Programme 2027",
-      "openingDate": null
+      "name": "2027 Summer Internship - Coverage",
+      "openingDate": "2026-10-22T00:00:00.000Z"
     },
     "rcnjysntuc": {
       "closingDate": "2026-10-05T00:00:00.000Z",
@@ -2970,6 +3000,12 @@
       "name": "2027 Quant Masters Summer Programme",
       "openingDate": "2026-08-31T00:00:00.000Z"
     },
+    "vmm17b3zih": {
+      "closingDate": null,
+      "company": "Cr\u00e9dit Agricole",
+      "name": "2027 Summer Internship - International Trade and Transaction Banking",
+      "openingDate": "2026-10-22T00:00:00.000Z"
+    },
     "vmoxgl1hqi": {
       "closingDate": "2026-10-30T00:00:00.000Z",
       "company": "Hamilton Insurance Group",
@@ -3391,7 +3427,7 @@
       "openingDate": null
     },
     "ypb2f5egeo": {
-      "closingDate": "2026-11-20T00:00:00.000Z",
+      "closingDate": "2026-10-22T00:00:00.000Z",
       "company": "BNY Mellon",
       "name": "2027 Summer Internship Program - Investments",
       "openingDate": "2026-09-15T00:00:00.000Z"
@@ -3541,7 +3577,7 @@
       "openingDate": "2026-10-06T00:00:00.000Z"
     }
   },
-  "raw_bytes": 1088490,
-  "row_count": 590,
-  "updated": "2026-10-22T11:43:10.091645+00:00"
+  "raw_bytes": 1099822,
+  "row_count": 596,
+  "updated": "2026-10-22T17:05:26.952963+00:00"
 }
