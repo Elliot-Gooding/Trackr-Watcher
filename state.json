@@ -2094,6 +2094,12 @@
       "name": "Summer 2027 Transactions Intern",
       "openingDate": "2026-09-18T00:00:00.000Z"
     },
+    "ogo979opdr": {
+      "closingDate": "2026-12-01T00:00:00.000Z",
+      "company": "Castleton Commodities International",
+      "name": "Principal Investments Intern (Summer 2027)",
+      "openingDate": "2026-10-21T00:00:00.000Z"
+    },
     "oh7y43zboi": {
       "closingDate": null,
       "company": "NCR Atleos",
@@ -2986,7 +2992,7 @@
       "closingDate": null,
       "company": "Cambridge Associates",
       "name": "Investment Summer Analyst (Intern)",
-      "openingDate": null
+      "openingDate": "2026-10-22T00:00:00.000Z"
     },
     "vqgyeeo1db": {
       "closingDate": "2026-10-23T00:00:00.000Z",
@@ -3535,7 +3541,7 @@
       "openingDate": "2026-10-06T00:00:00.000Z"
     }
   },
-  "raw_bytes": 1086361,
-  "row_count": 589,
-  "updated": "2026-10-21T21:36:04.061857+00:00"
+  "raw_bytes": 1088490,
+  "row_count": 590,
+  "updated": "2026-10-22T11:43:10.091645+00:00"
 }
