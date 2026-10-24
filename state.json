@@ -2056,7 +2056,7 @@
       "closingDate": null,
       "company": "ICE",
       "name": "Summer Internship Program 2027",
-      "openingDate": null
+      "openingDate": "2026-10-24T00:00:00.000Z"
     },
     "o4ewmv15wn": {
       "closingDate": null,
@@ -3031,9 +3031,9 @@
       "openingDate": "2026-10-22T00:00:00.000Z"
     },
     "vqgyeeo1db": {
-      "closingDate": "2026-10-23T00:00:00.000Z",
+      "closingDate": "2026-10-25T00:00:00.000Z",
       "company": "Trackr",
-      "name": "Trackr Academy - Autumn 2026",
+      "name": "Trackr Academy - Autumn 2026 [FINAL REGISTRATIONS]",
       "openingDate": "2026-10-15T00:00:00.000Z"
     },
     "vrb6e3j24q": {
@@ -3577,7 +3577,7 @@
       "openingDate": "2026-10-06T00:00:00.000Z"
     }
   },
-  "raw_bytes": 1100226,
+  "raw_bytes": 1100452,
   "row_count": 596,
-  "updated": "2026-10-24T10:51:22.845638+00:00"
+  "updated": "2026-10-24T15:51:24.284692+00:00"
 }
