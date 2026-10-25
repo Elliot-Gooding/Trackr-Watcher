@@ -84,6 +84,12 @@
       "name": "Sustainable Investing Summer Internship 2027",
       "openingDate": "2026-09-15T00:00:00.000Z"
     },
+    "2hjll92was": {
+      "closingDate": null,
+      "company": "Charles River Associates",
+      "name": "2027 Policy Consulting Intern - Life Sciences",
+      "openingDate": "2026-10-25T00:00:00.000Z"
+    },
     "2z2l0yyhj5": {
       "closingDate": "2026-10-16T00:00:00.000Z",
       "company": "Blackstone",
@@ -3381,8 +3387,8 @@
     "yayxb49x20": {
       "closingDate": null,
       "company": "Charles River Associates",
-      "name": "Intern - Summer 2027",
-      "openingDate": null
+      "name": "2027 Strategy Consulting Intern - Life Sciences",
+      "openingDate": "2026-10-25T00:00:00.000Z"
     },
     "ygixj2sl5h": {
       "closingDate": "2026-10-05T00:00:00.000Z",
@@ -3577,7 +3583,7 @@
       "openingDate": "2026-10-06T00:00:00.000Z"
     }
   },
-  "raw_bytes": 1100452,
-  "row_count": 596,
-  "updated": "2026-10-25T11:17:12.173628+00:00"
+  "raw_bytes": 1102572,
+  "row_count": 597,
+  "updated": "2026-10-25T16:06:59.151816+00:00"
 }
