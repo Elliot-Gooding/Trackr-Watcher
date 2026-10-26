@@ -3205,10 +3205,10 @@
       "openingDate": "2026-09-29T00:00:00.000Z"
     },
     "x363ei4n3e": {
-      "closingDate": null,
+      "closingDate": "2026-11-10T00:00:00.000Z",
       "company": "Aegon",
       "name": "Actuarial Intern (Summer 2027)",
-      "openingDate": null
+      "openingDate": "2026-10-26T00:00:00.000Z"
     },
     "x3ops1ftx9": {
       "closingDate": null,
@@ -3601,7 +3601,7 @@
       "openingDate": "2026-10-06T00:00:00.000Z"
     }
   },
-  "raw_bytes": 1109988,
+  "raw_bytes": 1110255,
   "row_count": 600,
-  "updated": "2026-10-26T19:53:08.383580+00:00"
+  "updated": "2026-10-26T23:49:10.698380+00:00"
 }
