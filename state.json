@@ -1506,6 +1506,12 @@
       "name": "Summer Internship C&IB",
       "openingDate": null
     },
+    "jpcvr5m1me": {
+      "closingDate": "2026-11-19T00:00:00.000Z",
+      "company": "FTI Consulting",
+      "name": "2027 Summer Internship, Strategic Communications",
+      "openingDate": "2026-10-26T00:00:00.000Z"
+    },
     "jpmj3ezzzo": {
       "closingDate": "2026-10-13T00:00:00.000Z",
       "company": "Howden",
@@ -2251,10 +2257,10 @@
       "openingDate": "2026-09-15T00:00:00.000Z"
     },
     "ptdp3w0lho": {
-      "closingDate": null,
+      "closingDate": "2026-11-19T00:00:00.000Z",
       "company": "FTI Consulting",
-      "name": "2027 Summer Internship",
-      "openingDate": null
+      "name": "2027 Summer Internship, Tax Advisory",
+      "openingDate": "2026-10-26T00:00:00.000Z"
     },
     "pu71fibo0k": {
       "closingDate": "2026-10-05T00:00:00.000Z",
@@ -3210,6 +3216,12 @@
       "name": "Summer Trading Internship",
       "openingDate": "2026-10-08T00:00:00.000Z"
     },
+    "x6gdvl83lo": {
+      "closingDate": "2026-11-19T00:00:00.000Z",
+      "company": "FTI Consulting",
+      "name": "2027 Summer Internship, TMT Business Transformation, Corporate Finance",
+      "openingDate": "2026-10-26T00:00:00.000Z"
+    },
     "x6yry9961v": {
       "closingDate": null,
       "company": "Soros Fund Management",
@@ -3299,6 +3311,12 @@
       "company": "Macquarie Group",
       "name": "2027 Risk Management Group Summer Internship Programme",
       "openingDate": "2026-09-01T00:00:00.000Z"
+    },
+    "xojuu49l19": {
+      "closingDate": "2026-11-19T00:00:00.000Z",
+      "company": "FTI Consulting",
+      "name": "2027 Summer Internship, Economic & Financial Consulting",
+      "openingDate": "2026-10-26T00:00:00.000Z"
     },
     "xol1zhqfwc": {
       "closingDate": "2026-10-16T00:00:00.000Z",
@@ -3583,7 +3601,7 @@
       "openingDate": "2026-10-06T00:00:00.000Z"
     }
   },
-  "raw_bytes": 1102572,
-  "row_count": 597,
-  "updated": "2026-10-25T22:30:34.495206+00:00"
+  "raw_bytes": 1109988,
+  "row_count": 600,
+  "updated": "2026-10-26T12:50:34.523697+00:00"
 }
