@@ -1992,6 +1992,12 @@
       "name": "Finance Intern 2027",
       "openingDate": "2026-08-28T00:00:00.000Z"
     },
+    "nhgwemeg2i": {
+      "closingDate": null,
+      "company": "Graviton",
+      "name": "Quantitative Researcher - 2027 Summer Internship",
+      "openingDate": "2026-10-27T00:00:00.000Z"
+    },
     "niw3zsn28z": {
       "closingDate": null,
       "company": "Gartner",
@@ -3601,7 +3607,7 @@
       "openingDate": "2026-10-06T00:00:00.000Z"
     }
   },
-  "raw_bytes": 1110255,
-  "row_count": 600,
-  "updated": "2026-10-27T12:01:57.178833+00:00"
+  "raw_bytes": 1112023,
+  "row_count": 601,
+  "updated": "2026-10-27T17:55:50.922938+00:00"
 }
