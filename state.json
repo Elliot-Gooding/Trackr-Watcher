@@ -270,6 +270,12 @@
       "name": "2027 Internal Audit Summer Analyst Programme",
       "openingDate": "2026-09-07T00:00:00.000Z"
     },
+    "6xgkcen2h8": {
+      "closingDate": "2026-12-20T00:00:00.000Z",
+      "company": "M&G",
+      "name": "Asset Management: Equities Internship",
+      "openingDate": "2026-11-06T00:00:00.000Z"
+    },
     "6z9ln5e52v": {
       "closingDate": null,
       "company": "TP ICAP",
@@ -281,6 +287,12 @@
       "company": "Deutsche Bank",
       "name": "Investment Banking (UK Coverage) Internship Programme",
       "openingDate": "2026-09-04T00:00:00.000Z"
+    },
+    "74et96nfyb": {
+      "closingDate": "2027-02-01T00:00:00.000Z",
+      "company": "Lloyds Banking Group",
+      "name": "Consumer Internship",
+      "openingDate": "2026-11-03T00:00:00.000Z"
     },
     "7emdlydj15": {
       "closingDate": "2026-10-12T00:00:00.000Z",
@@ -523,10 +535,10 @@
       "openingDate": "2026-08-20T00:00:00.000Z"
     },
     "b5izv0o14h": {
-      "closingDate": null,
+      "closingDate": "2026-12-28T00:00:00.000Z",
       "company": "M&G",
-      "name": "Summer Internship",
-      "openingDate": null
+      "name": "Finance Internship",
+      "openingDate": "2026-11-03T00:00:00.000Z"
     },
     "b685b4st7k": {
       "closingDate": "2026-10-09T00:00:00.000Z",
@@ -1081,10 +1093,10 @@
       "openingDate": null
     },
     "fiopvw973y": {
-      "closingDate": null,
+      "closingDate": "2027-02-01T00:00:00.000Z",
       "company": "Lloyds Banking Group",
-      "name": "Summer Internship 2027",
-      "openingDate": null
+      "name": "Actuarial Intern",
+      "openingDate": "2026-11-03T00:00:00.000Z"
     },
     "fkdve7jxf5": {
       "closingDate": null,
@@ -1121,6 +1133,12 @@
       "company": "Aquatic Capital Management",
       "name": "Quantitative Researcher, Intern (Summer 2027)",
       "openingDate": "2026-04-04T00:00:00.000Z"
+    },
+    "ftem3o41zb": {
+      "closingDate": "2026-12-22T00:00:00.000Z",
+      "company": "Lloyds Banking Group",
+      "name": "Corporate Banking & Markets Internship",
+      "openingDate": "2026-11-05T00:00:00.000Z"
     },
     "fv4i0rsutg": {
       "closingDate": null,
@@ -1531,10 +1549,10 @@
       "openingDate": "2026-09-07T00:00:00.000Z"
     },
     "jp01p6e92w": {
-      "closingDate": null,
+      "closingDate": "2026-11-02T00:00:00.000Z",
       "company": "BBVA",
-      "name": "Summer Internship C&IB",
-      "openingDate": null
+      "name": "Summer Internship \u2013 Corporate & Investment Banking",
+      "openingDate": "2026-10-28T00:00:00.000Z"
     },
     "jpcvr5m1me": {
       "closingDate": "2026-11-19T00:00:00.000Z",
@@ -1607,6 +1625,12 @@
       "company": "EBRD",
       "name": "Summer Intern, Economics",
       "openingDate": null
+    },
+    "k5bi599khv": {
+      "closingDate": "2027-02-01T00:00:00.000Z",
+      "company": "Lloyds Banking Group",
+      "name": "Business & Commercial Banking Internship",
+      "openingDate": "2026-11-03T00:00:00.000Z"
     },
     "k8asf1h97h": {
       "closingDate": null,
@@ -1957,10 +1981,10 @@
       "openingDate": "2026-10-15T00:00:00.000Z"
     },
     "my8ncwbg9k": {
-      "closingDate": null,
+      "closingDate": "2027-01-15T00:00:00.000Z",
       "company": "STJ Advisors",
       "name": "Summer Internship Program 2027",
-      "openingDate": null
+      "openingDate": "2026-11-03T00:00:00.000Z"
     },
     "n4lovdn4mr": {
       "closingDate": null,
@@ -1973,6 +1997,12 @@
       "company": "ExodusPoint",
       "name": "Quant Internship 2027",
       "openingDate": null
+    },
+    "n5kh27fxos": {
+      "closingDate": "2026-12-31T00:00:00.000Z",
+      "company": "M&G",
+      "name": "Asset Management: COO Internship",
+      "openingDate": "2026-11-06T00:00:00.000Z"
     },
     "n7h54udm76": {
       "closingDate": "2026-10-03T00:00:00.000Z",
@@ -2100,6 +2130,12 @@
       "name": "Quantitative Trading Internship: Summer 2027",
       "openingDate": "2026-07-15T00:00:00.000Z"
     },
+    "o11ofpk9ji": {
+      "closingDate": "2026-12-20T00:00:00.000Z",
+      "company": "M&G",
+      "name": "Asset Management: Private Markets Internship",
+      "openingDate": "2026-11-06T00:00:00.000Z"
+    },
     "o1vkdelshm": {
       "closingDate": null,
       "company": "ICE",
@@ -2141,6 +2177,12 @@
       "company": "Pharus",
       "name": "Investment Banking Summer Analyst - 2027",
       "openingDate": null
+    },
+    "obbqudciiw": {
+      "closingDate": "2026-12-31T00:00:00.000Z",
+      "company": "M&G",
+      "name": "Asset Management: Client Group & Product Internship",
+      "openingDate": "2026-11-06T00:00:00.000Z"
     },
     "obqddd0qpj": {
       "closingDate": null,
@@ -2346,6 +2388,12 @@
       "name": "Quantitative Reseacher - Intern",
       "openingDate": "2026-07-02T00:00:00.000Z"
     },
+    "q1kycus4zg": {
+      "closingDate": null,
+      "company": "Hasbro",
+      "name": "2027 Summer Internships - Finance",
+      "openingDate": "2026-11-04T00:00:00.000Z"
+    },
     "q4piys5lsr": {
       "closingDate": "2026-10-14T00:00:00.000Z",
       "company": "Evercore",
@@ -2544,6 +2592,12 @@
       "name": "2027 Summer Intern - Product Analyst",
       "openingDate": "2026-08-31T00:00:00.000Z"
     },
+    "rev290n0ei": {
+      "closingDate": "2026-12-20T00:00:00.000Z",
+      "company": "M&G",
+      "name": "Asset Management: Public Fixed Income Internship",
+      "openingDate": "2026-11-06T00:00:00.000Z"
+    },
     "rfey4f7mgn": {
       "closingDate": null,
       "company": "Allied World",
@@ -2557,10 +2611,10 @@
       "openingDate": null
     },
     "rn0va6jde6": {
-      "closingDate": null,
+      "closingDate": "2026-11-05T00:00:00.000Z",
       "company": "Marsh McLennan",
-      "name": "Summer Internship 2027",
-      "openingDate": null
+      "name": "Global Investments 2027 Summer Internship Programme",
+      "openingDate": "2026-11-04T00:00:00.000Z"
     },
     "rsz7tz9ngy": {
       "closingDate": "2026-10-16T00:00:00.000Z",
@@ -2815,10 +2869,10 @@
       "openingDate": null
     },
     "tjm45wt1ka": {
-      "closingDate": null,
+      "closingDate": "2026-12-01T00:00:00.000Z",
       "company": "Arch Insurance International",
-      "name": "2027 Summer Internship",
-      "openingDate": null
+      "name": "Actuarial Summer Internship - 2027",
+      "openingDate": "2026-11-03T00:00:00.000Z"
     },
     "tjsxna6mcl": {
       "closingDate": "2026-10-15T00:00:00.000Z",
@@ -2857,10 +2911,10 @@
       "openingDate": "2026-09-23T00:00:00.000Z"
     },
     "tsta2emevr": {
-      "closingDate": null,
+      "closingDate": "2027-01-31T00:00:00.000Z",
       "company": "Financial Conduct Authority",
       "name": "2027 Summer Internship",
-      "openingDate": null
+      "openingDate": "2026-11-03T00:00:00.000Z"
     },
     "ttip3y3fi6": {
       "closingDate": null,
@@ -2890,7 +2944,7 @@
       "closingDate": null,
       "company": "S&W",
       "name": "Internship Programme - July 2027",
-      "openingDate": null
+      "openingDate": "2026-11-03T00:00:00.000Z"
     },
     "u6u7g8623u": {
       "closingDate": null,
@@ -3102,12 +3156,6 @@
       "name": "Investment Summer Analyst (Intern)",
       "openingDate": "2026-10-22T00:00:00.000Z"
     },
-    "vqgyeeo1db": {
-      "closingDate": "2026-10-24T00:00:00.000Z",
-      "company": "Trackr",
-      "name": "Trackr Academy - Autumn 2026 [FINAL REGISTRATIONS]",
-      "openingDate": "2026-10-14T00:00:00.000Z"
-    },
     "vrb6e3j24q": {
       "closingDate": null,
       "company": "Cushman & Wakefield",
@@ -3229,10 +3277,10 @@
       "openingDate": null
     },
     "wejolky8ln": {
-      "closingDate": null,
+      "closingDate": "2026-12-10T00:00:00.000Z",
       "company": "Aon",
       "name": "Aon Summer Internship Programme 2027",
-      "openingDate": null
+      "openingDate": "2026-11-07T00:00:00.000Z"
     },
     "wf05enxp1m": {
       "closingDate": null,
@@ -3507,8 +3555,8 @@
     "ymu5cwti74": {
       "closingDate": null,
       "company": "AlphaSights",
-      "name": "Insight Days, Client Service",
-      "openingDate": null
+      "name": "Insight Days, Client Service, 2027",
+      "openingDate": "2026-11-04T00:00:00.000Z"
     },
     "ynef8w3hac": {
       "closingDate": null,
@@ -3648,6 +3696,12 @@
       "name": "Internship 2027",
       "openingDate": null
     },
+    "zuu5rk2ffx": {
+      "closingDate": null,
+      "company": "Hasbro",
+      "name": "2027 Summer Internships - Commercial",
+      "openingDate": "2026-11-04T00:00:00.000Z"
+    },
     "zvz2wbd9sk": {
       "closingDate": "2026-09-21T00:00:00.000Z",
       "company": "InfraRed Capital Partners",
@@ -3667,7 +3721,7 @@
       "openingDate": "2026-10-06T00:00:00.000Z"
     }
   },
-  "raw_bytes": 1129576,
-  "row_count": 611,
-  "updated": "2026-11-05T21:57:31.638183+00:00"
+  "raw_bytes": 1151345,
+  "row_count": 620,
+  "updated": "2026-11-06T14:10:42.380435+00:00"
 }
