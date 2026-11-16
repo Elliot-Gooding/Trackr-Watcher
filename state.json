@@ -366,6 +366,12 @@
       "name": "Summer 2027: Investment Team Summer Analyst",
       "openingDate": "2026-10-21T00:00:00.000Z"
     },
+    "9lnktlwn9h": {
+      "closingDate": "2027-01-12T00:00:00.000Z",
+      "company": "St James's Place",
+      "name": "2027 Investment Internship Programme",
+      "openingDate": "2026-11-20T00:00:00.000Z"
+    },
     "9xqxksw2z5": {
       "closingDate": null,
       "company": "Standard Bank",
@@ -1243,10 +1249,10 @@
       "openingDate": null
     },
     "h09z175evi": {
-      "closingDate": null,
+      "closingDate": "2026-12-04T00:00:00.000Z",
       "company": "Bank of England",
-      "name": "Penultimate Year Internship Programme",
-      "openingDate": null
+      "name": "2027 Summer Internship Programme",
+      "openingDate": "2026-11-16T00:00:00.000Z"
     },
     "h141nmytwp": {
       "closingDate": null,
@@ -1878,12 +1884,6 @@
       "name": "Spring into Quant Finance 2027",
       "openingDate": "2026-09-01T00:00:00.000Z"
     },
-    "m175wbwe1c": {
-      "closingDate": null,
-      "company": "Bastion Trading",
-      "name": "Trading & Quant Summer Internship 2027",
-      "openingDate": null
-    },
     "m2eww31v2k": {
       "closingDate": null,
       "company": "Goldman Sachs",
@@ -1987,7 +1987,7 @@
       "openingDate": "2026-10-15T00:00:00.000Z"
     },
     "my8ncwbg9k": {
-      "closingDate": "2027-01-15T00:00:00.000Z",
+      "closingDate": "2026-11-15T00:00:00.000Z",
       "company": "STJ Advisors",
       "name": "Summer Internship Program 2027",
       "openingDate": "2026-11-03T00:00:00.000Z"
@@ -2785,10 +2785,10 @@
       "openingDate": null
     },
     "svx4anr7pi": {
-      "closingDate": null,
+      "closingDate": "2026-11-19T00:00:00.000Z",
       "company": "BMLL",
-      "name": "Junior Quantitative Analyst Internship - Summer 2027",
-      "openingDate": null
+      "name": "Internship - Junior Quantitative Analyst",
+      "openingDate": "2026-11-13T00:00:00.000Z"
     },
     "sy130gmptk": {
       "closingDate": "2026-11-29T00:00:00.000Z",
@@ -3279,8 +3279,8 @@
     "we02sc45ng": {
       "closingDate": null,
       "company": "MFS",
-      "name": "Equity Research Analyst Intern",
-      "openingDate": null
+      "name": "Summer 2027 Global Client Service Intern",
+      "openingDate": "2026-11-12T00:00:00.000Z"
     },
     "wejolky8ln": {
       "closingDate": "2026-12-10T00:00:00.000Z",
@@ -3733,7 +3733,7 @@
       "openingDate": "2026-10-06T00:00:00.000Z"
     }
   },
-  "raw_bytes": 1156318,
+  "raw_bytes": 1157485,
   "row_count": 622,
-  "updated": "2026-11-15T23:56:34.590579+00:00"
+  "updated": "2026-11-16T15:35:01.829946+00:00"
 }
