@@ -397,10 +397,10 @@
       "openingDate": null
     },
     "a4f0hws2s1": {
-      "closingDate": null,
+      "closingDate": "2026-12-05T00:00:00.000Z",
       "company": "AXA",
       "name": "2027 Summer Internship",
-      "openingDate": null
+      "openingDate": "2026-11-23T00:00:00.000Z"
     },
     "a69wnq98uh": {
       "closingDate": "2026-09-27T00:00:00.000Z",
@@ -793,7 +793,7 @@
       "openingDate": "2026-10-19T00:00:00.000Z"
     },
     "d52bzj049j": {
-      "closingDate": "2026-11-14T00:00:00.000Z",
+      "closingDate": null,
       "company": "NatWest Markets",
       "name": "NatWest Markets - Quantitative Analytics - Internship",
       "openingDate": "2026-09-24T00:00:00.000Z"
@@ -997,10 +997,10 @@
       "openingDate": null
     },
     "etpr8cn8rs": {
-      "closingDate": null,
+      "closingDate": "2026-12-23T00:00:00.000Z",
       "company": "RSM",
       "name": "Internship 2027",
-      "openingDate": null
+      "openingDate": "2026-11-25T00:00:00.000Z"
     },
     "ewjyw2o5q9": {
       "closingDate": null,
@@ -1357,10 +1357,10 @@
       "openingDate": "2026-09-18T00:00:00.000Z"
     },
     "i6vyr5sh3x": {
-      "closingDate": null,
+      "closingDate": "2027-01-06T00:00:00.000Z",
       "company": "Nationwide",
       "name": "2027 Summer Internship",
-      "openingDate": null
+      "openingDate": "2026-11-24T00:00:00.000Z"
     },
     "i9me7pn62l": {
       "closingDate": null,
@@ -1554,6 +1554,12 @@
       "name": "Summer Intern, Corporate Finance",
       "openingDate": null
     },
+    "jljb00i9sx": {
+      "closingDate": "2026-11-25T00:00:00.000Z",
+      "company": "BMO Capital Markets",
+      "name": "Global Markets Summer Analyst Program",
+      "openingDate": "2026-11-23T00:00:00.000Z"
+    },
     "jmomi39y30": {
       "closingDate": null,
       "company": "Westgrove",
@@ -1714,7 +1720,7 @@
       "closingDate": null,
       "company": "First Wealth",
       "name": "Summer Internship 2027",
-      "openingDate": null
+      "openingDate": "2026-11-25T00:00:00.000Z"
     },
     "koc5rdttpk": {
       "closingDate": "2026-10-23T00:00:00.000Z",
@@ -3379,10 +3385,10 @@
       "openingDate": null
     },
     "xefxdf6yog": {
-      "closingDate": null,
+      "closingDate": "2027-01-03T00:00:00.000Z",
       "company": "Severn Trent",
-      "name": "Finance Summer Placement",
-      "openingDate": null
+      "name": "Summer Placement - Finance",
+      "openingDate": "2026-11-23T00:00:00.000Z"
     },
     "xetcazb7wg": {
       "closingDate": null,
@@ -3655,10 +3661,10 @@
       "openingDate": "2026-08-18T00:00:00.000Z"
     },
     "zbyismcu8o": {
-      "closingDate": null,
+      "closingDate": "2027-01-21T00:00:00.000Z",
       "company": "Plural Strategy",
       "name": "Strategy Consulting Intern",
-      "openingDate": null
+      "openingDate": "2026-11-25T00:00:00.000Z"
     },
     "zdngpioe4z": {
       "closingDate": null,
@@ -3675,7 +3681,7 @@
     "zld4199meu": {
       "closingDate": "2026-10-08T00:00:00.000Z",
       "company": "BMO Capital Markets",
-      "name": "2027 Investment Banking Summer Intern",
+      "name": "Investment Banking Summer Intern",
       "openingDate": "2026-10-02T00:00:00.000Z"
     },
     "zm17cu7kxl": {
@@ -3739,7 +3745,7 @@
       "openingDate": "2026-10-06T00:00:00.000Z"
     }
   },
-  "raw_bytes": 1159739,
-  "row_count": 623,
-  "updated": "2026-11-26T01:44:50.230609+00:00"
+  "raw_bytes": 1163560,
+  "row_count": 624,
+  "updated": "2026-11-26T16:46:56.940984+00:00"
 }
